@@ -1,0 +1,10 @@
+Spotify Top 1000 Tracks Analysis Report
+==================================================
+
+Best Regression Model: Random Forest
+Best Classification Model: Random Forest
+
+Key Insights:
+- Newer tracks tend to be more popular
+- Release year is the most important feature
+- Popularity distribution is right-skewed
