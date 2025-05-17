@@ -1,0 +1,978 @@
+track_name,artist,album,release_date,popularity,spotify_url,id,duration_min,release_year,track_name_encoded,artist_encoded,album_encoded
+All The Stars (with SZA),Kendrick Lamar,Black Panther The Album Music From And Inspired By,2018-02-09,95,https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s,3GCdLUSnKSMJhs4Tj6CV3s,6.449611111111112e-05,2018,31,247,101
+Starboy,The Weeknd,Starboy,2016-11-25,90,https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB,7MXVkk9YMctZqd1Srtv4MB,6.401472222222223e-05,2016,699,454,612
+Señorita,Shawn Mendes,Señorita,2019-06-21,80,https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik,0TK2YIli7K1leLovkQiNik,5.3044444444444446e-05,2019,660,414,582
+Heat Waves,Glass Animals,Dreamland,2020-08-07,87,https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp,3USxtqRwSYz57Ewm6wWRMp,6.633472222222222e-05,2020,308,177,190
+Let Me Love You,DJ Snake,Encore,2016-08-05,87,https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU,0lYBSQXN6rCTvUZvg9S0lU,5.7207222222222214e-05,2016,431,119,198
+La La La,Naughty Boy,La La La,2013-01-01,77,https://open.spotify.com/track/52gvlDnre9craz9dKGObp8,52gvlDnre9craz9dKGObp8,6.13275e-05,2013,418,330,378
+Apocalypse,Cigarettes After Sex,Cigarettes After Sex,2017-06-09,73,https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX,0yc6Gst2xkRu0eMLeRMGCX,8.072666666666667e-05,2017,43,106,131
+Good For You,Selena Gomez,Revival (Deluxe),2015-10-09,80,https://open.spotify.com/track/5xdVqHtFS0eLuNp4Z8Wbpa,5xdVqHtFS0eLuNp4Z8Wbpa,6.146666666666667e-05,2015,288,410,554
+Baby,Justin Bieber,My World 2.0,2010-01-01,84,https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA,6epn3r7S14KUqlReYr77hA,5.9511111111111116e-05,2010,58,233,458
+There's Nothing Holdin' Me Back,Shawn Mendes,Illuminate (Deluxe),2017-04-20,88,https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml,7JJmb5XwzOO8jgpou264Ml,5.54e-05,2017,767,414,336
+Believer,Imagine Dragons,Evolve,2017-06-23,88,https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP,0pqnGHJpmpxLKifKRmU6WP,5.6762777777777773e-05,2017,83,200,207
+Love Me Like You Do,Ellie Goulding,Fifty Shades Freed (Original Motion Picture Soundtrack),2018-02-09,81,https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP,0Cy7wt6IlRfBPHXXjmZbcP,7.042222222222223e-05,2018,461,153,231
+Summertime Sadness,Lana Del Rey,Born To Die - The Paradise Edition,2012-01-01,85,https://open.spotify.com/track/3BJe4B8zGnqEdQPMvfVjuS,3BJe4B8zGnqEdQPMvfVjuS,7.372972222222222e-05,2012,724,261,112
+Treat You Better,Shawn Mendes,Illuminate,2017-04-20,86,https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd,3QGsuHI8jO1Rx4JWLUh9jd,5.221472222222222e-05,2017,784,414,335
+Blinding Lights,The Weeknd,Blinding Lights,2020-09-11,63,https://open.spotify.com/track/6qYkmqFsXbj8CQjAdbYz07,6qYkmqFsXbj8CQjAdbYz07,5.556805555555555e-05,2020,97,454,103
+Jalebi Baby (Tesher x Jason Derulo),Tesher,Jalebi Baby (Tesher x Jason Derulo),2021-05-28,68,https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8,6FvSS3Goz7OC8oCC2eWqe8,4.6987222222222214e-05,2021,397,441,359
+Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),2018-12-14,83,https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P,3KkXRkHbMCARz0aVfEt68P,4.3899999999999996e-05,2018,727,368,609
+Despacito,Luis Fonsi,VIDA,2019-02-01,82,https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb,6habFhsOp2NvshLv26DqMb,6.37111111111111e-05,2019,182,283,718
+Sorry,Justin Bieber,Purpose (Deluxe),2015-11-13,86,https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF,09CtPGIpYB4BrO8qb1RGsF,5.577388888888889e-05,2015,692,233,536
+Die For You,The Weeknd,Starboy,2016-11-25,81,https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz,2Ch7LmS7r2Gy2kc64wv3Bz,7.229222222222222e-05,2016,186,454,612
+No Lie,Sean Paul,Mad Love The Prequel,2018-06-29,84,https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA,48QmG1dfvMuYLxMPt7KSRA,6.143777777777777e-05,2018,541,409,414
+Mockingbird,Eminem,Encore (Deluxe Version),2004-11-12,87,https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s,561jH07mF1jHuk7KlaeF0s,6.965555555555555e-05,2004,510,156,199
+Ransom,Lil Tecca,We Love You Tecca,2019-08-30,87,https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO,1lOe9qE0vR9zwWQAOk6CoO,3.6455555555555555e-05,2019,617,273,730
+Lover,Taylor Swift,Lover,2019-08-23,86,https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI,1dGr1c8CrMLDpV6mPbImSI,6.147388888888889e-05,2019,470,438,407
+Save Your Tears,The Weeknd,After Hours,2020-03-20,87,https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g,5QO79kh1waicV47BqGRL3g,5.989611111111111e-05,2020,651,454,33
+On The Floor,Jennifer Lopez,Love?,2011-04-29,83,https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN,3C0nOe05EIt1390bVABLyN,7.912944444444444e-05,2011,558,219,406
+Diet Mountain Dew,Lana Del Rey,Born To Die - The Paradise Edition,2012-01-01,79,https://open.spotify.com/track/2vtmY2mSccRzKGjtcHSzI3,2vtmY2mSccRzKGjtcHSzI3,6.192222222222221e-05,2012,187,261,112
+Harleys In Hawaii,Katy Perry,Harleys In Hawaii,2019-10-16,72,https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR,5nCthAh3jt4xKuLJAifAaR,5.1615277777777776e-05,2019,300,243,274
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",DJ Snake,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",2018-09-28,73,https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM,4w8niZpiMy6qz1mntFA5uM,5.902777777777777e-05,2018,741,119,643
+One Dance,Drake,Views,2016-05-06,62,https://open.spotify.com/track/5ZKG94fnjiuMH5yrC5S9lS,5ZKG94fnjiuMH5yrC5S9lS,4.832583333333334e-05,2016,559,142,719
+Counting Stars,OneRepublic,Native,2013-01-01,88,https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1,2tpWsVSb9UEmDRxAl1zhX1,7.14625e-05,2013,150,353,462
+lovely (with Khalid),Billie Eilish,lovely (with Khalid),2018-04-19,89,https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4,0u2P5u6lvoDfwTYjAADbn4,5.560694444444444e-05,2018,885,70,787
+Reminder,The Weeknd,Starboy,2016-11-25,84,https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI,37F0uwRSrdzkBiuj0D5UHI,6.08e-05,2016,624,454,612
+Without Me,Eminem,The Eminem Show,2002-05-26,89,https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk,7lQ8MOhq6IN2w8EYcFNSUk,8.064444444444445e-05,2002,843,156,665
+Cruel Summer,Taylor Swift,Lover,2019-08-23,90,https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr,1BxfuPKGuaTgP7aM0Bbdwr,4.9562777777777775e-05,2019,154,438,407
+The Nights,Avicii,The Days / Nights,2014-01-01,86,https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc,0ct6r3EGTcMLPtrXHDvVjc,4.9071666666666666e-05,2014,763,46,664
+Animals,Maroon 5,V (Asia Tour Edition),2015-05-18,74,https://open.spotify.com/track/3h4T9Bg8OVSUYa6danHeH5,3h4T9Bg8OVSUYa6danHeH5,6.417027777777778e-05,2015,40,306,717
+After Hours,The Weeknd,After Hours,2020-03-20,83,https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag,2p8IUWQDrpjuFltbdgLOag,0.000100285,2020,20,454,33
+Sunsetz,Cigarettes After Sex,Cigarettes After Sex,2017-06-09,69,https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4,0SpkyS1Q4MD8GaVcP5YjT4,5.976388888888888e-05,2017,729,106,131
+Say Yes To Heaven,Lana Del Rey,Say Yes To Heaven,2023-05-19,86,https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe,6GGtHZgBycCgGBUhZo81xe,5.809888888888889e-05,2023,653,261,575
+Memories,Maroon 5,JORDI (Deluxe),2021-06-11,85,https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI,4cktbXiXOapiLBMprHFErI,5.2635e-05,2021,500,306,357
+Blank Space,Taylor Swift,1989 (Deluxe),2014-01-01,83,https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g,1u8c2t2Cy7UBoG4ArRcF5g,6.439611111111111e-05,2014,95,438,8
+Bones,Imagine Dragons,Bones,2022-03-11,77,https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G,0HqZX76SFLDz2aW8aiqi7G,4.5906666666666665e-05,2022,101,200,109
+K.,Cigarettes After Sex,K.,2016-11-15,41,https://open.spotify.com/track/3Mlhgm39yBpuCwyZB8d8Md,3Mlhgm39yBpuCwyZB8d8Md,8.876666666666666e-05,2016,405,106,366
+Danza Kuduro,Don Omar,Meet The Orphans,2010-01-01,79,https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg,6DXLO8LndZMVOHM0wNbpzg,5.521833333333333e-05,2010,173,139,432
+Ghost,Justin Bieber,Justice,2021-03-19,85,https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G,6I3mqTwhRpn34SLVafSH7G,4.255277777777778e-05,2021,269,233,364
+Circles,Post Malone,Hollywood's Bleeding,2019-09-06,87,https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb,21jGcNKet2qwijlDFuPiPb,5.9800000000000003e-05,2019,135,368,292
+Thunder,Imagine Dragons,Evolve,2017-06-23,86,https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB,1zB4vmk8tFRmM9UULNzbLB,5.1985e-05,2017,772,200,207
+Cry,Cigarettes After Sex,Cry,2019-10-25,75,https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw,3p4hRhMcb6ch8OLtATMaLw,7.133305555555555e-05,2019,155,106,146
+God's Plan,Drake,Scorpion,2018-06-29,84,https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn,6DCZcSspjsKoFjzjrWoCdn,5.5270277777777774e-05,2018,285,142,577
+Young And Beautiful,Lana Del Rey,Young And Beautiful,2013-01-01,88,https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9,2nMeu6UenVvwUktBCpLMK9,6.557027777777777e-05,2013,862,261,766
+Call Out My Name,The Weeknd,"My Dear Melancholy,",2018-03-30,86,https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN,09mEdoA6zrmBPgTEN5qXmN,6.343694444444445e-05,2018,121,454,451
+Demons,Imagine Dragons,Night Visions,2012-09-04,85,https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR,5qaEfEh1AtSdrdrByCP7qR,4.930722222222221e-05,2012,179,200,469
+Hurts So Good,Astrid S,Astrid S,2016-05-20,70,https://open.spotify.com/track/46ydq5g3k17iLJs3qMDvO6,46ydq5g3k17iLJs3qMDvO6,5.7980000000000004e-05,2016,332,43,61
+The Hills,The Weeknd,Beauty Behind The Madness,2015-08-28,87,https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB,7fBv7CLKzipRk6EC6TWHOB,6.729250000000001e-05,2015,758,454,90
+Arcade,Duncan Laurence,Arcade,2019-03-07,77,https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD,1Xi84slp6FryDSCbzq4UCD,5.100666666666667e-05,2019,45,145,55
+Love Yourself,Justin Bieber,Purpose (Deluxe),2015-11-13,86,https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0,50kpGaPAhYJ3sGmk6vplg0,6.492222222222222e-05,2015,469,233,536
+Hope,XXXTENTACION,?,2018-03-16,84,https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah,2ZRo7axmMPeSVUvDbGkJah,3.080166666666667e-05,2018,323,480,17
+Elastic Heart,Sia,1000 Forms Of Fear,2014-07-04,81,https://open.spotify.com/track/6kwAbEjseqBob48jCus7Sz,6kwAbEjseqBob48jCus7Sz,7.144444444444445e-05,2014,215,417,4
+Hips Don't Lie (feat. Wyclef Jean),Shakira,"Oral Fixation, Vol. 2 (Expanded Edition)",2005-11-28,88,https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V,3ZFTkvIE7kyPt6Nu3PEa7V,6.058138888888888e-05,2005,318,413,496
+Summer Love,Justin Timberlake,FutureSex/LoveSounds,2006-09-12,71,https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg,1MBM7CyZbwJpVbbZJnHHRg,7.027027777777778e-05,2006,722,234,245
+I Want It That Way,Backstreet Boys,The New Best Of (All Hits & Remixes) 2016,2016-06-03,0,https://open.spotify.com/track/7v0kHF6tXT8ekVrJAbxpph,7v0kHF6tXT8ekVrJAbxpph,5.9166666666666664e-05,2016,355,56,674
+What Goes Around.../...Comes Around (Interlude),Justin Timberlake,FutureSex/LoveSounds,2006-09-12,77,https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey,3pD0f7hSJg2XdQ6udw5Tey,0.0001246036111111111,2006,821,234,245
+Mirrors,Justin Timberlake,The 20/20 Experience - The Complete Experience,2013-09-27,0,https://open.spotify.com/track/3V2xoX4Ap0ZX9WN8ckSlD4,3V2xoX4Ap0ZX9WN8ckSlD4,0.000134485,2013,508,234,656
+Cry Me a River,Justin Timberlake,Justified,2002-11-04,78,https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5,7Lf7oSEVdzZqTA0kEDSlS5,8.00925e-05,2002,157,234,365
+Unconditionally,Katy Perry,PRISM,2013-01-01,0,https://open.spotify.com/track/6OaYLWpreRh9EoLYwrS75P,6OaYLWpreRh9EoLYwrS75P,6.357722222222222e-05,2013,788,243,508
+Buttons,The Pussycat Dolls,PCD Tour Edition (International Tour Edition),2005-01-01,0,https://open.spotify.com/track/7ev8HQ5RrmyzgOH0R05ZY9,7ev8HQ5RrmyzgOH0R05ZY9,6.265555555555555e-05,2005,116,447,505
+The One That Got Away,Katy Perry,Teenage Dream: The Complete Confection,2012-03-12,74,https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu,3oL3XRtkP1WVbMxf7dtTdu,6.314805555555556e-05,2012,764,243,651
+E.T.,Katy Perry,Teenage Dream: The Complete Confection,2012-03-12,71,https://open.spotify.com/track/4z8ssgZfs5TzKiO8HaGWXO,4z8ssgZfs5TzKiO8HaGWXO,5.732583333333333e-05,2012,212,243,651
+Umbrella,Rihanna,Good Girl Gone Bad: Reloaded,2007-03-31,68,https://open.spotify.com/track/5i66xrvSh1MjjyDd6zcwgj,5i66xrvSh1MjjyDd6zcwgj,7.666277777777778e-05,2007,787,384,257
+Don't Phunk With My Heart,Black Eyed Peas,Monkey Business (International Version),2005-01-01,0,https://open.spotify.com/track/75fscz2R984pg4bmyP1Q53,75fscz2R984pg4bmyP1Q53,6.660361111111111e-05,2005,197,72,442
+My Humps,Black Eyed Peas,Monkey Business (International Version),2005-01-01,0,https://open.spotify.com/track/2tVouQintSo2ffjVgnv6Sh,2tVouQintSo2ffjVgnv6Sh,9.082222222222222e-05,2005,521,72,442
+Low (feat. T-Pain),Flo Rida,Mail on Sunday,2008-03-17,85,https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J,0CAfXk7DXMnon4gLudAp7J,6.427777777777778e-05,2008,472,165,418
+Halo,Beyoncé,I AM...SASHA FIERCE,2008-11-14,69,https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1,3ERa3mEeOnrh2Mc47qM6T1,7.267777777777778e-05,2008,298,69,305
+TiK ToK,Kesha,Animal + Cannibal (Deluxe Edition),2010-11-19,0,https://open.spotify.com/track/4srpHYFHKjVGRDNHqRpWxi,4srpHYFHKjVGRDNHqRpWxi,5.547027777777778e-05,2010,773,249,52
+Grenade,Bruno Mars,Doo-Wops & Hooligans,2010-05-11,80,https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ,2tJulUYLDKOg9XrtVkMgcJ,6.169194444444445e-05,2010,295,83,185
+Payphone,Maroon 5,Payphone,2012-01-01,0,https://open.spotify.com/track/0iyEaciAmtiv8xMkBg97Fy,0iyEaciAmtiv8xMkBg97Fy,6.429611111111111e-05,2012,582,306,513
+Stereo Hearts (feat. Adam Levine),Gym Class Heroes,The Papercut Chronicles II,2011-11-11,83,https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz,0qOnSQQF0yzuPWsXrQ9paz,5.86e-05,2011,706,184,675
+Bang Bang,Jessie J,My Everything (Deluxe),2014-08-22,0,https://open.spotify.com/track/3oEekS4xhmFQ88ieCVTZ7H,3oEekS4xhmFQ88ieCVTZ7H,5.5366666666666666e-05,2014,69,221,452
+Dangerous Woman,Ariana Grande,Dangerous Woman,2016-05-20,6,https://open.spotify.com/track/2h1IPjP471JJRSShTHRUhi,2h1IPjP471JJRSShTHRUhi,6.554055555555555e-05,2016,171,38,163
+Let Me Love You (Until You Learn To Love Yourself),Ne-Yo,R.E.D. (Deluxe Edition),2012-01-01,71,https://open.spotify.com/track/4kte3OcW800TPvOVgrLLj8,4kte3OcW800TPvOVgrLLj8,6.989611111111111e-05,2012,432,331,541
+Beautiful Girls,Sean Kingston,Beautiful Girls,2007-07-23,81,https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx,1hGy2eLcmC8eKx7qr1tOqx,6.260361111111111e-05,2007,76,408,87
+Yellow,Coldplay,Parachutes,2000-07-10,92,https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg,3AJwUDP919kvQ9QcozQPxg,7.41036111111111e-05,2000,853,109,512
+Bring Me To Life,Evanescence,Fallen,2003-01-01,8,https://open.spotify.com/track/646J2jOtUe4Jflrmh6JFjN,646J2jOtUe4Jflrmh6JFjN,6.552583333333334e-05,2003,109,161,220
+Apologize,Timbaland,Dreaming Out Loud (International Version),2007-01-01,0,https://open.spotify.com/track/24nRdDUUIdM2mv1YdwMdu6,24nRdDUUIdM2mv1YdwMdu6,5.134055555555555e-05,2007,44,457,189
+Bailando - English Version,Enrique Iglesias,Bailando,2014-01-01,0,https://open.spotify.com/track/3Y9xtYyVyF13po6xePV5Cp,3Y9xtYyVyF13po6xePV5Cp,6.731416666666667e-05,2014,67,159,76
+Chandelier,Sia,1000 Forms Of Fear,2014-07-04,83,https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC,4VrWlk8IQxevMvERoX08iC,6.0033333333333333e-05,2014,128,417,4
+As Long as You Love Me,Backstreet Boys,Backstreet's Back,1997-10-09,0,https://open.spotify.com/track/6bH2owMgMDNW6zygbotS49,6bH2owMgMDNW6zygbotS49,6.141833333333333e-05,1997,51,56,73
+Royals,Lorde,Pure Heroine,2013-09-27,78,https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3,2dLLR6qlu5UJ5gk0dKz0h3,5.2829166666666666e-05,2013,637,279,535
+Maps,Maroon 5,V,2014-09-02,85,https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc,4gbVRS8gloEluzf0GzDOFc,5.2766666666666664e-05,2014,486,306,716
+Don't You Worry Child - Radio Edit,Swedish House Mafia,Don't You Worry Child,2012-09-14,82,https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p,2V65y3PX4DkRhy1djlxd9p,5.912833333333333e-05,2012,201,432,184
+Only Girl (In The World),Rihanna,Loud,2010-11-16,75,https://open.spotify.com/track/0AH6WMe3OlAlUb5miXt2FQ,0AH6WMe3OlAlUb5miXt2FQ,6.541472222222222e-05,2010,567,384,400
+Titanium (feat. Sia),David Guetta,Nothing but the Beat,2011-08-31,59,https://open.spotify.com/track/77TT8Xvx637TpzV8kKGkUw,77TT8Xvx637TpzV8kKGkUw,6.806666666666666e-05,2011,776,124,478
+Airplanes (feat. Hayley Williams of Paramore),B.o.B,B.o.B Presents: The Adventures of Bobby Ray,2010-04-27,76,https://open.spotify.com/track/6lV2MSQmRIkycDScNtrBXO,6lV2MSQmRIkycDScNtrBXO,5.013333333333334e-05,2010,24,51,65
+Photograph,Ed Sheeran,x (Deluxe Edition),2014-06-21,88,https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL,1HNkqx9Ahdgi1Ixy2xkKkL,7.194055555555556e-05,2014,588,149,794
+Stitches,Shawn Mendes,Handwritten,2015-04-14,13,https://open.spotify.com/track/3zkWCteF82vJwv0hRLba76,3zkWCteF82vJwv0hRLba76,5.746666666666666e-05,2015,708,414,269
+Stone Cold,Demi Lovato,Confident,2015-01-01,66,https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz,3by8IfnW9dZ2t4pZw1WVxz,5.314083333333333e-05,2015,710,128,140
+I'm Not The Only One,Sam Smith,In The Lonely Hour (Deluxe Edition),2014-01-01,0,https://open.spotify.com/track/1VbhR6D6zUoSTBzvnRonXO,1VbhR6D6zUoSTBzvnRonXO,6.647666666666666e-05,2014,362,399,342
+7 Years,Lukas Graham,7 Years,2015-10-22,0,https://open.spotify.com/track/2vDT1uU6hZgdp3PbWGr0Xy,2vDT1uU6hZgdp3PbWGr0Xy,6.591666666666667e-05,2015,10,284,15
+Demons,Imagine Dragons,Night Visions,2012-09-04,75,https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a,3LlAyCYU26dvFZBDUIMb7a,4.8666666666666666e-05,2012,179,200,469
+Beautiful,Christina Aguilera,Stripped,2002-07-19,70,https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG,3TCauNPqFiniaYHBvEVoHG,6.626666666666666e-05,2002,74,104,621
+PILLOWTALK,ZAYN,PILLOWTALK,2016-01-29,64,https://open.spotify.com/track/0IKK48xF4eEdfofyaeKWWO,0IKK48xF4eEdfofyaeKWWO,5.6579444444444445e-05,2016,574,489,506
+Writing's On The Wall,Sam Smith,Writing's On The Wall,2015-09-25,0,https://open.spotify.com/track/4oWmroatZtMmlgc3havMrv,4oWmroatZtMmlgc3havMrv,7.74963888888889e-05,2015,852,399,759
+Ass Back Home (feat. Neon Hitch),Gym Class Heroes,R&B Anthems,2014-10-31,0,https://open.spotify.com/track/5ZAHoP2IiMIFmAl4G2RJML,5ZAHoP2IiMIFmAl4G2RJML,6.172583333333334e-05,2014,52,184,540
+Lighters,Bad Meets Evil,Hell: The Sequel (Deluxe),2011-01-01,0,https://open.spotify.com/track/4BWBbJ9MKpnt30SFYEomzJ,4BWBbJ9MKpnt30SFYEomzJ,8.439250000000001e-05,2011,435,57,285
+Mirror,Lil Wayne,Tha Carter IV (Deluxe),2011-01-01,1,https://open.spotify.com/track/6MreoQf8oixWI2xRcw3Fv1,6MreoQf8oixWI2xRcw3Fv1,6.335916666666667e-05,2011,507,274,653
+Diamonds,Rihanna,Unapologetic (Deluxe),2012-12-11,77,https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx,6O20JhBJPePEkBdrB5sqRx,6.254055555555555e-05,2012,185,384,706
+jar of hearts,Christina Perri,lovestrong.,2011-05-10,76,https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m,0HZhYMZOcUzZKSFwPOti6m,6.84963888888889e-05,2011,880,105,788
+When You're Gone,Avril Lavigne,The Best Damn Thing,2007-04-13,0,https://open.spotify.com/track/4kxND2rbPDrdb7Sgoo1Fbh,4kxND2rbPDrdb7Sgoo1Fbh,6.680361111111111e-05,2007,832,47,660
+Dark Horse,Katy Perry,PRISM,2013-01-01,0,https://open.spotify.com/track/3dcnygRsyW2U390tK79Ck5,3dcnygRsyW2U390tK79Ck5,5.990888888888888e-05,2013,174,243,508
+Dangerously In Love,Beyoncé,Dangerously In Love,2003-06-24,61,https://open.spotify.com/track/0KFuXEdOp5QfIfxHR6TJSm,0KFuXEdOp5QfIfxHR6TJSm,8.142583333333334e-05,2003,172,69,164
+"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",David Guetta,Listen,2014-11-10,75,https://open.spotify.com/track/285HeuLxsngjFn4GGegGNm,285HeuLxsngjFn4GGegGNm,5.3488888888888886e-05,2014,315,124,395
+Heart Attack,Demi Lovato,Demi,2013-01-01,0,https://open.spotify.com/track/0KS8IY5kiBOOnkR5OJKv7K,0KS8IY5kiBOOnkR5OJKv7K,5.856666666666666e-05,2013,303,128,169
+Give Your Heart A Break,Demi Lovato,Unbroken,2011-01-01,0,https://open.spotify.com/track/3YC0Pq7V472TbM1zFzUcOh,3YC0Pq7V472TbM1zFzUcOh,5.7040555555555555e-05,2011,278,128,707
+Dance Again,Jennifer Lopez,Dance Again,2012-04-02,1,https://open.spotify.com/track/1vqT6w3wtW3UoF2JQOFqws,1vqT6w3wtW3UoF2JQOFqws,6.590722222222221e-05,2012,165,219,155
+Drive By,Train,Drive By,2012-01-10,1,https://open.spotify.com/track/1wAXODAAL6hY64ZdhrnjBO,1wAXODAAL6hY64ZdhrnjBO,5.461833333333333e-05,2012,210,463,191
+Radioactive,Imagine Dragons,Hear Me EP,2012-01-01,39,https://open.spotify.com/track/0Yo8GhK9HEaeIZetPARrW9,0Yo8GhK9HEaeIZetPARrW9,5.225555555555555e-05,2012,614,200,277
+Mr. Saxobeat,Mr Saxobeat,Mr. Saxobeat (Tribute),2012-04-15,12,https://open.spotify.com/track/3mu3z6NdgIldPb0BTKAUDF,3mu3z6NdgIldPb0BTKAUDF,5.5118055555555554e-05,2012,517,322,449
+Glad You Came,The Wanted,Battleground (Deluxe Edition),2011-01-01,78,https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj,5yDL13y5giogKs2fSNf7sj,5.498194444444444e-05,2011,280,453,81
+Love The Way You Lie,Eminem,Recovery,2010-06-18,86,https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED,15JINEqzVMv3SvJTAXAKED,7.315916666666667e-05,2010,464,156,548
+Love The Way You Lie (Part II) - Pt. 2,Rihanna,Loud,2010-11-16,69,https://open.spotify.com/track/6M6lsQB4OhqL41eld29PeC,6M6lsQB4OhqL41eld29PeC,8.2285e-05,2010,465,384,400
+Stronger (What Doesn't Kill You),Kelly Clarkson,Stronger (Deluxe Version),2011-10-24,77,https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP,1nInOsHbtotAmEOQhtvnzP,6.165166666666666e-05,2011,716,245,622
+Just the Way You Are,Bruno Mars,Doo-Wops & Hooligans,2010-05-11,89,https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ,7BqBn9nzAq8spo5e7cZ0dJ,6.1315e-05,2010,404,83,185
+Just Give Me a Reason (feat. Nate Ruess),P!nk,The Truth About Love,2012-09-18,86,https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e,1mKXFLRA179hdOWQBwUk9e,6.742583333333334e-05,2012,401,354,679
+I Knew You Were Trouble.,Taylor Swift,Red (Big Machine Radio Release Special),2012-10-22,78,https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E,6FB3v4YcR57y4tXFcdxI1E,6.103333333333333e-05,2012,344,438,549
+Domino,Jessie J,Who You Are (Platinum Edition),2011-01-01,79,https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR,2fQxE0jVrjNMT9oJAXtSJR,6.44e-05,2011,192,221,743
+Chasing The Sun,The Wanted,Word Of Mouth,2013-01-01,18,https://open.spotify.com/track/1AmsmRgQffh5Cu7R0CKLIO,1AmsmRgQffh5Cu7R0CKLIO,5.4282499999999994e-05,2013,130,453,754
+Warzone,The Wanted,The Wanted (Special Edition),2012-01-01,25,https://open.spotify.com/track/03OxsxT49CJva3c0HamCO7,03OxsxT49CJva3c0HamCO7,6.065166666666667e-05,2012,808,453,683
+Lightning,The Wanted,The Wanted (Special Edition),2012-01-01,25,https://open.spotify.com/track/1GbJ41rEFbOx5s4h1zB7Or,1GbJ41rEFbOx5s4h1zB7Or,5.66e-05,2012,436,453,683
+Beep,The Pussycat Dolls,PCD,2005-01-01,61,https://open.spotify.com/track/6GHMJJjpoqiBnw3wgSplL7,6GHMJJjpoqiBnw3wgSplL7,6.37111111111111e-05,2005,79,447,504
+Complicated,Avril Lavigne,Let Go,2002-06-04,85,https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F,5xEM5hIgJ1jjgcEBfpkt2F,6.791833333333333e-05,2002,144,47,387
+Girlfriend,Avril Lavigne,The Best Damn Thing (Expanded Edition),2007-04-17,78,https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr,45hOioMDJktr86iKDHC8gr,6.016666666666667e-05,2007,273,47,661
+Sk8er Boi,Avril Lavigne,Let Go,2002-06-04,80,https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU,00Mb3DuaIH1kjrwOku9CGU,5.6666666666666664e-05,2002,676,47,387
+Here's to Never Growing Up,Avril Lavigne,Avril Lavigne (Expanded Edition),2013-11-01,69,https://open.spotify.com/track/0qwcGscxUHGZTgq0zcaqk1,0qwcGscxUHGZTgq0zcaqk1,5.9533333333333335e-05,2013,313,47,63
+You're Beautiful,James Blunt,Back to Bedlam,2005-08-08,79,https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k,0vg4WnUWvze6pBOJDTq99k,5.81925e-05,2005,860,214,72
+Black Widow,Iggy Azalea,Frat Party,2019-08-09,28,https://open.spotify.com/track/13idHd4iXnaPZCuALiAcPS,13idHd4iXnaPZCuALiAcPS,5.817305555555556e-05,2019,94,199,241
+I Can Do Better,Avril Lavigne,The Best Damn Thing (Expanded Edition),2007-04-17,49,https://open.spotify.com/track/5kyqKoOnHwvxk0bZLeK1kr,5kyqKoOnHwvxk0bZLeK1kr,5.425166666666667e-05,2007,337,47,661
+Runaway,Avril Lavigne,The Best Damn Thing (Expanded Edition),2007-04-17,49,https://open.spotify.com/track/3lxrdos6O9eZit1KMfz9A1,3lxrdos6O9eZit1KMfz9A1,6.331472222222221e-05,2007,641,47,661
+The Best Damn Thing,Avril Lavigne,The Best Damn Thing (Expanded Edition),2007-04-17,56,https://open.spotify.com/track/7lmX3dD2Xy13Jo1oCTR4ot,7lmX3dD2Xy13Jo1oCTR4ot,5.255555555555555e-05,2007,754,47,661
+When You're Gone,Avril Lavigne,The Best Damn Thing (Expanded Edition),2007-04-17,71,https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI,54JKnDB3CzVu8wNAOM27BI,6.680361111111111e-05,2007,832,47,661
+Everything Back But You,Avril Lavigne,The Best Damn Thing (Expanded Edition),2007-04-17,46,https://open.spotify.com/track/6a1X8nNiPyVQYyzCDW9Ine,6a1X8nNiPyVQYyzCDW9Ine,5.0585e-05,2007,226,47,661
+Hot,Avril Lavigne,The Best Damn Thing (Expanded Edition),2007-04-17,63,https://open.spotify.com/track/6z7fZRrQfOH3ZjWEkC4QhC,6z7fZRrQfOH3ZjWEkC4QhC,5.6381388888888886e-05,2007,324,47,661
+Innocence,Avril Lavigne,The Best Damn Thing (Expanded Edition),2007-04-17,58,https://open.spotify.com/track/5OuP08bgU2H7ZeDQQFQ6q8,5OuP08bgU2H7ZeDQQFQ6q8,6.45e-05,2007,382,47,661
+I Don't Have To Try,Avril Lavigne,The Best Damn Thing (Expanded Edition),2007-04-17,43,https://open.spotify.com/track/21zXru0J6n2em6MC61dVYE,21zXru0J6n2em6MC61dVYE,5.479611111111111e-05,2007,340,47,661
+One of Those Girls,Avril Lavigne,The Best Damn Thing (Expanded Edition),2007-04-17,45,https://open.spotify.com/track/4Ib7GwWqc37GWVermwR4OV,4Ib7GwWqc37GWVermwR4OV,4.874805555555555e-05,2007,565,47,661
+Contagious,Avril Lavigne,The Best Damn Thing (Expanded Edition),2007-04-17,45,https://open.spotify.com/track/0xMbfVm5z0Q1VdnYvox460,0xMbfVm5z0Q1VdnYvox460,3.585138888888888e-05,2007,147,47,661
+Keep Holding On,Avril Lavigne,The Best Damn Thing (Expanded Edition),2007-04-17,65,https://open.spotify.com/track/4UPcXTh26ilb7owtuyHqNI,4UPcXTh26ilb7owtuyHqNI,6.664055555555555e-05,2007,409,47,661
+Alone,Avril Lavigne,The Best Damn Thing (Expanded Edition),2007-04-17,42,https://open.spotify.com/track/7CUPfpfuPwjicclWi4qKH4,7CUPfpfuPwjicclWi4qKH4,5.381111111111111e-05,2007,33,47,661
+I Will Be,Avril Lavigne,The Best Damn Thing (Expanded Edition),2007-04-17,51,https://open.spotify.com/track/1ERza8JzFin9c3Keo8XQEX,1ERza8JzFin9c3Keo8XQEX,6.658138888888888e-05,2007,357,47,661
+I Can Do Better - Acoustic Version,Avril Lavigne,The Best Damn Thing (Expanded Edition),2007-04-17,37,https://open.spotify.com/track/1K2LIONKyqMuYU6aPNEhR1,1K2LIONKyqMuYU6aPNEhR1,6.0873888888888884e-05,2007,338,47,661
+Girlfriend - The Submarines' Time Warp '66 Mix - English,Avril Lavigne,The Best Damn Thing (Expanded Edition),2007-04-17,34,https://open.spotify.com/track/4TOX8K8H3tJaKU6mXqiPN0,4TOX8K8H3tJaKU6mXqiPN0,5.3e-05,2007,275,47,661
+Girlfriend (feat. Lil Mama) - Dr. Luke Mix,Avril Lavigne,The Best Damn Thing (Expanded Edition),2007-04-17,50,https://open.spotify.com/track/1wwt0TvrGY3lnvTAVIx8mO,1wwt0TvrGY3lnvTAVIx8mO,5.690722222222222e-05,2007,274,47,661
+Wild Ones (feat. Sia),Flo Rida,Wild Ones,2012-06-22,83,https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3,1NpW5kyvO4XrNJ3rnfcNy3,6.470722222222222e-05,2012,840,165,745
+Falling,Trevor Daniel,Nicotine,2020-03-26,2,https://open.spotify.com/track/2rRJrJEo19S2J82BDsQ3F7,2rRJrJEo19S2J82BDsQ3F7,4.427250000000001e-05,2020,239,465,467
+Astronaut In The Ocean,Masked Wolf,Astronaut In The Ocean (International Remixes),2019-01-01,55,https://open.spotify.com/track/0BGwAKW4u8kWOhWFflZxfl,0BGwAKW4u8kWOhWFflZxfl,3.688333333333333e-05,2019,53,309,62
+Let Me Down Slowly,Alec Benjamin,Narrated For You,2018-11-16,83,https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d,2qxmye6gAegTMjLKEBoR3d,4.70425e-05,2018,430,23,461
+2002,Anne-Marie,Speak Your Mind (Deluxe),2018-04-27,82,https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo,2BgEsaKNfHUdlh97KmvFyo,5.194055555555555e-05,2018,2,32,607
+Shape of You,Ed Sheeran,÷ (Deluxe),2017-03-03,90,https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3,7qiZfU4dY1lWllzX7mPBI3,6.492e-05,2017,663,149,797
+Despacito - Remix,Luis Fonsi,VIDA,2019-02-01,72,https://open.spotify.com/track/1vnnXMrBeEWiRg3YCMCjQq,1vnnXMrBeEWiRg3YCMCjQq,6.400361111111111e-05,2019,183,283,718
+Faded,Alan Walker,Different World,2018-12-14,82,https://open.spotify.com/track/698ItKASDavgwZ3WjaWjtz,698ItKASDavgwZ3WjaWjtz,5.8918333333333335e-05,2018,236,21,173
+Mood (feat. iann dior),24kGoldn,El Dorado,2021-03-26,79,https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m,4jPy3l0RUwlUI9T5XHBW2m,3.903694444444445e-05,2021,512,0,196
+Memories,Maroon 5,Memories,2019-09-20,33,https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM,2b8fOow8UzyDFAE27YhOZM,5.2635e-05,2019,500,306,435
+Cheap Thrills (feat. Sean Paul),Sia,This Is Acting,2016-02-18,76,https://open.spotify.com/track/378iszndTZAR4dH8kwsLC6,378iszndTZAR4dH8kwsLC6,6.244805555555555e-05,2016,131,417,686
+Beautiful (feat. Camila Cabello),Bazzi,Beautiful (feat. Camila Cabello),2018-08-02,73,https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF,4VUwkH455At9kENOfzTqmF,5e-05,2018,75,60,86
+I'm a Mess,Bebe Rexha,Expectations,2018-06-22,71,https://open.spotify.com/track/04ZTP5KsCypmtCmQg5tH9R,04ZTP5KsCypmtCmQg5tH9R,5.431083333333333e-05,2018,363,61,208
+None Of My Business,Cher Lloyd,None Of My Business,2018-10-19,59,https://open.spotify.com/track/2SPEg45ZaUFJCg9GwNmRvw,2SPEg45ZaUFJCg9GwNmRvw,5.111222222222222e-05,2018,542,101,473
+Blinding Lights,The Weeknd,After Hours,2020-03-20,90,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b,0VjIjW4GlUZAMYd2vXMi3b,5.556666666666667e-05,2020,97,454,33
+Don't Start Now,Dua Lipa,Future Nostalgia,2020-03-27,83,https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62,3PfIrDoz19wz7qK7tYeu62,5.0913888888888885e-05,2020,198,144,244
+Break My Heart,Dua Lipa,Future Nostalgia,2020-03-27,78,https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT,017PF4Q3l4DBUiWoXk4OWT,6.161666666666667e-05,2020,108,144,244
+I Like Him,Princess Nokia,Everything Sucks,2020-02-26,59,https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H,68UU9oaQtMDnh6PRlW842H,3.67925e-05,2020,346,370,206
+Levitating (feat. DaBaby),Dua Lipa,Future Nostalgia,2020-03-27,83,https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF,5nujrmhLynf4yMoMtj8AQF,5.640666666666666e-05,2020,433,144,244
+MONTERO (Call Me By Your Name),Lil Nas X,MONTERO (Call Me By Your Name),2021-03-31,72,https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd,67BtfxlNbhBmCDR2L2l8qd,3.829861111111111e-05,2021,478,270,413
+Kiss Me More (feat. SZA),Doja Cat,Kiss Me More (feat. SZA),2021-04-09,47,https://open.spotify.com/track/748mdHapucXQri7IAO8yFK,748mdHapucXQri7IAO8yFK,5.801833333333333e-05,2021,413,138,373
+Liar,Camila Cabello,Romance,2019-12-06,64,https://open.spotify.com/track/073ILU1C3APNRGF66VhtyA,073ILU1C3APNRGF66VhtyA,5.7510555555555556e-05,2019,434,90,560
+Can We Kiss Forever?,Kina,Can We Kiss Forever?,2018-08-31,73,https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne,58wyJLv6yH1La9NIZPl3ne,5.220305555555555e-05,2018,125,254,123
+Kings & Queens,Ava Max,Heaven & Hell,2020-09-18,80,https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI,7a53HqqArd4b9NF4XAmlbI,4.511055555555555e-05,2020,412,45,283
+The Middle,Zedd,The Middle,2018-01-23,80,https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc,09IStsImFySgyp0pIQdqAc,5.131444444444445e-05,2018,760,493,672
+Meant to Be (feat. Florida Georgia Line),Bebe Rexha,Expectations,2018-06-22,74,https://open.spotify.com/track/4e4fqjx0Izh4svvTef1z7e,4e4fqjx0Izh4svvTef1z7e,4.56125e-05,2018,494,61,208
+Be Kind (with Halsey),Marshmello,Be Kind (with Halsey),2020-05-01,73,https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A,3Z8FwOEN59mRMxDCtb8N0A,4.798916666666667e-05,2020,72,307,83
+Sucker,Jonas Brothers,Happiness Begins,2019-06-07,80,https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD,22vgEDb5hykfaTwLuskFGD,5.0285000000000004e-05,2019,720,227,272
+bad guy,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019-03-29,83,https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m,2Fxmhks0bxGSBdJ92vM42m,5.3913055555555555e-05,2019,866,70,722
+What If I Told You That I Love You,Ali Gatie,The Idea Of Her,2021-03-26,66,https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb,6USdi8uX5GNAPYziFhisHb,5.379638888888888e-05,2021,823,29,668
+Dancing in My Room,347aidan,Dancing in My Room,2020-10-26,67,https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX,6Pgmqg15yVexuOgtzuxwoX,5.003833333333333e-05,2020,168,2,160
+Heartbreak Anniversary,GIVĒON,TAKE TIME,2020-03-27,81,https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp,3FAJ6O0NOHQV8Mc5Ri6ENp,5.510277777777777e-05,2020,306,171,634
+Send My Love (To Your New Lover),Adele,25,2015-11-20,77,https://open.spotify.com/track/563SfWAHJs4FBZMkRN0IFN,563SfWAHJs4FBZMkRN0IFN,6.196611111111111e-05,2015,657,17,10
+Say My Name,David Guetta,7,2018-09-14,68,https://open.spotify.com/track/0YammaEkYSeo9vQYZ1OwS6,0YammaEkYSeo9vQYZ1OwS6,5.526277777777778e-05,2018,652,124,13
+I Like It,Cardi B,Invasion of Privacy,2018-04-06,78,https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z,58q2HKrzhC3ozto2nDdN4z,7.038611111111112e-05,2018,347,92,350
+Happier,Marshmello,Happier,2018-08-17,17,https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99,2dpaYNEQHiRxtZbfNsse99,5.952472222222222e-05,2018,299,307,270
+Hate Me (with Juice WRLD),Ellie Goulding,Hate Me (with Juice WRLD),2019-06-26,70,https://open.spotify.com/track/6kls8cSlUyHW2BUOkDJIZE,6kls8cSlUyHW2BUOkDJIZE,5.1728611111111114e-05,2019,301,153,276
+It's You,Ali Gatie,YOU,2019-11-08,76,https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29,5DqdesEfbRyOlSS3Tf6c29,5.905722222222222e-05,2019,391,29,760
+WITHOUT YOU,The Kid LAROI,F*CK LOVE (SAVAGE),2020-11-06,6,https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA,27OeeYzk6klgBh83TSvGMA,4.482888888888889e-05,2020,798,445,209
+Goodbyes (feat. Young Thug),Post Malone,Hollywood's Bleeding,2019-09-06,77,https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C,0t3ZvGKlmYmVsDzBJAXK8C,4.8570277777777774e-05,2019,290,368,292
+Into Your Arms (feat. Ava Max),Witt Lowry,Into Your Arms (feat. Ava Max),2018-06-08,73,https://open.spotify.com/track/0b11D9D0hMOYCIMN3OKreM,0b11D9D0hMOYCIMN3OKreM,5.167277777777777e-05,2018,385,478,349
+Play Date,Melanie Martinez,Cry Baby (Deluxe Edition),2015-08-14,75,https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA,4DpNNXFMMxQEKl7r0ykkWA,4.9963055555555554e-05,2015,591,313,147
+My Oh My (feat. DaBaby),Camila Cabello,Romance,2019-12-06,75,https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K,3yOlyBJuViE2YSGn3nVE1K,4.7429444444444446e-05,2019,525,90,560
+What If (I Told You I Like You),Johnny Orlando,What If (I Told You I Like You),2018-05-18,65,https://open.spotify.com/track/4v7DgEMw6EvYyuQ4eWFD9l,4v7DgEMw6EvYyuQ4eWFD9l,6.0885e-05,2018,822,223,733
+I Need Your Love,Madilyn Bailey,"The Covers, Vol. 6",2013-09-13,0,https://open.spotify.com/track/62usIcDxqFIQ7x5qN91hrN,62usIcDxqFIQ7x5qN91hrN,5.549916666666667e-05,2013,351,294,663
+good 4 u,Olivia Rodrigo,SOUR,2021-05-21,85,https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG,4ZtFanR9U6ndgddUvNcjcG,4.9485e-05,2021,874,351,569
+Somebody To You,The Vamps,Meet The Vamps,2014-01-01,73,https://open.spotify.com/track/6VrLYoQKdhu1Jruei06t65,6VrLYoQKdhu1Jruei06t65,5.141583333333334e-05,2014,689,452,433
+What A Shame,Leyla Blue,What A Shame,2020-12-09,61,https://open.spotify.com/track/7FGIEAVXfegxngH9Jg6VwA,7FGIEAVXfegxngH9Jg6VwA,4.922222222222222e-05,2020,819,267,732
+Build a Bitch,Bella Poarch,Build a Bitch,2021-05-14,70,https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q,7BoobGhD4x5K96Me0hqC8Q,3.410333333333333e-05,2021,111,63,115
+Last Hurrah,Bebe Rexha,Last Hurrah,2019-02-15,58,https://open.spotify.com/track/0i0wnv9UoFdZ5MfuFGQzMy,0i0wnv9UoFdZ5MfuFGQzMy,4.1759166666666665e-05,2019,420,61,379
+telepatía,Kali Uchis,Sin Miedo (del Amor y Otros Demonios) ∞,2020-12-04,84,https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B,6tDDoYIxWvMLTdKpjFkc1B,4.44975e-05,2020,890,242,592
+Dinero,Trinidad Cardona,Dinero,2018-02-02,68,https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm,3ggtU1ZOKO8ZNiqPNyXGcm,4.468888888888889e-05,2018,188,466,174
+NO,Meghan Trainor,Thank You (Deluxe Version),2017-05-12,75,https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc,0l0CvurVUrr2w3Jj1hOVFc,5.9307222222222225e-05,2017,529,312,654
+Don't Go Yet,Camila Cabello,Don't Go Yet,2021-07-23,68,https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad,1058fW9H3fZA6QjYCdOBad,4.578944444444445e-05,2021,194,90,177
+Armor,Nightcore Dreams,Armor,2017-07-19,42,https://open.spotify.com/track/7gmHi5czs1e2nEJBSwwH1Y,7gmHi5czs1e2nEJBSwwH1Y,5.112722222222222e-05,2017,47,339,58
+My Dilemma,Selena Gomez & The Scene,When The Sun Goes Down,2011-01-01,52,https://open.spotify.com/track/5g3TKEDNVOviIisycRgo4H,5g3TKEDNVOviIisycRgo4H,5.273694444444444e-05,2011,519,411,738
+Look What You Made Me Do,Taylor Swift,reputation,2017-11-10,81,https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il,1P17dC1amhFzptugyAO7Il,5.8848055555555554e-05,2017,448,438,789
+Love Story,Taylor Swift,Fearless (Big Machine Radio Release Special),2008-11-11,76,https://open.spotify.com/track/1D4PL9B8gOg78jiHg3FvBb,1D4PL9B8gOg78jiHg3FvBb,6.562944444444444e-05,2008,463,438,225
+Rockabye (feat. Sean Paul & Anne-Marie),Clean Bandit,Speak Your Mind (Deluxe),2018-04-27,64,https://open.spotify.com/track/3fvY2U1AzW0diYF0hnBbKt,3fvY2U1AzW0diYF0hnBbKt,6.957111111111112e-05,2018,632,108,607
+Bad Blood,Taylor Swift,1989,2014-01-01,72,https://open.spotify.com/track/0TvQLMecTE8utzoNmvXRbK,0TvQLMecTE8utzoNmvXRbK,5.887027777777778e-05,2014,63,438,7
+Better Now,Post Malone,beerbongs & bentleys,2018-04-27,80,https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK,7dt6x5M1jzdTEt8oCbisTK,6.424055555555555e-05,2018,86,368,771
+Ready or Not,Bridgit Mendler,Hello My Name Is...,2012-01-01,73,https://open.spotify.com/track/5xvUgoVED1F4mBu8FL0HaW,5xvUgoVED1F4mBu8FL0HaW,5.5818333333333334e-05,2012,618,80,286
+In the Name of Love,Martin Garrix,In the Name of Love,2016-07-29,81,https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S,23L5CiUhw2jV1OIMwthR3S,5.4362777777777776e-05,2016,380,308,343
+Little Do You Know,Alex & Sierra,It's About Us,2014-10-06,72,https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT,1almCHdsfikRPfVB9VrEdT,5.144444444444444e-05,2014,442,25,352
+SugarCrash!,ElyOtto,SugarCrash!,2020-08-25,69,https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX,2ePtv8MlBO9nuuXABqAfEX,2.224444444444445e-05,2020,721,154,625
+"i hate u, i love u (feat. olivia o'brien)",gnash,us,2016-03-25,76,https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe,7vRriwrloYVaoAe3a9wJHe,6.973138888888889e-05,2016,876,500,792
+Please Don't Go,Joel Adams,Please Don't Go,2015-11-06,67,https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy,3cNjgVBKTJ1SvKhunrCdVy,5.849444444444444e-05,2015,593,222,521
+Warrior,Demi Lovato,Demi,2013-01-01,55,https://open.spotify.com/track/7nCBOm2WiTUPAx3TeG2rZA,7nCBOm2WiTUPAx3TeG2rZA,6.421472222222222e-05,2013,806,128,169
+The Greatest (feat. Kendrick Lamar),Sia,This Is Acting (Deluxe Version),2016-10-21,68,https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO,7xHWNBFm6ObGEQPaUxHuKO,5.839611111111111e-05,2016,756,417,687
+Burn,Ellie Goulding,Halcyon Days,2014-01-01,66,https://open.spotify.com/track/2GgxS8bUT5G25QJTsfSv0R,2GgxS8bUT5G25QJTsfSv0R,6.422527777777777e-05,2014,113,153,268
+Bezos I,Bo Burnham,Inside (The Songs),2021-06-10,0,https://open.spotify.com/track/0Kdj7nwaYQmvhxnqZaIQuW,0Kdj7nwaYQmvhxnqZaIQuW,1.6152499999999998e-05,2021,90,76,345
+Rebel,Zum,Liquid Sunshine Riddim,2020-09-11,60,https://open.spotify.com/track/36t9rgshEge4LCzhHKioFQ,36t9rgshEge4LCzhHKioFQ,3.7745e-05,2020,619,494,394
+Fight Song,Rachel Platten,Wildfire,2016-01-01,78,https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr,37f4ITSlgPX81ad2EvmVQr,5.667027777777778e-05,2016,248,375,747
+If I Can't Have You,Shawn Mendes,If I Can't Have You,2019-05-03,67,https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz,6LsAAHotRLMOHfCsSfYCsz,5.3e-05,2019,368,414,331
+Stay,Zedd,Stay,2017-02-23,77,https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0,6uBhi9gBXWjanegOb2Phh0,5.835833333333333e-05,2017,701,493,614
+Cradles,Sub Urban,Cradles,2019-01-04,3,https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU,18A7ha5BitZjmdHTCwXFbU,5.828583333333333e-05,2019,151,429,141
+Worth It (feat. Kid Ink),Fifth Harmony,Reflection (Deluxe),2015-01-30,79,https://open.spotify.com/track/41Fflg7qHiVOD6dEPvsCzO,41Fflg7qHiVOD6dEPvsCzO,6.238138888888888e-05,2015,849,163,551
+Unstoppable,Sia,This Is Acting,2016-01-29,81,https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa,2J2Z1SkXYghSajLibnQHOa,6.0485e-05,2016,791,417,686
+Mad at Disney,salem ilese,Mad at Disney,2020-07-24,2,https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE,7aGyRfJWtLqgJaZoG9lJhE,3.8010555555555556e-05,2020,480,506,416
+Not Your Barbie Girl,Ava Max,Not Your Barbie Girl,2018-08-13,67,https://open.spotify.com/track/4fkM7M4Uo5AUASnnsRC7EZ,4fkM7M4Uo5AUASnnsRC7EZ,5.181111111111111e-05,2018,546,45,477
+Lily,Alan Walker,Different World,2018-12-14,74,https://open.spotify.com/track/0lks2Kt9veMOFEAPN0fsqN,0lks2Kt9veMOFEAPN0fsqN,5.4399999999999994e-05,2018,440,21,173
+Heart Attack,Demi Lovato,Demi,2013-01-01,81,https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA,1V6gIisPpYqgFeWbMLI0bA,5.856666666666666e-05,2013,303,128,169
+7 rings,Ariana Grande,"thank u, next",2019-02-08,84,https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF,6ocbgoVGwYJhOv1GgI9NsF,4.961833333333333e-05,2019,11,38,790
+Queen,Loren Gray,Queen,2018-12-21,61,https://open.spotify.com/track/53b4d9jHQZq89EtQxwUURr,53b4d9jHQZq89EtQxwUURr,4.456777777777778e-05,2018,610,280,538
+I Like Me Better,Lauv,I met you when I was 18. (the playlist),2018-05-31,4,https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ,2P91MQbaiQOfbiz9VqhqKQ,5.484333333333333e-05,2018,348,262,321
+Princesses Don't Cry - Nightcore Remix,CARYS,Princesses Don't Cry,2019-10-18,0,https://open.spotify.com/track/0RVlQOqnWuVUdSSxJ5b0q5,0RVlQOqnWuVUdSSxJ5b0q5,5.4892500000000003e-05,2019,604,85,531
+positions,Ariana Grande,Positions,2020-10-30,80,https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0,35mvY5S1H3J2QZyna3TFe0,4.786777777777778e-05,2020,889,38,526
+Sweet but Psycho,Ava Max,Heaven & Hell,2020-09-18,81,https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI,7DnAm9FOTWE3cUvso43HhI,5.206555555555555e-05,2020,734,45,283
+Wildest Dreams,Taylor Swift,1989,2014-01-01,76,https://open.spotify.com/track/3fVnlF4pGqWI9flVENcT28,3fVnlF4pGqWI9flVENcT28,6.123333333333334e-05,2014,841,438,7
+On & On,Cartoon,On & On,2015-07-09,8,https://open.spotify.com/track/4B2kkxg3wKSTZw5JPaUtzQ,4B2kkxg3wKSTZw5JPaUtzQ,5.751888888888889e-05,2015,556,94,488
+"thank u, next",Ariana Grande,"thank u, next",2019-02-08,81,https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ,3e9HZxeyfWwjeyPAMmWSSQ,5.758888888888889e-05,2019,891,38,790
+Power,Little Mix,Glory Days (Expanded Edition),2016-11-18,74,https://open.spotify.com/track/0lUSd7TCG8srh6HpIAEIWL,0lUSd7TCG8srh6HpIAEIWL,6.884444444444444e-05,2016,598,278,253
+Take a Hint,Night Inn,"Make It Pop, Vol. 7",2020-01-26,52,https://open.spotify.com/track/1AcL5QlN95gkHCVxRXrEUT,1AcL5QlN95gkHCVxRXrEUT,4.289861111111111e-05,2020,739,337,420
+Who Says,Selena Gomez & The Scene,When The Sun Goes Down,2011-01-01,75,https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI,3TcL0dyCMyr0kyTTc4NLgI,5.433694444444444e-05,2011,838,411,738
+Just A Dream,Kurt Hugo Schneider,Just A Dream,2017-11-14,58,https://open.spotify.com/track/0QfmQhr5npxuWQ4zzUDUhB,0QfmQhr5npxuWQ4zzUDUhB,7.322138888888889e-05,2017,400,255,362
+Darkside,Alan Walker,Different World,2018-12-14,75,https://open.spotify.com/track/6SRWhUJcD2YKahCwHavz3X,6SRWhUJcD2YKahCwHavz3X,5.88e-05,2018,175,21,173
+Love Is Gone,SLANDER,Love Is Gone,2019-05-10,63,https://open.spotify.com/track/39glqzRVRAy4vq3PqeTGb8,39glqzRVRAy4vq3PqeTGb8,7.112277777777779e-05,2019,458,394,403
+Me And My Broken Heart,Rixton,Let The Road,2014-01-01,77,https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S,1oew3nFNY3vMacJAsvry0S,5.3814722222222216e-05,2014,491,385,389
+At My Worst,Pink Sweat$,PINK PLANET,2021-02-12,5,https://open.spotify.com/track/2MJz8BxxMsERULatmBikDH,2MJz8BxxMsERULatmBikDH,4.731777777777777e-05,2021,54,364,507
+STAY (with Justin Bieber),The Kid LAROI,F*CK LOVE 3: OVER YOU,2021-07-23,13,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX,5PjdY0CKGZdEuoNab3yDmX,3.939027777777778e-05,2021,647,445,210
+I Love You Like a Love Song (Cover),Reed Deming,Ridiculous,2013-07-26,38,https://open.spotify.com/track/7KXmf0oEAoy4yRaiVcFtpf,7KXmf0oEAoy4yRaiVcFtpf,5.315777777777778e-05,2013,350,378,556
+Black Magic,Little Mix,Get Weird (Expanded Edition),2015-11-06,76,https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg,6rmXhRIemCTPyMYZRDN7Qg,5.8829444444444445e-05,2015,91,278,248
+What Makes You Beautiful,One Direction,Up All Night,2012-05-25,86,https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo,4cluDES4hQEUhmXj6TXkSo,5.5551666666666665e-05,2012,827,352,713
+You're Perfect - Remix,Charly Black,You're Perfect (Remix),2017-12-01,48,https://open.spotify.com/track/1PQNR7X8dkeC6S24LbR9fs,1PQNR7X8dkeC6S24LbR9fs,5.594444444444444e-05,2017,861,100,765
+Shy,Jai Waetford,Shy - EP,2015-01-16,55,https://open.spotify.com/track/3nivloq0Lqd2CYWHTgAlwU,3nivloq0Lqd2CYWHTgAlwU,5.212222222222222e-05,2015,668,213,589
+Rewrite The Stars,Zac Efron,Rewrite The Stars,2017-11-17,76,https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN,630sXRhIcfwr2e4RdNtjKN,6.0400000000000004e-05,2017,628,491,555
+So Am I,Ava Max,Heaven & Hell,2020-09-18,72,https://open.spotify.com/track/2Xnv3GntqbBH1juvUYSpHG,2Xnv3GntqbBH1juvUYSpHG,5.084055555555555e-05,2020,682,45,283
+Confident,Demi Lovato,Confident,2015-01-01,74,https://open.spotify.com/track/3DXXKDbbZKyAZfNb96ST3q,3DXXKDbbZKyAZfNb96ST3q,5.715138888888889e-05,2015,146,128,140
+"10,000 Hours (with Justin Bieber)",Dan + Shay,"10,000 Hours (with Justin Bieber)",2019-10-04,75,https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa,2wrJq5XKLnmhRXHIAf9xBa,4.658138888888889e-05,2019,0,121,2
+Never Be the Same,Camila Cabello,Camila,2018-01-12,81,https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ,4eWQlBRaTjPPUlzacqEeoQ,6.304805555555555e-05,2018,531,90,121
+Best Friend (feat. Doja Cat),Saweetie,Best Friend (feat. Doja Cat),2021-01-07,68,https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y,2etHQJxIbV0soyPhelVs9Y,4.330083333333334e-05,2021,85,405,95
+Me Too,Meghan Trainor,Thank You (Deluxe Version),2017-05-12,73,https://open.spotify.com/track/3KwwE4sgCzMaKWq6QBebmX,3KwwE4sgCzMaKWq6QBebmX,5.034444444444444e-05,2017,492,312,654
+happier,Olivia Rodrigo,SOUR,2021-05-21,85,https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl,2tGvwE8GcFKwNdAXMnlbfl,4.887027777777778e-05,2021,875,351,569
+"jealousy, jealousy",Olivia Rodrigo,SOUR,2021-05-21,83,https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk,0MMyJUC3WNnFS1lit5pTjk,4.8100000000000004e-05,2021,881,351,569
+Beggin' - Remix,HAWK.,Beggin' (Remix),2021-08-13,47,https://open.spotify.com/track/6Q2Lb0R6siWVAF6DFvLXRF,6Q2Lb0R6siWVAF6DFvLXRF,3.915194444444444e-05,2021,81,185,92
+Symphony (feat. Zara Larsson),Clean Bandit,What Is Love? (Deluxe Edition),2018-11-30,80,https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal,72gv4zhNvRVdQA0eOenCal,5.90925e-05,2018,736,108,735
+Wolves,Selena Gomez,Wolves,2017-10-25,79,https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU,0tBbt8CrmxbjRP0pueQkyU,5.4998055555555556e-05,2017,844,410,752
+Miss Wanna Die,JubyPhonic,Miss Wanna Die,2021-11-05,63,https://open.spotify.com/track/6QYYzSQnGyMjcRRy67eYwF,6QYYzSQnGyMjcRRy67eYwF,5.656555555555555e-05,2021,509,230,440
+In Da Getto,J Balvin,JOSE,2021-09-10,69,https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn,1q0PYXTbDsirp2l74ng6pn,3.6296111111111115e-05,2021,374,207,358
+Work,Rihanna,ANTI (Deluxe),2016-01-28,79,https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt,72TFWvU3wUYdUuxejTTIzt,6.092222222222223e-05,2016,847,384,24
+We Don't Talk Anymore (feat. Selena Gomez),Charlie Puth,Nine Track Mind,2016-01-29,80,https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj,06KyNuuMOX1ROXRhj787tj,6.047388888888889e-05,2016,815,99,470
+Closer,The Chainsmokers,Closer,2016-07-29,89,https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw,7BKLCZ1jbUBVqRi2FVlTVw,6.804444444444444e-05,2016,138,442,134
+It Ain't Me (with Selena Gomez),Kygo,It Ain't Me (with Selena Gomez),2017-02-16,81,https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe,3eR23VReFzcdmS7TYCrhCe,6.132777777777777e-05,2017,389,256,351
+Don't Wanna Know,Maroon 5,Don't Wanna Know,2016-10-11,2,https://open.spotify.com/track/5MFzQMkrl1FOOng9tq6R9r,5MFzQMkrl1FOOng9tq6R9r,5.957777777777778e-05,2016,200,306,183
+Touch It,KiDi,Touch It,2021-05-05,52,https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j,3h3xeg5OGNYVM0U9rOAc6j,4.5833333333333334e-05,2021,780,250,698
+love nwantiti (feat. Dj Yo! & AX'EL) - Remix,CKay,love nwantiti (feat. Dj Yo! & AX'EL) [Remix],2021-09-09,73,https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU,4gvrJnKCKIPiacNsWVQwEU,5.2324444444444446e-05,2021,884,86,786
+"Alone, Pt. II",Alan Walker,"Alone, Pt. II",2019-12-27,70,https://open.spotify.com/track/0bMbDctzMmTyK2j74j3nF3,0bMbDctzMmTyK2j74j3nF3,4.973666666666667e-05,2019,34,21,47
+Hall of Fame (feat. will.i.am),The Script,#3 Deluxe Version,2012-09-10,82,https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX,7wMq5n8mYSKlQIGECKUgTX,5.6259166666666665e-05,2012,297,449,1
+Titanium (feat. Sia),David Guetta,Nothing but the Beat 2.0,2012-09-10,60,https://open.spotify.com/track/2i1AVZAYLhrQTvzr1hu7Jt,2i1AVZAYLhrQTvzr1hu7Jt,6.806666666666666e-05,2012,776,124,479
+Freaks,Jordan Clarke,Freaks,2019-02-25,0,https://open.spotify.com/track/44r4zta6P9flkhKaVnbsvG,44r4zta6P9flkhKaVnbsvG,4.855555555555556e-05,2019,260,228,242
+I Don’t Wanna Live Forever (Fifty Shades Darker),ZAYN,Fifty Shades Darker (Original Motion Picture Soundtrack),2017-02-10,70,https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe,2y5aJvzXhHPA94U5GFAcXe,6.823694444444445e-05,2017,342,489,230
+A Thousand Years (feat. Steve Kazee) - Pt. 2; The Twilight Saga: Breaking Dawn Soundtrack,Christina Perri,The Twilight Saga: Breaking Dawn - Part 2 (Original Motion Picture Soundtrack),2012-11-09,67,https://open.spotify.com/track/7hn8Q8WAxFdL4aZ159GI7C,7hn8Q8WAxFdL4aZ159GI7C,8.497027777777777e-05,2012,14,105,680
+I'm Not Her,Clara Mae,I'm Not Her,2017-11-10,53,https://open.spotify.com/track/2jRISGsO4RTm9CQVb1Jusn,2jRISGsO4RTm9CQVb1Jusn,5.394555555555555e-05,2017,360,107,323
+Better When I'm Dancin',Meghan Trainor,Better When I'm Dancin',2015-10-14,74,https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L,5k5fWendNngd89O8JKoE8L,4.896277777777777e-05,2015,89,312,98
+Story of My Life,One Direction,Midnight Memories (Deluxe),2013-11-25,87,https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg,4nVBt6MZDDP6tRVdQTgxJg,6.81925e-05,2013,712,352,436
+Bad Girlfriend,Anne-Marie,Speak Your Mind (Deluxe),2018-04-27,55,https://open.spotify.com/track/11z8f8BH1WdIlFI9TNQ9mc,11z8f8BH1WdIlFI9TNQ9mc,5.7273888888888885e-05,2018,65,32,607
+Hold On,Chord Overstreet,Hold On,2017-02-03,80,https://open.spotify.com/track/5vjLSffimiIP26QG5WcN2K,5vjLSffimiIP26QG5WcN2K,5.523694444444445e-05,2017,319,103,290
+"Million To One - from the Amazon Original Movie ""Cinderella""",Camila Cabello,"Million To One (from the Amazon Original Movie ""Cinderella"")",2021-07-21,52,https://open.spotify.com/track/3lzYrD0WcgGFiAFKkB2shE,3lzYrD0WcgGFiAFKkB2shE,5.657222222222222e-05,2021,506,90,438
+Payphone,Maroon 5,Overexposed Track By Track,2012-01-01,86,https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A,1XGmzt0PVuFgQYYnV2It7A,6.421472222222222e-05,2012,582,306,500
+Fireflies,Nightcore Reality,Fireflies,2019-07-19,36,https://open.spotify.com/track/5KE6lHTUWeWxhHilA145PM,5KE6lHTUWeWxhHilA145PM,5.222222222222222e-05,2019,251,340,234
+Steal My Girl,One Direction,FOUR (Deluxe),2014-11-17,84,https://open.spotify.com/track/2Bs4jQEGMycglOfWPBqrVG,2Bs4jQEGMycglOfWPBqrVG,6.337027777777777e-05,2014,703,352,214
+Clarity,Zedd,Clarity,2012-01-01,78,https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c,60wwxj6Dd9NJlirf84wr2c,7.539611111111111e-05,2012,136,493,132
+Close To Me (with Diplo) (feat. Swae Lee),Ellie Goulding,Close To Me (feat. Swae Lee),2018-10-24,62,https://open.spotify.com/track/5JEx7HbmvHQQswJCsoo9rA,5JEx7HbmvHQQswJCsoo9rA,5.07286111111111e-05,2018,137,153,133
+Dusk Till Dawn (feat. Sia) - Radio Edit,ZAYN,Icarus Falls,2018-12-14,84,https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP,3e7sxremeOE3wTySiOhGiP,6.638888888888889e-05,2018,211,489,328
+Mercy,Into The Nightcore,"Into The Nightcore, Vol. 8",2020-03-03,37,https://open.spotify.com/track/7ERJOJC84FjdPW9VWtzbRw,7ERJOJC84FjdPW9VWtzbRw,4.542e-05,2020,502,204,348
+You Need To Calm Down,Taylor Swift,Lover,2019-08-23,79,https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5,6RRNNciQGZEXnqk8SQ9yv5,4.76e-05,2019,859,438,407
+Someone You Loved,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,2019-05-17,87,https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf,7qEHsqek33rTcFNT9PFqLf,5.0600000000000003e-05,2019,690,265,175
+I Don't Care (with Justin Bieber),Ed Sheeran,I Don't Care (with Justin Bieber),2019-05-10,76,https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns,3HVWdVOQ0ZA45FuZGSfvns,6.109611111111112e-05,2019,339,149,309
+Intentions,Justin Bieber,Intentions,2020-02-07,69,https://open.spotify.com/track/364dI1bYnvamSnBJ8JcNzN,364dI1bYnvamSnBJ8JcNzN,5.913e-05,2020,383,233,346
+Dance Monkey,Tones And I,Dance Monkey (Stripped Back) / Dance Monkey,2019-10-17,76,https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K,2XU0oxnq2qxCpomAAuJY8K,5.817722222222222e-05,2019,166,460,158
+Leave The Door Open,Bruno Mars,Leave The Door Open,2021-03-05,6,https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh,7MAibcTli4IisCtbHKrGMh,6.724888888888889e-05,2021,424,83,385
+Dernière danse,Indila,Mini World,2014-01-01,81,https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT,65uoaqX5qcjXZRheAj1qQT,5.930361111111111e-05,2014,180,201,439
+abcdefu,GAYLE,abcdefu,2021-08-13,76,https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL,4fouWK6XVHhzl78KzQ1UjL,4.6833611111111114e-05,2021,864,170,769
+Airplanes (feat. Hayley Williams of Paramore),B.o.B,100 Greatest R&B,2019-11-22,45,https://open.spotify.com/track/47AUpATUatp72I5Ctmh8I4,47AUpATUatp72I5Ctmh8I4,5.00925e-05,2019,24,51,3
+Impossible,Shontelle,No Gravity,2010-01-01,0,https://open.spotify.com/track/45EDI3rk0f4cAMt9f8b56R,45EDI3rk0f4cAMt9f8b56R,6.292583333333333e-05,2010,372,415,471
+Warriors,Imagine Dragons,Smoke + Mirrors (Deluxe),2015-10-23,55,https://open.spotify.com/track/6Q2JimwoGgG5W9HdmH1hmq,6Q2JimwoGgG5W9HdmH1hmq,4.725166666666667e-05,2015,807,200,599
+All Falls Down (feat. Juliander),Alan Walker,Different World,2018-12-14,66,https://open.spotify.com/track/1HvCFAUIWQsWV9zud3UhDl,1HvCFAUIWQsWV9zud3UhDl,5.5244444444444445e-05,2018,28,21,173
+Sing Me to Sleep,Alan Walker,Different World,2018-12-14,65,https://open.spotify.com/track/1tfVpMI8G6EakZU4rEja4w,1tfVpMI8G6EakZU4rEja4w,5.216666666666666e-05,2018,672,21,173
+Alone,Alan Walker,Different World,2018-12-14,76,https://open.spotify.com/track/3LlmKSHR3Rs0Y3KHQLAYDk,3LlmKSHR3Rs0Y3KHQLAYDk,4.456277777777778e-05,2018,33,21,173
+Diamond Heart,Alan Walker,Different World,2018-12-14,62,https://open.spotify.com/track/0nrWZWkJM62ftQJSI8fDc0,0nrWZWkJM62ftQJSI8fDc0,6.675916666666668e-05,2018,184,21,173
+everything i wanted,Billie Eilish,everything i wanted,2019-11-13,85,https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ,3ZCTVFBt2Brf31RLEnCkWJ,6.817361111111112e-05,2019,871,70,778
+ocean eyes,Billie Eilish,dont smile at me,2017-12-22,85,https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9,7hDVYcQq6MxkdJGweuCtl9,5.566083333333333e-05,2017,887,70,776
+FRIENDS,Marshmello,Speak Your Mind (Deluxe),2018-04-27,54,https://open.spotify.com/track/6IQCmIGaOxzjNNcwScETVD,6IQCmIGaOxzjNNcwScETVD,5.628333333333333e-05,2018,233,307,607
+Call You Mine,The Chainsmokers,World War Joy,2019-12-06,69,https://open.spotify.com/track/2oejEp50ZzPuQTQ6v54Evp,2oejEp50ZzPuQTQ6v54Evp,6.0455555555555555e-05,2019,122,442,756
+Something Just Like This,The Chainsmokers,Something Just Like This,2017-02-22,73,https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH,1dNIEtp7AY3oDAKCGg2XkH,6.878500000000001e-05,2017,691,442,605
+All We Know,The Chainsmokers,All We Know,2016-09-29,71,https://open.spotify.com/track/2rizacJSyD9S1IQUxUxnsK,2rizacJSyD9S1IQUxUxnsK,5.391111111111111e-05,2016,32,442,43
+This Feeling,The Chainsmokers,Sick Boy,2018-12-14,74,https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl,4NBTZtAt1F13VvlSKe6KTl,5.4985e-05,2018,769,442,590
+Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,Justice,2021-03-19,81,https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI,4iJyoBOLtHqaGxP12qzhQI,5.50225e-05,2021,583,233,364
+Stuck with U (with Justin Bieber),Ariana Grande,Stuck with U,2020-05-08,81,https://open.spotify.com/track/4HBZA5flZLE435QTztThqH,4HBZA5flZLE435QTztThqH,6.346722222222221e-05,2020,717,38,623
+Purpose,Justin Bieber,Purpose (Deluxe),2015-11-13,66,https://open.spotify.com/track/2IjyFRCRn8x1bEquOM3vxg,2IjyFRCRn8x1bEquOM3vxg,5.837777777777778e-05,2015,609,233,536
+The Heart Wants What It Wants,Selena Gomez,For You,2014-11-21,59,https://open.spotify.com/track/2dRvMEW4EwySxRUtEamSfG,2dRvMEW4EwySxRUtEamSfG,6.315555555555555e-05,2014,757,410,238
+Runaway,AURORA,All My Demons Greeting Me As A Friend (Deluxe),2016-03-11,79,https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6,1v1oIWf2Xgh54kIWuKsDf6,6.911833333333333e-05,2016,641,14,39
+idfc - Tarro Remix,blackbear,idfc (Tarro Remix),2016-10-17,59,https://open.spotify.com/track/1wsZ0cp5He4Wm4yohNjwIs,1wsZ0cp5He4Wm4yohNjwIs,6.906472222222221e-05,2016,879,496,784
+Solo (feat. Demi Lovato),Clean Bandit,What Is Love? (Deluxe Edition),2018-11-30,71,https://open.spotify.com/track/3NuK5xMlSlB6K2Qp16zf3h,3NuK5xMlSlB6K2Qp16zf3h,6.186277777777777e-05,2018,687,108,735
+INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,INDUSTRY BABY (feat. Jack Harlow),2021-07-23,76,https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK,27NovPIUIRrOZoCHxABJwK,5.888888888888889e-05,2021,365,270,326
+Ain't Your Mama,Jennifer Lopez,Ain't Your Mama,2016-04-07,70,https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72,2hgzdQdnfWwtdpZbhZlV72,6.062055555555556e-05,2016,23,219,36
+24/7,Celina Sharma,CECE,2021-10-08,2,https://open.spotify.com/track/304uzYXYjPulJpLRJzuesX,304uzYXYjPulJpLRJzuesX,5.124388888888889e-05,2021,4,97,117
+Infinity,Jaymes Young,Feel Something,2017-06-23,78,https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK,1SOClUWhOi8vHZYMz3GluK,6.603333333333333e-05,2017,381,217,226
+Snowman - Slowed Down,Sia,Snowman (Slowed Down & Snowed In Remix),2021-10-29,47,https://open.spotify.com/track/6Ob0vkoBVpja3yLQkjCdpK,6Ob0vkoBVpja3yLQkjCdpK,5.0076388888888885e-05,2021,681,417,601
+Who I Am,Anne-Marie,Therapy,2021-07-23,44,https://open.spotify.com/track/1o8kO8YyMWRAeb9bE2AIxO,1o8kO8YyMWRAeb9bE2AIxO,4.2359166666666666e-05,2021,837,32,684
+Love How It Hurts (feat. Tina Stachowiak),Axel Johansson,Love How It Hurts (feat. Tina Stachowiak),2020-05-29,44,https://open.spotify.com/track/2Y6wXxB9QpckJTkFkcUY3o,2Y6wXxB9QpckJTkFkcUY3o,5.55e-05,2020,457,48,402
+Broken Angel,Arash,Superman,2014-11-04,0,https://open.spotify.com/track/6aTtl40Or1Mgx2pjcP1T9L,6aTtl40Or1Mgx2pjcP1T9L,5.341111111111111e-05,2014,110,35,630
+One Day - Feat. Helena,Arash,Superman,2014-11-04,0,https://open.spotify.com/track/7yZlAJrpOMY13mLjf9Tzv5,7yZlAJrpOMY13mLjf9Tzv5,5.907388888888889e-05,2014,561,35,630
+Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground),Shakira,Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground),2010-05-07,10,https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4,2Cd9iWfcOpGDHLz6tVA3G4,5.6285e-05,2010,802,413,724
+Title,Meghan Trainor,Title (Deluxe),2015-01-12,64,https://open.spotify.com/track/0k5hoseEJnCAbpRh38dNoI,0k5hoseEJnCAbpRh38dNoI,4.853694444444444e-05,2015,777,312,694
+Be Somebody,Phil Good,Be Somebody,2018-09-14,38,https://open.spotify.com/track/2rRNyvQWYm0e2ckkuDTr7n,2rRNyvQWYm0e2ckkuDTr7n,5.1822222222222224e-05,2018,73,363,84
+"Sit Still, Look Pretty",Daya,"Sit Still, Look Pretty",2017-01-06,2,https://open.spotify.com/track/2DpCdPMg1BADE4HDnxt3Rd,2DpCdPMg1BADE4HDnxt3Rd,5.6173888888888885e-05,2017,674,126,595
+Enchanted,Taylor Swift,Speak Now,2010-10-25,72,https://open.spotify.com/track/04S1pkp1VaIqjg8zZqknR5,04S1pkp1VaIqjg8zZqknR5,9.783333333333333e-05,2010,217,438,606
+Enemy (with JID) - from the series Arcane League of Legends,Imagine Dragons,Enemy (with JID) [from the series Arcane League of Legends],2021-10-28,78,https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ,1r9xUipOqoNwggBpENDsvJ,4.816138888888889e-05,2021,220,200,201
+Dancing With Your Ghost,Sasha Alex Sloan,Dancing With Your Ghost,2019-06-28,78,https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ,1TQXIltqoZ5XXyfCbAeSQQ,5.492555555555555e-05,2019,167,404,159
+Lot to Learn,Luke Christopher,TMRWFRVR,2017-07-28,50,https://open.spotify.com/track/2HzfRSfCogBSsgW2CckVA2,2HzfRSfCogBSsgW2CckVA2,6.89961111111111e-05,2017,455,285,637
+Heat Waves (with iann dior),Glass Animals,Heat Waves (with iann dior),2021-03-25,1,https://open.spotify.com/track/3pXVWgkWybiGchdKGYDgdl,3pXVWgkWybiGchdKGYDgdl,4.869472222222222e-05,2021,309,177,282
+Him & I,G-Eazy,The Beautiful & Damned,2017-12-15,53,https://open.spotify.com/track/69MpAbCg0X0HVUoGcprfq7,69MpAbCg0X0HVUoGcprfq7,7.4685e-05,2017,317,169,659
+Dandelions - slowed + reverb,Ruth B.,Dandelions (slowed + reverb),2021-08-27,67,https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp,6fhG2KJgwO7CrNflRaRmvp,7.464361111111111e-05,2021,169,389,161
+@ my worst,blackbear,@ my worst,2021-08-06,61,https://open.spotify.com/track/0mHGftgYtmpH4y17T3VZ2E,0mHGftgYtmpH4y17T3VZ2E,5.3156666666666665e-05,2021,12,496,18
+Survivor,2WEI,Sequels,2018-09-20,4,https://open.spotify.com/track/29Y7wbrOvQlAwZQJM51ugW,29Y7wbrOvQlAwZQJM51ugW,5.423111111111111e-05,2018,730,1,580
+Fake,The Tech Thieves,Fake,2018-08-03,62,https://open.spotify.com/track/5d7P5eapBbN3gfce5ARfuh,5d7P5eapBbN3gfce5ARfuh,3.921555555555555e-05,2018,238,450,219
+Perfect,Ed Sheeran,÷ (Deluxe),2017-03-03,90,https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v,0tgVpDi06FyKpA1z0VMD4v,7.316666666666667e-05,2017,586,149,797
+Barbie Girl,Aqua,Aquarium (Special Edition),1997-01-01,77,https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr,5ZrDlcxIDZyjOzHdYW1ydr,5.498888888888888e-05,1997,70,34,54
+Lollipop (Candyman),Aqua,Aquarium (Special Edition),1997-01-01,61,https://open.spotify.com/track/7hIKkllltXJFgGfUZbVazE,7hIKkllltXJFgGfUZbVazE,6.017388888888888e-05,1997,445,34,54
+Wannabe,Spice Girls,Spice,1996-01-01,82,https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT,1Je1IMUlBXcx1Fz0WE7oPT,4.806277777777778e-05,1996,805,426,608
+Bumpy Ride,Mohombi,MoveMeant (International),2010-01-01,73,https://open.spotify.com/track/71R6zJsrF3ffc3TBFHfivX,71R6zJsrF3ffc3TBFHfivX,6.242222222222221e-05,2010,112,320,448
+Follow Your Arrow,Kacey Musgraves,Same Trailer Different Park,2013-01-01,65,https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP,4CLPNURPcKztF9RRdcWLGP,5.5455555555555556e-05,2013,255,240,574
+MIDDLE OF THE NIGHT,Elley Duhé,MIDDLE OF THE NIGHT,2020-01-10,77,https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly,58HvfVOeJY7lUuCqF0m3ly,5.123527777777778e-05,2020,476,152,410
+Roses Are Red - Original Version,Aqua,Aquarium (Special Edition),1997-01-01,60,https://open.spotify.com/track/0tIqERCyX2ogv5Yn00kswb,0tIqERCyX2ogv5Yn00kswb,6.275916666666667e-05,1997,636,34,54
+Doctor Jones,Aqua,Aquarium (Special Edition),1997-01-01,67,https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1,6EBDmMZBQkWrj7jWlGhFU1,5.651111111111111e-05,1997,190,34,54
+Boss Bitch,Doja Cat,Boss Bitch,2020-01-23,78,https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k,78qd8dvwea0Gosb6Fe6j3k,3.728861111111111e-05,2020,104,138,113
+overwhelmed,Royal & the Serpent,Overwhelmed,2020-06-26,66,https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y,5jjZikDrEd0by1o7V3fO4y,4.424805555555555e-05,2020,888,388,501
+Meet Me At Our Spot,THE ANXIETY,THE ANXIETY,2020-03-13,75,https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG,07MDkzWARZaLEdKxo6yArG,4.518888888888889e-05,2020,496,434,636
+Bad Boy (feat. Luana Kiara),Raaban,Bad Boy (feat. Luana Kiara),2018-08-24,65,https://open.spotify.com/track/64p6ua7zpf66s62StC2QLv,64p6ua7zpf66s62StC2QLv,5.296472222222222e-05,2018,64,374,74
+Tomboy,Destiny Rogers,Tomboy,2019-02-28,67,https://open.spotify.com/track/5Ti3fqGTfjUsSdylFNy0Ng,5Ti3fqGTfjUsSdylFNy0Ng,5.6512500000000005e-05,2019,779,130,696
+The Spectre,Alan Walker,The Spectre,2017-09-15,74,https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ,2DGa7iaidT5s0qnINlwMjJ,5.3829722222222215e-05,2017,765,21,678
+Havana (feat. Young Thug),Camila Cabello,Camila,2018-01-12,83,https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W,1rfofaqEpACxVEHIZBJe6W,6.036277777777778e-05,2018,302,90,121
+Señorita,Shawn Mendes,Shawn Mendes (Deluxe),2019-06-19,81,https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2,6v3KW9xbzN5yKLt9YKDYA2,5.2999722222222225e-05,2019,660,414,585
+you broke me first,Tate McRae,you broke me first,2020-04-17,11,https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR,45bE4HXI0AwGZXfZtMp8JR,4.7018055555555554e-05,2020,897,437,796
+Woman Like Me (feat. Nicki Minaj),Little Mix,Woman Like Me (feat. Nicki Minaj),2018-10-12,55,https://open.spotify.com/track/6rrTr2HEAzlpC4KWZxF3S1,6rrTr2HEAzlpC4KWZxF3S1,6.339055555555555e-05,2018,846,278,753
+Older,Sasha Alex Sloan,Older,2018-11-09,72,https://open.spotify.com/track/52iLDrSoRtf9lcgFuLVfqE,52iLDrSoRtf9lcgFuLVfqE,5.3055833333333335e-05,2018,555,404,487
+Ginseng Strip 2002,Yung Lean,Lavender,2013-08-16,2,https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc,79nEEoEPY2w8EXj9hjn5oc,4.27775e-05,2013,270,488,383
+ROXANNE,Arizona Zervas,ROXANNE,2019-10-10,75,https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK,696DnlkuDOXcMAnKlTgXXK,4.545444444444444e-05,2019,613,39,543
+Play,K-391,Play,2019-08-30,69,https://open.spotify.com/track/4jp4Z02kzzg8gK0NmDGgml,4jp4Z02kzzg8gK0NmDGgml,4.666e-05,2019,590,235,519
+MEMORIES!,347aidan,TROUBLED MEMORIES!,2021-06-18,70,https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T,27XMmSWSOXJ7eVb40tH93T,3.8279444444444434e-05,2021,475,2,638
+Toxic,BoyWithUke,Faded,2021-09-10,0,https://open.spotify.com/track/2kaNmAbqrtOf7Rdr3fnCWl,2kaNmAbqrtOf7Rdr3fnCWl,4.667222222222222e-05,2021,782,78,217
+THATS WHAT I WANT,Lil Nas X,MONTERO,2021-09-17,77,https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO,0e8nrvls4Qqv5Rfa2UhqmO,3.9972500000000004e-05,2021,737,270,412
+Woman,Doja Cat,Planet Her,2021-06-25,84,https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4,6Uj1ctrBOjOas8xZXGqKk4,4.7951666666666664e-05,2021,845,138,517
+Burn Break Crash,Aanysa,Burn Break Crash,2016-11-04,42,https://open.spotify.com/track/7J9kqM3KFem6P3uSsyitIZ,7J9kqM3KFem6P3uSsyitIZ,6.259777777777778e-05,2016,114,16,116
+You Can't Stop the Girl - Film Mix,Bebe Rexha,Maleficent: Mistress of Evil (Original Motion Picture Soundtrack),2019-10-18,36,https://open.spotify.com/track/49b0RGtDQbjMEZefEV9DlJ,49b0RGtDQbjMEZefEV9DlJ,4.437027777777778e-05,2019,856,61,424
+In The End - Mellen Gi Remix,Tommee Profitt,In The End,2019-03-22,70,https://open.spotify.com/track/5rAUZy2eDdegBxUVYxePK2,5rAUZy2eDdegBxUVYxePK2,6.0607777777777775e-05,2019,379,459,341
+Bring Me To Life,Evanescence,Fallen,2003-03-04,88,https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp,0COqiPhxzoWICwFCS4eZcp,6.552583333333334e-05,2003,109,161,220
+Angel of Darkness - Video Mix,Alex C.,Angel of Darkness,2003-01-01,59,https://open.spotify.com/track/2p6yof8qYnSFB3gjnerrWs,2p6yof8qYnSFB3gjnerrWs,5.975166666666667e-05,2003,38,26,50
+Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,Back To You (From 13 Reasons Why – Season 2 Soundtrack),2018-05-10,76,https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW,4hQ6UGyWQIGJmHSo0J88JW,5.7751111111111106e-05,2018,62,410,71
+My Head & My Heart,Ava Max,Heaven & Hell,2020-09-18,74,https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm,1KixkQVDUHggZMU9dUobgm,4.8544444444444445e-05,2020,520,45,283
+Material Girl,Madonna,Celebration (double disc version),2009-09-18,74,https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5,22sLuJYcvZOSoLLRYev1s5,6.674444444444445e-05,2009,489,296,125
+Face Off,Tech N9ne,ASIN9NE,2021-10-08,64,https://open.spotify.com/track/6M47gaKejso9772SKTa3yH,6M47gaKejso9772SKTa3yH,6.105611111111111e-05,2021,234,439,27
+In My Feelings,Drake,Scorpion,2018-06-29,75,https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ,2G7V7zsVDxg1yRsu7Ew9RJ,6.0534722222222226e-05,2018,376,142,577
+Umbrella,Rihanna,Good Girl Gone Bad: Reloaded,2008-06-02,85,https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux,49FYlytm3dAAraYgpoJZux,7.666277777777778e-05,2008,787,384,257
+Girls Like You (feat. Cardi B) - Cardi B Version,Maroon 5,Red Pill Blues (Deluxe),2018-06-15,74,https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8,7fa9MBXhVfQ8P8Df9OEbD8,6.542916666666666e-05,2018,276,306,550
+Don't Let Me Down,The Chainsmokers,Don't Let Me Down,2016-02-05,83,https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK,1i1fxkWeaMmKEB4T7zqbzK,5.788138888888889e-05,2016,196,442,180
+Meet Me on the Battlefield,Nightcore Reality,Battlefield,2021-02-10,38,https://open.spotify.com/track/1XjeGxINZGahvoNJ69gcEt,1XjeGxINZGahvoNJ69gcEt,5.972222222222222e-05,2021,498,340,80
+Rumors,NEFFEX,Rumors,2017-04-26,70,https://open.spotify.com/track/7wOqBOryVGD3nqDUihDSwL,7wOqBOryVGD3nqDUihDSwL,6.877972222222221e-05,2017,640,326,563
+everything sucks,vaultboy,everything sucks,2021-05-21,66,https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK,3z06k8YF9CqX0CGFrlekOK,3.205583333333333e-05,2021,872,508,779
+Cool for the Summer,Demi Lovato,Confident,2015-01-01,79,https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz,3uwnnTQcHM1rDqSfA4gQNz,5.9649722222222224e-05,2015,149,128,140
+Walls Could Talk,Halsey,hopeless fountain kingdom (Deluxe),2017-06-02,4,https://open.spotify.com/track/5ln5yQdUywVbf8HhFsOcd6,5ln5yQdUywVbf8HhFsOcd6,2.827472222222222e-05,2017,804,190,781
+Legends Never Die - (Remix),League of Legends,Legends Never Die (Remix),2017-11-02,66,https://open.spotify.com/track/66YtIqT0kN4958EXnCnAmE,66YtIqT0kN4958EXnCnAmE,4.6436944444444445e-05,2017,425,263,386
+Give Your Heart a Break,Demi Lovato,Unbroken,2011-01-01,73,https://open.spotify.com/track/3sP3c86WFjOzHHnbhhZcLA,3sP3c86WFjOzHHnbhhZcLA,5.7040555555555555e-05,2011,279,128,707
+Little Do You Know Beat Cry,Yagih Mael,Little Do You Know Beat Cry,2021-05-05,0,https://open.spotify.com/track/0Haf91qcvyZqPQLBQiaUuO,0Haf91qcvyZqPQLBQiaUuO,4.279555555555555e-05,2021,443,484,396
+Jiggle Jiggle (with Duke & Jones),Louis Theroux,Jiggle Jiggle (with Duke & Jones),2022-05-13,60,https://open.spotify.com/track/1I4lCSP69P74nU3a6Su5L2,1I4lCSP69P74nU3a6Su5L2,2.7002222222222225e-05,2022,398,282,360
+Boyfriend,Dove Cameron,Boyfriend,2022-02-11,74,https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj,59CfNbkERJ3NoTXDvoURjj,4.2499999999999996e-05,2022,106,141,114
+Rise Up,TheFatRat,Rise Up,2019-10-25,67,https://open.spotify.com/track/6inzGTxyGsXVjpVKtFGrcE,6inzGTxyGsXVjpVKtFGrcE,4.7154444444444446e-05,2019,629,456,557
+Thunder,Gabry Ponte,Thunder,2021-05-07,79,https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB,2USlegnFJLrVLpoVfPimKB,4.444444444444444e-05,2021,772,173,690
+Maybe My Soulmate Died,iamnotshane,Maybe My Soulmate Died,2022-06-15,0,https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c,7N1bEUVuQo8HHuikDgJ10c,3.177083333333333e-05,2022,490,501,428
+I Shot Cupid,Stela Cole,I Shot Cupid,2021-08-19,0,https://open.spotify.com/track/72vVa7iyvVtjeaNDJfVBYq,72vVa7iyvVtjeaNDJfVBYq,4.561388888888888e-05,2021,353,427,319
+Scars To Your Beautiful,Alessia Cara,Know-It-All,2015-11-13,81,https://open.spotify.com/track/0wI7QkCcs8FUQE1OkXUIqd,0wI7QkCcs8FUQE1OkXUIqd,6.395555555555556e-05,2015,654,24,375
+I Ain't Worried,OneRepublic,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",2022-05-13,84,https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB,4h9wh7iOZ0GGn8QVp4RAOB,4.124583333333333e-05,2022,336,353,308
+One Kiss (with Dua Lipa),Calvin Harris,One Kiss (with Dua Lipa),2018-04-06,81,https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6,7ef4DlsgrMEH11cDZd32M6,5.9679444444444446e-05,2018,562,89,491
+Until I Found You,Stephen Sanchez,Until I Found You,2021-09-01,80,https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV,0T5iIrXA4p5GsubkhuBIKV,4.936666666666667e-05,2021,793,428,712
+Glimpse of Us,Joji,Glimpse of Us,2022-06-10,36,https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ,6xGruZOHLs39ZbVccQTuPZ,6.484888888888889e-05,2022,281,225,252
+Hey Ma (with J Balvin & Pitbull feat. Camila Cabello),J Balvin,Fast & Furious 8: The Album,2017-04-14,40,https://open.spotify.com/track/3BAWg71hTuj8Rq9CShHUNc,3BAWg71hTuj8Rq9CShHUNc,5.417777777777778e-05,2017,314,207,222
+Te Felicito,Shakira,Te Felicito,2022-04-21,74,https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt,2rurDawMfoKP4uHyb2kJBt,4.7843055555555554e-05,2022,744,413,649
+aftermath,vaultboy,aftermath,2021-09-03,57,https://open.spotify.com/track/4nzBST9JdZIy9qfilr93Po,4nzBST9JdZIy9qfilr93Po,4.6280277777777773e-05,2021,865,508,770
+Peter Pan Was Right,Anson Seabra,Peter Pan Was Right,2022-04-29,65,https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A,2At18rPHOuTEjGEppwGV0A,5.347138888888889e-05,2022,587,33,515
+One Kiss / I Was Never There,Just Lowkey,One Kiss / I Was Never There,2022-07-24,0,https://open.spotify.com/track/1N7mCyEZyuBw8uv232xD1P,1N7mCyEZyuBw8uv232xD1P,4.758472222222222e-05,2022,563,232,492
+F**kin' Perfect,P!nk,Greatest Hits...So Far!!!,2010-11-12,28,https://open.spotify.com/track/4DZpaWfkmvRsBbPqL7D9rp,4DZpaWfkmvRsBbPqL7D9rp,5.9329444444444444e-05,2010,229,354,263
+"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",P!nk,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",2016-04-15,70,https://open.spotify.com/track/7K5dzhGda2vRTaAWYI3hrb,7K5dzhGda2vRTaAWYI3hrb,5.9836944444444445e-05,2016,402,354,363
+I Was Never There Sped Up,Just Lowkey,I Was Never There Sped Up,2022-07-17,0,https://open.spotify.com/track/1HipUgS1ks1nWcLNwb7NA3,1HipUgS1ks1nWcLNwb7NA3,5.169972222222222e-05,2022,356,232,320
+I'm Good (Blue),David Guetta,I'm Good (Blue),2022-08-26,88,https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK,4uUG5RXrOk84mYEfFvj3cK,4.867722222222223e-05,2022,359,124,322
+cinderella's dead,EMELINE,cinderella's dead,2022-04-01,70,https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz,5MWXOo8DJwgODtPGaietNz,3.3518333333333334e-05,2022,869,147,775
+"Sex, Drugs, Etc (Sped Up)",Xizt,"Sex, Drugs, Etc (Sped Up)",2022-09-12,0,https://open.spotify.com/track/7MQB6IDnyjaI3WKG2Hr3db,7MQB6IDnyjaI3WKG2Hr3db,4.588222222222222e-05,2022,659,482,581
+Mary On A Cross (TikTok Version),Divine Deluxe Hitz,Mary On A Cross (TikTok Version),2022-09-13,0,https://open.spotify.com/track/1SIAdCt9tdJBgPsLgT9rrN,1SIAdCt9tdJBgPsLgT9rrN,6.751999999999999e-05,2022,488,134,427
+SNAP,Rosa Linn,SNAP,2022-03-19,20,https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc,76OGwb5RA9h4FxQPT33ekc,4.9875277777777775e-05,2022,646,386,567
+If I Would Have Known,Kyle Hume,If I Would Have Known,2021-10-08,61,https://open.spotify.com/track/43zwZPRtS6eJMIuJOtdMub,43zwZPRtS6eJMIuJOtdMub,4.6658611111111116e-05,2021,369,257,332
+Whatever It Takes,Imagine Dragons,Evolve,2017-06-23,84,https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb,6Qn5zhYkTa37e91HC1D7lb,5.5900000000000004e-05,2017,830,200,207
+Dangerous Woman,Ariana Grande,Dangerous Woman,2016-04-01,82,https://open.spotify.com/track/3nef5W8jTkXrOKgCu4kmq7,3nef5W8jTkXrOKgCu4kmq7,6.554055555555555e-05,2016,171,38,163
+Girl On Fire,Alicia Keys,Girl On Fire,2012-09-04,1,https://open.spotify.com/track/6qOEjO2IUD7PjtpsXawq0d,6qOEjO2IUD7PjtpsXawq0d,6.247777777777778e-05,2012,271,30,250
+Here With Me,Marshmello,Here With Me,2019-03-08,42,https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac,5icOoE6VgqFKohjWWNp0Ac,4.3429444444444444e-05,2019,312,307,288
+Bloody Mary,Lady Gaga,Born This Way (International Special Edition Version),2011-05-23,77,https://open.spotify.com/track/53jnnqFSRGMDB9ADrNriCA,53jnnqFSRGMDB9ADrNriCA,6.798888888888889e-05,2011,99,260,111
+2step,Ed Sheeran,=,2021-10-25,65,https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0,2SUxn2O9NHL6GHGQFgwCY0,4.267388888888888e-05,2021,6,149,16
+Eastside (with Halsey & Khalid),benny blanco,Eastside (with Halsey & Khalid),2018-07-12,74,https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao,0d2iYfpKoM0QCKvcLCkBao,4.82775e-05,2018,214,495,195
+South of the Border (feat. Camila Cabello & Cardi B),Ed Sheeran,No.6 Collaborations Project,2019-07-12,73,https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk,4vUmTMuQqjdnvlZmAH61Qk,5.679611111111111e-05,2019,694,149,472
+Dive,Ed Sheeran,÷ (Deluxe),2017-03-03,75,https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls,51ChrwmUPDJvedPQnIU8Ls,6.623333333333334e-05,2017,189,149,797
+Don't,Ed Sheeran,x (Deluxe Edition),2014-06-21,74,https://open.spotify.com/track/1huvTbEYtgltjQRXzrNKGi,1huvTbEYtgltjQRXzrNKGi,6.106666666666667e-05,2014,193,149,794
+New Man,Ed Sheeran,÷ (Deluxe),2017-03-03,63,https://open.spotify.com/track/5HDPtsnyb3maFmPL8LLUTG,5HDPtsnyb3maFmPL8LLUTG,5.257777777777777e-05,2017,536,149,797
+Beautiful People (feat. Khalid),Ed Sheeran,Beautiful People (feat. Khalid),2019-06-28,72,https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97,4evmHXcjt3bTUHD1cvny97,5.496277777777778e-05,2019,77,149,88
+Bam Bam (feat. Ed Sheeran),Camila Cabello,Bam Bam (feat. Ed Sheeran),2022-03-04,75,https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1,0QBzMgT7NIeoCYy3sJCof1,5.7241666666666664e-05,2022,68,90,77
+Galway Girl,Ed Sheeran,÷ (Deluxe),2017-03-03,82,https://open.spotify.com/track/0afhq8XCExXpqazXczTSve,0afhq8XCExXpqazXczTSve,4.745166666666667e-05,2017,264,149,797
+Love Story,Indila,Mini World,2014-01-01,78,https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7,6nGeLlakfzlBcFdZXteDq7,8.785555555555556e-05,2014,463,201,439
+Renegade (sped up) - Remix,Xanemusic,Renegade (sped up) [Remix],2023-01-18,0,https://open.spotify.com/track/0xLtOeWVAgJ7ioZXdJDVGF,0xLtOeWVAgJ7ioZXdJDVGF,4.6669166666666664e-05,2023,625,481,553
+Under x I Was Never - Remix,DJ Fronteo,Under x I Was Never,2022-09-14,0,https://open.spotify.com/track/6g0YiEetLFMZeuWjMXHQD4,6g0YiEetLFMZeuWjMXHQD4,5.5431111111111114e-05,2022,789,116,708
+Alarm,Anne-Marie,Speak Your Mind (Deluxe),2018-04-27,64,https://open.spotify.com/track/572xshmOviSGH70oPYMCZV,572xshmOviSGH70oPYMCZV,5.710916666666667e-05,2018,25,32,607
+Ciao Adios,Anne-Marie,Speak Your Mind (Deluxe),2018-04-27,67,https://open.spotify.com/track/01BC4Xj5tfsfV8DLDrma7q,01BC4Xj5tfsfV8DLDrma7q,5.54925e-05,2018,134,32,607
+Love The Way You Lie - Part III (Original Demo),Skylar Grey,The Buried Sessions of Skylar Grey,2012-01-01,45,https://open.spotify.com/track/4GSiy5JzJoWJ9GgMnroiLE,4GSiy5JzJoWJ9GgMnroiLE,6.942583333333332e-05,2012,466,421,662
+Coming Home - Part II / Bonus Track,Skylar Grey,Don't Look Down,2014-01-01,53,https://open.spotify.com/track/2EowclmjcHVK6W8xlngurh,2EowclmjcHVK6W8xlngurh,4.5785e-05,2014,142,421,181
+Why,Sabrina Carpenter,Why,2017-07-07,63,https://open.spotify.com/track/1byScELwcJffsdL5QWa6Yk,1byScELwcJffsdL5QWa6Yk,4.752666666666667e-05,2017,839,397,744
+Shower,Becky G,Shower,2014-04-23,79,https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ,3DmW6y7wTEYHJZlLo1r6XJ,5.7268333333333335e-05,2014,667,62,588
+God is a woman,Ariana Grande,Sweetener,2018-08-17,78,https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C,5OCJzvD7sykQEKHH7qAC3C,5.487388888888889e-05,2018,284,38,632
+Without Me,Halsey,Without Me,2018-10-04,40,https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C,5p7ujcrUXASCNwRaWNHR1C,5.601666666666667e-05,2018,843,190,751
+Drag Me Down,One Direction,Made In The A.M. (Deluxe Edition),2015-11-13,81,https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G,2K87XMYnUMqLcX3zvtAF4G,5.3366666666666665e-05,2015,207,352,417
+Dress,Taylor Swift,reputation,2017-11-10,77,https://open.spotify.com/track/6oVxXO5oQ4pTpO8RSnkzvv,6oVxXO5oQ4pTpO8RSnkzvv,6.39925e-05,2017,209,438,789
+i'm yours sped up,Isabel LaRosa,i'm yours,2022-10-28,70,https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE,4sFGNz4MYpGoz53ZGCwsiE,3.5494444444444446e-05,2022,878,205,783
+Flowers,Miley Cyrus,Flowers,2023-01-13,22,https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn,0yLdNVWF3Srea0uzk55zFn,5.5681666666666666e-05,2023,253,318,235
+Calm Down (with Selena Gomez),Rema,Calm Down (with Selena Gomez),2022-08-25,82,https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8,0WtM2NBVQNNJLh6scP13H8,6.647694444444444e-05,2022,124,379,120
+Sunroof,Nicky Youre,Sunroof,2021-12-03,13,https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8,4h4QlmocP3IuwYEj2j14p8,4.5284722222222215e-05,2021,728,336,629
+Escapism.,RAYE,Escapism. / The Thrill Is Gone.,2022-10-12,14,https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ,5Z2MiIZ5I3jJvvmeWMLbOQ,7.565916666666668e-05,2022,222,371,203
+As It Was,Harry Styles,Harry's House,2022-05-20,89,https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e,4Dvkj6JhhA12EX05fT7y2e,4.647305555555555e-05,2022,50,193,275
+People You Know,Selena Gomez,Rare,2020-01-10,76,https://open.spotify.com/track/63mdJr3NMY3wReOkNE6c6W,63mdJr3NMY3wReOkNE6c6W,5.413888888888888e-05,2020,585,410,546
+Mirror,IDER,Emotional Education,2019-07-19,49,https://open.spotify.com/track/5KRyIAm7l9tHnqtA6KbLsp,5KRyIAm7l9tHnqtA6KbLsp,6.0873888888888884e-05,2019,507,196,197
+Anti-Hero,Taylor Swift,Midnights,2022-10-21,84,https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu,0V3wPSX9ygBnCm8psDIegu,5.5747222222222225e-05,2022,41,438,437
+See You Again,Miley Cyrus,Meet Miley Cyrus,2007-06-26,71,https://open.spotify.com/track/3AjyOYxBv8bByfBtG5o9dP,3AjyOYxBv8bByfBtG5o9dP,5.290361111111111e-05,2007,655,318,431
+Silence,Marshmello,Silence,2017-08-11,81,https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU,7vGuf3Y35N4wmASOKLUVVU,5.0228333333333335e-05,2017,670,307,591
+Dark Horse,Katy Perry,PRISM,2013-01-01,82,https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6,4jbmgIyjGoXjY01XxatOx6,5.990888888888888e-05,2013,174,243,508
+Pretty Girl,Nightcore Red,Pretty Girl,2018-08-15,39,https://open.spotify.com/track/2dPDXBCfjb2VpNB2kkhlF0,2dPDXBCfjb2VpNB2kkhlF0,4.904472222222222e-05,2018,602,341,530
+Worst Day Of My Life,Subspace Super Highway,Worst Day Of My Life,2022-05-17,33,https://open.spotify.com/track/3uq27iB3IRU9Ou9HqdAZ0c,3uq27iB3IRU9Ou9HqdAZ0c,4.416888888888888e-05,2022,848,430,757
+Made You Look,Meghan Trainor,Takin' It Back,2022-10-21,79,https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u,0QHEIqNKsMoOY5urbzN48u,3.729333333333333e-05,2022,481,312,644
+Dear Future Husband,Meghan Trainor,Title (Deluxe),2015-01-12,76,https://open.spotify.com/track/3cU2wBxuV6nFiuf6PJZNlC,3cU2wBxuV6nFiuf6PJZNlC,5.1173888888888886e-05,2015,178,312,694
+"Whenever, Wherever",Shakira,Laundry Service,2001-11-13,79,https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG,2lnzGkdtDj5mtlcOW2yRtG,5.4488888888888884e-05,2001,833,413,382
+Heartbeat,Nitecore,Heartbeat,2022-02-25,49,https://open.spotify.com/track/5y3M0g9NeTe4YKc0uBvVX1,5y3M0g9NeTe4YKc0uBvVX1,4.0993888888888885e-05,2022,305,343,280
+Living Hell,Bella Poarch,Dolls EP,2022-08-12,62,https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA,6bTbMMEShyGyrcuIwtBlpA,4.8333888888888886e-05,2022,444,63,176
+Shameless,Camila Cabello,Romance,2019-12-06,84,https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN,2ogKhhoMClkFXek7ZgxAhN,6.103944444444443e-05,2019,662,90,560
+Moral of the Story,Ashe,Ashlyn,2021-05-07,77,https://open.spotify.com/track/69HzZ3ti9DLwb0GdWCGYSo,69HzZ3ti9DLwb0GdWCGYSo,5.583777777777778e-05,2021,514,42,60
+People,Libianca,People,2022-12-06,79,https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz,26b3oVLrRUaaybJulow9kz,5.133083333333333e-05,2022,584,269,514
+Kill Bill,SZA,SOS,2022-12-08,86,https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL,1Qrg8KqiBpW07V7PNxwwwL,4.276277777777778e-05,2022,410,396,568
+I Wanna Be Yours,Arctic Monkeys,AM,2013-09-09,93,https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n,5XeFesFbtLpXzIVDNQP22n,5.1098888888888884e-05,2013,354,37,23
+golden hour,JVKE,this is what ____ feels like (Vol. 1-4),2022-09-23,79,https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg,5odlY52u43F5BjByhxg7wg,5.8127499999999995e-05,2022,873,211,791
+What It Is (Block Boy) (with Kodak Black),Doechii,What It Is (Block Boy) (with Kodak Black),2023-03-17,68,https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE,1O8zCu3dLLPxkbGfIsbRgE,6.203972222222222e-05,2023,826,137,737
+Back To December,Taylor Swift,Speak Now,2010-10-25,65,https://open.spotify.com/track/5l6GqSxplqnZbLg0LTPQeG,5l6GqSxplqnZbLg0LTPQeG,8.14e-05,2010,60,438,606
+The Story Of Us,Taylor Swift,Speak Now,2010-10-25,49,https://open.spotify.com/track/3lXekiVK1ZPZbKconsys73,3lXekiVK1ZPZbKconsys73,7.38e-05,2010,766,438,606
+S&M,Rihanna,Loud,2010-11-16,74,https://open.spotify.com/track/0C4ejWmOTMv8vuYj85mf8m,0C4ejWmOTMv8vuYj85mf8m,6.764805555555556e-05,2010,644,384,400
+Never Be the Same,Jessica Mauboy,Beautiful,2013-10-04,46,https://open.spotify.com/track/71RVcxj9HH4r6bkxG7spaQ,71RVcxj9HH4r6bkxG7spaQ,6.468888888888889e-05,2013,531,220,85
+Style,Taylor Swift,1989 (Deluxe),2014-01-01,80,https://open.spotify.com/track/0ug5NqcwcFR2xrfTkc7k8e,0ug5NqcwcFR2xrfTkc7k8e,6.416666666666666e-05,2014,719,438,8
+Paper Rings,Taylor Swift,Lover,2019-08-23,78,https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR,4y5bvROuBDPr5fuwXbIBZR,6.177777777777777e-05,2019,579,438,407
+ME! (feat. Brendon Urie of Panic! At The Disco),Taylor Swift,Lover,2019-08-23,76,https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45,2Rk4JlNc2TPmZe2af99d45,5.3611111111111115e-05,2019,474,438,407
+Lover (Remix) [feat. Shawn Mendes],Taylor Swift,Lover (Remix) [feat. Shawn Mendes],2019-11-13,68,https://open.spotify.com/track/3i9UVldZOE0aD0JnyfAZZ0,3i9UVldZOE0aD0JnyfAZZ0,6.147388888888889e-05,2019,471,438,408
+Paint The Town Red,Doja Cat,Paint The Town Red,2023-08-04,81,https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7,2IGMVunIBsBLtEQyoI1Mu7,6.437499999999999e-05,2023,578,138,511
+Doin' Time,Lana Del Rey,Norman Fucking Rockwell!,2019-08-30,80,https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX,0Oqc0kKFsQ6MhFOLBNZIGX,5.616444444444445e-05,2019,191,261,474
+Numb Little Bug,Em Beihold,Numb Little Bug,2022-01-28,72,https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2,3o9kpgkIcffx0iSwxhuNI2,4.7010277777777775e-05,2022,551,155,483
+Make You Mine,PUBLIC,Make You Mine,2019-08-09,73,https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g,5iFwAOB2TFkPJk8sMlxP8g,6.469611111111111e-05,2019,484,360,422
+DARKSIDE,Neoni,DARKSIDE,2021-01-29,57,https://open.spotify.com/track/3GaeH4EFwtkY2IJfs85u8u,3GaeH4EFwtkY2IJfs85u8u,4.6666666666666665e-05,2021,162,332,151
+Gasolina,Daddy Yankee,Barrio Fino (Bonus Track Version),2004-07-13,56,https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj,228BxWXUYQPJrJYHDLOHkj,5.35e-05,2004,265,120,79
+Make Me Move,Culture Code,Make Me Move,2016-12-13,59,https://open.spotify.com/track/5ZAUiOlYURVJEJ5ktV03v5,5ZAUiOlYURVJEJ5ktV03v5,5.473666666666666e-05,2016,483,115,421
+Con Calma,Daddy Yankee,Con Calma,2019-01-24,81,https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m,5w9c2J52mkdntKOmRLeM2m,5.3673888888888886e-05,2019,145,120,138
+Old Town Road (feat. Billy Ray Cyrus) - Remix,Lil Nas X,7,2019-06-21,76,https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG,2YpeDb67231RjR0MgVLzsG,4.362944444444445e-05,2019,554,270,13
+Night Changes,One Direction,FOUR (Deluxe),2014-11-17,89,https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ,5O2P9iiztwhomNh8xkR9lJ,6.294444444444445e-05,2014,537,352,214
+Midnight Rain,Taylor Swift,Midnights,2022-10-21,76,https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4,3rWDp9tBPQR9z6U5YyRSK4,4.855055555555555e-05,2022,505,438,437
+Angel With a Shotgun,Nightcore Collectives,Best of Nightcore,2022-06-10,50,https://open.spotify.com/track/6Ap1zrEjcbKKoUyE3taghj,6Ap1zrEjcbKKoUyE3taghj,5.356388888888889e-05,2022,37,338,96
+Mercy,Into The Nightcore,"Into The Nightcore, Vol. 8",2020-03-03,0,https://open.spotify.com/track/0gvA5jZdpY26vzdRPlX3HH,0gvA5jZdpY26vzdRPlX3HH,4.542e-05,2020,502,204,348
+Attention,Charlie Puth,Voicenotes,2018-05-11,83,https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50,5cF0dROlMOK5uNZtivgu50,5.799611111111111e-05,2018,55,99,720
+"Love Me Like You Do - From ""Fifty Shades Of Grey""",Ellie Goulding,Delirium (Deluxe),2015-11-06,79,https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu,3zHq9ouUJQFQRf3cm1rRLu,7.014833333333333e-05,2015,462,153,168
+Everytime We Touch - Radio Edit,Cascada,Original Me,2011-01-01,66,https://open.spotify.com/track/74PyndGWYtfs86n60lAsYW,74PyndGWYtfs86n60lAsYW,5.531111111111111e-05,2011,227,95,497
+like my father,Jax,like my father,2021-06-03,63,https://open.spotify.com/track/5YVmHTAsdWnoanWXB7AwZX,5YVmHTAsdWnoanWXB7AwZX,5.087027777777778e-05,2021,883,215,785
+"Let It Go - From ""Frozen""/Soundtrack Version",Idina Menzel,Frozen (Original Motion Picture Soundtrack / Deluxe Edition),2013-01-01,78,https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo,0qcr5FMsEO85NAQjrlDRKo,6.217777777777778e-05,2013,429,198,243
+Who I Am,The Score,ATLAS,2017-10-13,54,https://open.spotify.com/track/4zIJHigfguvdm3O8c9KPeo,4zIJHigfguvdm3O8c9KPeo,5.9929444444444445e-05,2017,837,448,30
+Control,Halsey,BADLANDS (Deluxe),2015-08-28,72,https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3,3SKzTIl9mW0DadTys9SFo3,5.965583333333333e-05,2015,148,190,66
+Play with Fire (feat. Yacht Money),Sam Tinnesz,Play with Fire (feat. Yacht Money),2017-07-07,75,https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z,7vguMCv8uVuZLiQJ156u3Z,5.019166666666666e-05,2017,592,400,520
+Queen of Mean,Sarah Jeffery,Descendants 3 (Original TV Movie Soundtrack),2019-08-02,68,https://open.spotify.com/track/4o05DiC0RQ9DNtGJGauwna,4o05DiC0RQ9DNtGJGauwna,5.261027777777778e-05,2019,611,403,170
+IDGAF,Dua Lipa,Dua Lipa (Deluxe),2017-06-02,80,https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr,76cy1WJvNGJTj78UqeA5zr,6.054055555555555e-05,2017,364,144,192
+On My Way,Alan Walker,On My Way,2019-03-21,75,https://open.spotify.com/track/4n7jnSxVLd8QioibtTDBDq,4n7jnSxVLd8QioibtTDBDq,5.3832500000000003e-05,2019,557,21,489
+Ignite,Alan Walker,Ignite,2018-05-11,72,https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58,1jLsirPDkUS2g4gnkYua58,5.841333333333333e-05,2018,371,21,334
+Roar,Katy Perry,PRISM,2013-01-01,81,https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI,27tNWlhdAryQY04Gb2ZhUI,6.20961111111111e-05,2013,631,243,508
+Side To Side,Ariana Grande,Dangerous Woman,2016-04-01,80,https://open.spotify.com/track/44ONERBHALxftQNWq6dmyd,44ONERBHALxftQNWq6dmyd,6.282222222222222e-05,2016,669,38,163
+Sorry Not Sorry,Demi Lovato,Tell Me You Love Me,2017-09-29,74,https://open.spotify.com/track/0yvPEnB032fojLfVluFjUv,0yvPEnB032fojLfVluFjUv,5.66e-05,2017,693,128,652
+Oops!...I Did It Again,Britney Spears,Oops!... I Did It Again,2000-05-16,83,https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ,6naxalmIoLFWR0siv8dnQQ,5.865555555555555e-05,2000,568,81,495
+Same Old Love,Selena Gomez,Revival (Deluxe),2015-10-09,72,https://open.spotify.com/track/6ZANrVuAMp2rpjhfbOuJly,6ZANrVuAMp2rpjhfbOuJly,6.363333333333334e-05,2015,649,410,554
+Come & Get It,Selena Gomez,Stars Dance (Bonus Track Version),2013-01-01,73,https://open.spotify.com/track/6LoQHIo74tOzQ8EsLEkhgF,6LoQHIo74tOzQ8EsLEkhgF,6.444055555555555e-05,2013,140,410,613
+True Love (feat. Lily Allen),P!nk,The Truth About Love,2012-09-18,69,https://open.spotify.com/track/1QNqrsNQ1JVLEwncov3lEY,1QNqrsNQ1JVLEwncov3lEY,6.40925e-05,2012,785,354,679
+22,Taylor Swift,Red (Big Machine Radio Release Special),2012-10-22,67,https://open.spotify.com/track/6ce41JVa6KFaryfmC2bu2W,6ce41JVa6KFaryfmC2bu2W,6.447777777777777e-05,2012,3,438,549
+We Are Never Ever Getting Back Together,Taylor Swift,Red (Big Machine Radio Release Special),2012-10-22,72,https://open.spotify.com/track/0VwNdo84DaVYLIkbVO86ND,0VwNdo84DaVYLIkbVO86ND,5.3651666666666667e-05,2012,811,438,549
+"How Far I'll Go - From ""Moana""",Alessia Cara,"How Far I'll Go (From ""Moana"")",2016-10-28,62,https://open.spotify.com/track/5EbX5xL3O2xT8FxCpYzgUO,5EbX5xL3O2xT8FxCpYzgUO,4.8754722222222214e-05,2016,330,24,300
+This Is What You Came For,Calvin Harris,This Is What You Came For,2016-04-29,80,https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y,0azC730Exh71aQlOt9Zj3y,6.171111111111111e-05,2016,770,89,688
+Chemtrails Over The Country Club,Lana Del Rey,Chemtrails Over The Country Club,2021-03-19,81,https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG,7bPWdJgx8vek7S5i5yAtvG,7.532666666666666e-05,2021,133,261,129
+She,Selena Gomez,Rare (Deluxe),2020-04-09,52,https://open.spotify.com/track/1z1ztKUrDr09ZSMDnN3QIG,1z1ztKUrDr09ZSMDnN3QIG,4.8055277777777776e-05,2020,665,410,547
+Love Will Remember,Selena Gomez,Stars Dance (Bonus Track Version),2013-01-01,55,https://open.spotify.com/track/0OkJtCF6yQIdK11ge58uXD,0OkJtCF6yQIdK11ge58uXD,5.843333333333333e-05,2013,468,410,613
+Look At Her Now,Selena Gomez,Rare,2020-01-10,63,https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr,7eOkHIcaoUhngxxypM5Ajr,4.5165277777777775e-05,2020,447,410,546
+Single Soon,Selena Gomez,Single Soon,2023-08-25,72,https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3,6iF4RgIjDvDqyW13PezSj3,4.7681944444444444e-05,2023,673,410,593
+Lose You To Love Me,Selena Gomez,Rare,2020-01-10,81,https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi,4l0Mvzj72xxOpRrp6h8nHi,5.7349444444444446e-05,2020,450,410,546
+If We Have Each Other (Always By Her Side) - Sped Up Version,sped up nightcore,If We Have Each Other (Always By Her Side) [Sped Up Version],2023-04-10,55,https://open.spotify.com/track/1B2mOfWYc7EatMwnVx1g1x,1B2mOfWYc7EatMwnVx1g1x,4.3604166666666665e-05,2023,370,507,333
+Beautiful Things,Benson Boone,Beautiful Things,2024-01-18,88,https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9,6tNQ70jh4OwmPGpYy6R2o9,5.008444444444444e-05,2024,78,66,89
+Youngblood,5 Seconds of Summer,Youngblood (Deluxe),2018-06-15,83,https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE,2iUXsYOEPhVqEBwsqP70rE,5.650472222222222e-05,2018,863,3,768
+Set Fire to the Rain,Adele,21,2011-01-24,84,https://open.spotify.com/track/3di5hcvxxciiqwMH1jarhY,3di5hcvxxciiqwMH1jarhY,6.74925e-05,2011,658,17,9
+Wrecking Ball,Miley Cyrus,Bangerz (Deluxe Version),2013-10-04,83,https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE,2vwlzO0Qp8kfEtzTsCXfyE,6.148888888888888e-05,2013,851,318,78
+Carol Of The Bells,Lindsey Stirling,Warmer In The Winter (Deluxe Edition),2018-10-19,67,https://open.spotify.com/track/0byPyCPX9mfGMiAGVZxasq,0byPyCPX9mfGMiAGVZxasq,4.6136944444444444e-05,2018,127,276,727
+Empathy,Crystal Castles,Crystal Castles (II),2010-01-01,71,https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC,2R3heksil8zmzSFUwYQIPC,6.975166666666667e-05,2010,216,114,148
+Don’t Blame Me,Taylor Swift,reputation,2017-11-10,85,https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE,1R0a2iXumgCiFb7HEZ7gUE,6.567027777777778e-05,2017,202,438,789
+Let Her Go,Passenger,All the Little Lights (Deluxe),2013-11-29,79,https://open.spotify.com/track/2pUpNOgJBIBCcjyQZQ00qU,2pUpNOgJBIBCcjyQZQ00qU,7.02036111111111e-05,2013,428,361,44
+Skyfall,Adele,Skyfall,2012-10-04,86,https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm,6VObnIkLVruX4UVyxWhlqm,7.957777777777777e-05,2012,677,17,596
+Stan,Eminem,The Marshall Mathers LP,2000-05-23,82,https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz,3UmaczJpikHgJFyBTAJVoz,0.00011225166666666667,2000,698,156,671
+Comforter (Lover of My Soul),7 Hills Worship,Comforter (Lover of My Soul),2023-09-22,39,https://open.spotify.com/track/256g3TRJYNxtG09lcZdgOL,256g3TRJYNxtG09lcZdgOL,5.2076944444444445e-05,2023,141,8,137
+Rolling in the Deep,Adele,21,2011-01-24,82,https://open.spotify.com/track/4OSBTYWVwsQhGLF9NHvIbR,4OSBTYWVwsQhGLF9NHvIbR,6.335916666666667e-05,2011,634,17,9
+Hello,Adele,25,2015-11-20,77,https://open.spotify.com/track/1Yk0cQdMLx5RzzFTYwmuld,1Yk0cQdMLx5RzzFTYwmuld,8.208388888888889e-05,2015,310,17,10
+Those Eyes - Sped Up,New West,Those Eyes (Alternate Versions),2022-07-20,71,https://open.spotify.com/track/6XDBohkvajOwoqr8jHPjzQ,6XDBohkvajOwoqr8jHPjzQ,4.657166666666666e-05,2022,771,334,689
+Be Alright,Dean Lewis,Be Alright,2018-06-29,77,https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm,3EPXxR3ImUwfayaurPi3cm,5.454805555555555e-05,2018,71,127,82
+Down,Jay Sean,All Or Nothing,2009-01-01,80,https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE,6cmm1LMvZdB5zsCwX5BjqE,5.902944444444444e-05,2009,205,216,42
+End of Beginning,Djo,DECIDE,2022-09-16,90,https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD,3qhlB30KknSejmIvZZLjOD,4.423472222222222e-05,2022,218,135,152
+Praise Jah In The Moonlight,YG Marley,Praise Jah In The Moonlight,2023-12-27,78,https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9,3h5TiWTqGxjSjFrbruPFH9,7.306666666666668e-05,2023,599,483,528
+Wait a Minute!,WILLOW,ARDIPITHECUS,2015-12-18,62,https://open.spotify.com/track/5e08a8D8T3z4LDXbUIjxKQ,5e08a8D8T3z4LDXbUIjxKQ,5.4588888888888886e-05,2015,800,476,26
+Like I Do,J.Tajor,Like I Do,2022-03-04,68,https://open.spotify.com/track/1TiZWEsxN85yLJBq56K8mG,1TiZWEsxN85yLJBq56K8mG,4.142833333333333e-05,2022,437,208,391
+Favorite,Isabel LaRosa,Favorite,2024-03-29,79,https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be,3QJsSWa0Xo8MfaRn1gr4Be,3.711333333333333e-05,2024,241,205,223
+Favorite Girl,Justin Bieber,My World,2009-01-01,74,https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI,4nTjkWK590oBDcnIxTr1mI,7.133305555555555e-05,2009,242,233,457
+Boyfriend,Justin Bieber,Believe,2012-01-01,77,https://open.spotify.com/track/3UGIZ8qcrMTwzLbx6Kttqt,3UGIZ8qcrMTwzLbx6Kttqt,4.75925e-05,2012,106,233,93
+Love Me,Justin Bieber,My World,2009-01-01,71,https://open.spotify.com/track/0yIywEquxORnu1dR0WYsdN,0yIywEquxORnu1dR0WYsdN,5.3214722222222215e-05,2009,460,233,457
+What Do You Mean?,Justin Bieber,Purpose (Deluxe),2015-11-13,84,https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs,4B0JvthVoAAuygILe3n4Bs,5.713333333333333e-05,2015,820,233,536
+Please Please Please,Sabrina Carpenter,Please Please Please,2024-06-06,86,https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP,5N3hjp1WNayUPZrA8kJmJP,5.1768055555555554e-05,2024,594,397,522
+Espresso,Sabrina Carpenter,Espresso,2024-04-12,90,https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75,2qSkIjg1o9h3YT9RAgYN75,4.873861111111111e-05,2024,224,397,204
+Talk,Retronaut,Talk,2017-03-24,62,https://open.spotify.com/track/3zOgfB6xNtU0vaV38kthWk,3zOgfB6xNtU0vaV38kthWk,4.5777777777777776e-05,2017,742,380,645
+You Belong With Me,Taylor Swift,Fearless (Big Machine Radio Release Special),2008-11-11,73,https://open.spotify.com/track/1GEBsLDvJGw7kviySRI6GX,1GEBsLDvJGw7kviySRI6GX,6.447777777777777e-05,2008,855,438,225
+I Want It That Way,Into The Nightcore,"Into The Nightcore, Vol. 3",2019-10-22,32,https://open.spotify.com/track/0L3tIZc3wkyvO6PRhuLxJ1,0L3tIZc3wkyvO6PRhuLxJ1,4.4903888888888887e-05,2019,355,204,347
+Rude,MAGIC!,Don't Kill the Magic,2014-06-25,85,https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp,6RtPijgfPKROxEzTHNRiDp,6.245555555555555e-05,2014,639,288,178
+Call Me Maybe,Carly Rae Jepsen,Kiss,2012-01-01,83,https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO,20I6sIOMTCkB6w7ryavxtO,5.3722222222222216e-05,2012,120,93,371
+Somebody That I Used To Know,Gotye,Making Mirrors,2011-01-01,83,https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7,1qDrWA6lyx8cLECdZE7TV7,6.802333333333334e-05,2011,688,181,423
+Born This Way,Lady Gaga,Born This Way (International Special Edition Version),2011-05-23,76,https://open.spotify.com/track/30XU4suKzCeoCK9YFzdufg,30XU4suKzCeoCK9YFzdufg,7.229222222222222e-05,2011,103,260,111
+Apologize,Timbaland,Shock Value,2007-04-02,77,https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl,6ucR4KfvsBFWCMVFDvyKKl,5.1222222222222223e-05,2007,44,457,586
+Irreplaceable,Beyoncé,B'Day Deluxe Edition,2007-05-29,74,https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r,6RX5iL93VZ5fKmyvNXvF1r,6.32925e-05,2007,387,69,64
+So Sick,Ne-Yo,In My Own Words,2006-01-01,81,https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT,6brl7bwOHmGFkNw3MBqssT,5.7551666666666666e-05,2006,684,331,339
+Crazy In Love - Remix,Beyoncé,Crazy In Love (Remix),2015-09-04,69,https://open.spotify.com/track/2f4IuijXLxYOeBncS60GUD,2f4IuijXLxYOeBncS60GUD,6.288888888888888e-05,2015,152,69,142
+Boulevard of Broken Dreams,Green Day,Greatest Hits: God's Favorite Band,2017-11-17,74,https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd,5GorCbAP4aL0EJ16frG2hd,7.287027777777777e-05,2017,105,183,264
+Belong Together,Mark Ambor,Belong Together,2024-02-16,81,https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu,5uQ7de4EWjb3rkcFxyEOpu,4.119916666666667e-05,2024,84,304,94
+Let Me Love You,Mario,Turning Point,2004-03-15,77,https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP,7GaFYUqP2WdR4KTPk7cXoP,6.92e-05,2004,431,303,703
+Grenade,Bruno Mars,Doo-Wops & Hooligans,2010-05-11,83,https://open.spotify.com/track/4lLtanYk6tkMvooU0tWzG8,4lLtanYk6tkMvooU0tWzG8,6.169194444444445e-05,2010,295,83,185
+It's My Life,Bon Jovi,Crush,2000-01-01,82,https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l,0v1XpBHnsbkCn7iJ9Ucr1l,6.235916666666666e-05,2000,390,77,145
+7 Years,Lukas Graham,Lukas Graham,2016-04-01,84,https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk,5kqIPrATaCc2LqxVWzQGbk,6.591666666666667e-05,2016,10,284,409
+One-Sided,Saige,One-Sided,2022-11-02,30,https://open.spotify.com/track/4TCOuCpqayZQTeBbVbJag3,4TCOuCpqayZQTeBbVbJag3,6.068e-05,2022,566,398,494
+Mr. Saxobeat,Alexandra Stan,Dance Mania 2011,2019-02-26,51,https://open.spotify.com/track/7qzgHrqG8FgzgPIfBE23Bw,7qzgHrqG8FgzgPIfBE23Bw,5.3651666666666667e-05,2019,517,27,156
+Nonsense,Sabrina Carpenter,emails i can't send,2022-07-15,87,https://open.spotify.com/track/6dgUya35uo964z7GZXM07g,6dgUya35uo964z7GZXM07g,4.545777777777777e-05,2022,543,397,777
+Ur So F**kInG cOoL,Tones And I,Ur So F**kInG cOoL,2020-05-29,57,https://open.spotify.com/track/6KiEsqGg0HBOSMflVH7Onx,6KiEsqGg0HBOSMflVH7Onx,4.7985e-05,2020,794,460,714
+TiK ToK,Kesha,Animal (Expanded Edition),2010-01-01,86,https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i,0HPD5WQqrq7wPWR7P7Dw1i,5.547027777777778e-05,2010,773,249,51
+The King's Affirmation,Iniko,The King's Affirmation,2022-04-29,64,https://open.spotify.com/track/4RLHj4aXHBZIWPBsXqEGgO,4RLHj4aXHBZIWPBsXqEGgO,4.4262222222222216e-05,2022,759,203,670
+Sing For The Moment,Eminem,The Eminem Show,2002-05-26,78,https://open.spotify.com/track/3CpoeW0cZSDzIRv5z34F87,3CpoeW0cZSDzIRv5z34F87,9.431833333333332e-05,2002,671,156,665
+Black Magic Woman,Santana,Ultimate Santana,2007-09-25,62,https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu,4nmne9J3YCEdhvjTzwiAgu,5.440722222222222e-05,2007,92,402,704
+Gorgeous,Taylor Swift,reputation,2017-11-10,76,https://open.spotify.com/track/1ZY1PqizIl78geGM4xWlEA,1ZY1PqizIl78geGM4xWlEA,5.824444444444445e-05,2017,291,438,789
+Break Free,Ariana Grande,My Everything (Deluxe),2014-08-22,81,https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4,12KUFSHFgT0XCoiSlvdQi4,5.9677777777777775e-05,2014,107,38,452
+Just My Type,The Vamps,Night & Day (Day Edition),2018-07-13,61,https://open.spotify.com/track/29VLdEqFvd0l4JFscCnrp7,29VLdEqFvd0l4JFscCnrp7,5.871111111111112e-05,2018,403,452,468
+Never Forget You,Zara Larsson,So Good,2017-03-17,73,https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo,6hmhG1b4LEyNuashVvuIAo,5.9285277777777775e-05,2017,533,492,602
+Remember When,Alan Jackson,Greatest Hits Volume II,2003-10-09,55,https://open.spotify.com/track/46wsj9yMktwifcIhXhqj1b,46wsj9yMktwifcIhXhqj1b,7.516666666666666e-05,2003,623,20,262
+Teardrops on My Guitar - Pop Version,Taylor Swift,Taylor Swift (Deluxe Edition),2006-10-24,55,https://open.spotify.com/track/1hxLyjC9D9Jpw6EAPKqWv4,1hxLyjC9D9Jpw6EAPKqWv4,4.9740555555555554e-05,2006,745,438,648
+Step On Up,Ariana Grande,Dangerous Woman,2016-05-20,61,https://open.spotify.com/track/3K1y89UHuAEZbpiSPbtAae,3K1y89UHuAEZbpiSPbtAae,5.023694444444444e-05,2016,704,38,163
+Angels Like You,Miley Cyrus,Plastic Hearts,2020-11-27,82,https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB,1daDRI9ahBonbWD8YcxOIB,5.457027777777778e-05,2020,39,318,518
+Goo Goo Muck,The Cramps,Psychedelic Jungle,1981-01-01,67,https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP,3EEd6ldsPat620GVYMEhOP,5.167722222222222e-05,1981,286,444,533
+Nothing Breaks Like a Heart (feat. Miley Cyrus),Mark Ronson,Late Night Feelings,2019-06-21,80,https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn,02dRkCEc8Q5ch4TTcnLxOn,6.030527777777778e-05,2019,547,305,380
+Hymn for the Weekend,Coldplay,A Head Full of Dreams,2015-12-04,86,https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy,3RiPr603aXAoi4GHyXx0uy,7.174055555555555e-05,2015,333,109,19
+We Can't Stop,Miley Cyrus,Bangerz (Deluxe Version),2013-10-04,82,https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH,2y4lAQpi5VTNLu2ldeTdUH,6.423333333333334e-05,2013,813,318,78
+APT.,ROSÉ,APT.,2024-10-18,96,https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY,5vNRhkKd0yEAg8suGBpjeY,4.719916666666667e-05,2024,16,372,25
+Knees,Bebe Rexha,Expectations,2018-06-22,61,https://open.spotify.com/track/7IOxauZfx5l18mYfX0GZm6,7IOxauZfx5l18mYfX0GZm6,5.738333333333334e-05,2018,414,61,208
+Into You,Ariana Grande,Dangerous Woman,2016-04-01,83,https://open.spotify.com/track/76FZM38RC8XaAjJ77CVTNe,76FZM38RC8XaAjJ77CVTNe,6.790361111111111e-05,2016,384,38,163
+Rolex,Ayo & Teo,Rolex,2017-03-15,70,https://open.spotify.com/track/0pSBuHjILhNEo55xK1zrRt,0pSBuHjILhNEo55xK1zrRt,6.62738888888889e-05,2017,633,49,559
+I'm Getting Ready,Tasha Cobbs Leonard,Heart. Passion. Pursuit.,2017-08-25,57,https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP,5RjS5iW0FWn1U4ZaWjhLlP,0.00014061111111111113,2017,358,436,279
+That’s So True,Gracie Abrams,The Secret of Us (Deluxe),2024-10-18,97,https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad,7ne4VBA60CxGM75vw0EYad,4.619444444444444e-05,2024,752,182,676
+Me and the Devil,Soap&Skin,Sugarbread,2013-03-11,82,https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh,0wrWxW18WK2MkrfDpRHkyh,5.138888888888888e-05,2013,493,424,626
+Maniac,Conan Gray,Kid Krow,2020-03-20,77,https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4,6KfoDhO4XUWSbnyKjNp9c4,5.160361111111111e-05,2020,485,110,369
+Line Without a Hook,Ricky Montgomery,Montgomery Ricky,2016-04-08,82,https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv,5NvOZCjZaGGGL597exlQWv,6.932944444444445e-05,2016,441,382,443
+blue,yung kai,blue,2024-08-02,92,https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG,3be9ACTxtcL6Zm4vJRUiPG,5.954361111111111e-05,2024,867,509,772
+boyfriend (with Social House),Ariana Grande,boyfriend,2019-08-02,80,https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t,0Ryd8975WihbObpp5cPW1t,5.169611111111111e-05,2019,868,38,773
+Follow You,Noizy,Follow You,2024-11-08,79,https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc,7cMhicmOIwfJlWURl90AOc,4.570722222222222e-05,2024,254,347,236
+Six Days - Remix,DJ Shadow,The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack),2006-06-20,73,https://open.spotify.com/track/5j3QqRGflS4o5jbsFSwKW1,5j3QqRGflS4o5jbsFSwKW1,6.444444444444443e-05,2006,675,118,666
+What You Say,Davy Fresh,The Wake & Bake Album (10th Year Anniversary),2012-04-20,35,https://open.spotify.com/track/0Tsitp0EQlRdIlqc16biog,0Tsitp0EQlRdIlqc16biog,5.069444444444444e-05,2012,829,125,682
+life force,ptasinski,freedom from self,2024-09-16,79,https://open.spotify.com/track/7qvDmYmPjrIosceqmSriCa,7qvDmYmPjrIosceqmSriCa,3.04e-05,2024,882,505,780
+A Song of Ice and Fire,Ramin Djawadi,Game Of Thrones: Season 8 (Music from the HBO Series),2019-05-19,61,https://open.spotify.com/track/1AvLUHxSunGMWWRfEFmWSC,1AvLUHxSunGMWWRfEFmWSC,3.6635555555555556e-05,2019,13,376,246
+Achilles Come Down,Gang of Youths,Go Farther In Lightness,2017-08-18,68,https://open.spotify.com/track/22TntnVO3lQNDR5nsvxGRs,22TntnVO3lQNDR5nsvxGRs,0.00011726277777777777,2017,17,174,254
+Medusa,Kaia Jette,Medusa,2023-01-06,43,https://open.spotify.com/track/0f9k6IOdFN5jZ85VSH5nVI,0f9k6IOdFN5jZ85VSH5nVI,4.351972222222222e-05,2023,495,241,429
+Medusa,ANN,Medusa,2021-09-03,29,https://open.spotify.com/track/0Zsh2l2umCC2SifxYryVbX,0Zsh2l2umCC2SifxYryVbX,4.854527777777778e-05,2021,495,12,429
+Everyday Normal Guy 2,Jon Lajoie,You Want Some of This?,2009-03-18,74,https://open.spotify.com/track/2hhFpD32iXUd4GaCu6T4wn,2hhFpD32iXUd4GaCu6T4wn,5.4359166666666666e-05,2009,225,226,764
+Take a Hint,Nightcore Reality,Take a Hint,2018-06-13,59,https://open.spotify.com/track/7H881krNfbDK6IgOp3mApQ,7H881krNfbDK6IgOp3mApQ,3.6156666666666666e-05,2018,739,340,641
+Sweater Weather,The Neighbourhood,I Love You.,2013-04-22,92,https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6,2QjOHCTQ1Jl3zawyYOpxh6,6.677777777777779e-05,2013,731,446,316
+Shatter Me,Nightcore Reality,Shatter Me,2019-11-27,39,https://open.spotify.com/track/283Lo1yNS4YFFBjQN10vK4,283Lo1yNS4YFFBjQN10vK4,6.527777777777778e-05,2019,664,340,584
+Anxiety,Doechii,Alligator Bites Never Heal (Extended),2025-03-14,87,https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb,3LPLRNr58Z9Pn0clnEtkXb,6.925055555555555e-05,2025,42,137,45
+River,Bishop Briggs,Church Of Scars,2018-04-20,76,https://open.spotify.com/track/3mRLHiSHYtC8Hk7bzZdUs1,3mRLHiSHYtC8Hk7bzZdUs1,6.003694444444444e-05,2018,630,71,130
+Teenage Dream,Katy Perry,Teenage Dream: The Complete Confection,2012-03-12,66,https://open.spotify.com/track/55qBw1900pZKfXJ6Q9A2Lc,55qBw1900pZKfXJ6Q9A2Lc,6.326666666666667e-05,2012,746,243,651
+Last Friday Night (T.G.I.F.),Katy Perry,Teenage Dream,2010-01-01,79,https://open.spotify.com/track/1htQDV8JxSuXG2QsNj5ttr,1htQDV8JxSuXG2QsNj5ttr,6.40925e-05,2010,419,243,650
+"Money, Money, Money",ABBA,ABBA Gold,2008-01-01,67,https://open.spotify.com/track/29FNeqjOV2kPWGS55qhtGB,29FNeqjOV2kPWGS55qhtGB,5.1885e-05,2008,511,10,21
+Looking at Me,Sabrina Carpenter,Singular Act II,2019-07-19,79,https://open.spotify.com/track/59tskctgqUmjCWAwhzYAFm,59tskctgqUmjCWAwhzYAFm,5.0311111111111116e-05,2019,449,397,594
+Alibi (with Pabllo Vittar & Yseult),Sevdaliza,Alibi (with Pabllo Vittar & Yseult),2024-06-28,83,https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap,5496lks6V3fh1mZAB6IAap,4.490416666666666e-05,2024,26,412,37
+Royalty,Egzod,Royalty,2021-04-22,81,https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd,7kUljt0NM5sISL3OGNVxYd,6.208888888888888e-05,2021,638,151,562
+Midnight City,M83,"Hurry up, We're Dreaming",2011-10-17,81,https://open.spotify.com/track/6GyFP1nfCDB8lbD2bG0Hq9,6GyFP1nfCDB8lbD2bG0Hq9,6.776666666666667e-05,2011,504,287,302
+Goth,Sidewalks and Skeletons,White Light,2015-03-05,78,https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6,0uMZbmAAgOhdMrv25iPEH6,5.7533333333333334e-05,2015,292,418,742
+Glue,BICEP,Bicep,2017-09-01,74,https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP,2aJDlirz6v2a4HREki98cP,7.476361111111111e-05,2017,282,53,99
+coffee,Miguel,Wildheart (Deluxe Version),2015-06-26,65,https://open.spotify.com/track/6vMpPxLV0F5Diwcs6awI1Z,6vMpPxLV0F5Diwcs6awI1Z,7.960361111111111e-05,2015,870,317,748
+My Love,Route 94,My Love,2014-02-28,80,https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU,4N1MFKjziFHH4IS3RYYUrU,7.220361111111111e-05,2014,522,387,453
+I Never Felt So Right - Radio Mix,Ben Delay,I Never Felt So Right,2016-04-15,29,https://open.spotify.com/track/6c34zoo8fqkEjAlyIBCywL,6c34zoo8fqkEjAlyIBCywL,6.151750000000001e-05,2016,352,64,318
+Changes - Radio Mix,Faul & Wad,Changes,2013-12-06,69,https://open.spotify.com/track/2SdMEke7JCBEo8t60iyw2r,2SdMEke7JCBEo8t60iyw2r,5.615916666666666e-05,2013,129,162,127
+Stargirl Interlude,The Weeknd,Starboy,2016-11-25,75,https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj,4EDijkJdHBZZ0GwJ12iTAj,3.1011111111111114e-05,2016,700,454,612
+After Hours,The Weeknd,After Hours (Deluxe),2020-03-20,55,https://open.spotify.com/track/32HKm4gUeUqQ8SQ28uGYUo,32HKm4gUeUqQ8SQ28uGYUo,0.00010028444444444444,2020,20,454,34
+Resonance,Home,Odyssey,2014-07-01,2,https://open.spotify.com/track/2BtaCcUXy6zHcsnL5Tde8S,2BtaCcUXy6zHcsnL5Tde8S,5.913333333333333e-05,2014,627,194,486
+Stolen Dance,Milky Chance,Sadnecessary,2013-05-31,83,https://open.spotify.com/track/34xGLuxM0rkxhCVyMSqwJO,34xGLuxM0rkxhCVyMSqwJO,8.713444444444445e-05,2013,709,319,573
+Sanctuary,Joji,Nectar,2020-09-24,3,https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa,5F1ZmucV0uJY14y2dYKePa,5.0005e-05,2020,650,225,463
+Again (feat. XXXTENTACION),Noah Cyrus,Again (feat. XXXTENTACION),2017-09-22,82,https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE,2S2od3hT7ceytw7d1pTRuE,5.387805555555555e-05,2017,21,346,35
+Cry Baby,The Neighbourhood,Wiped Out!,2015-10-30,74,https://open.spotify.com/track/0EfsDEYaSjGYd66Pr881nq,0EfsDEYaSjGYd66Pr881nq,6.532222222222221e-05,2015,156,446,749
+When I R.I.P.,Labrinth,Euphoria (Original Score from the HBO Series),2019-10-04,68,https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf,2t16D9V5FmmRAJjsSpwvZf,4.849083333333333e-05,2019,831,259,205
+Infinity,Infinity Ink,Infinity,2012-12-07,43,https://open.spotify.com/track/68PDydciw4W2e16wCbr9tv,68PDydciw4W2e16wCbr9tv,8.555833333333333e-05,2012,381,202,344
+Sweet Disposition,The Temper Trap,Conditions,2009-06-19,0,https://open.spotify.com/track/6mNDLlxVYjKleyb2Ley6Pl,6mNDLlxVYjKleyb2Ley6Pl,6.564805555555556e-05,2009,732,451,139
+Alive,Empire Of The Sun,Ice On The Dune,2013-01-01,75,https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s,2O9O26335YYVckmRgPKY3s,5.681833333333333e-05,2013,27,157,330
+Sundress,A$AP Rocky,Sundress,2018-11-20,86,https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK,2aPTvyE09vUCRwVvj0I8WK,4.3945833333333335e-05,2018,726,9,628
+Stereo Love,Edward Maya,Stereo Love,2009-07-07,73,https://open.spotify.com/track/0gBfLS4aqbrr1ZvVv8dqWB,0gBfLS4aqbrr1ZvVv8dqWB,6.878166666666667e-05,2009,707,150,616
+In And Out Of Love,Armin van Buuren,Armin Anthems Top 100 (Ultimate Singles Collected),2014-11-28,65,https://open.spotify.com/track/57nKL06bKwjaM5Y0aMtY9v,57nKL06bKwjaM5Y0aMtY9v,5.046666666666667e-05,2014,373,40,57
+That's My Name,Akcent,Supervara 2009,2009-04-30,56,https://open.spotify.com/track/2pXTXff6B8CehBAVp4yGUZ,2pXTXff6B8CehBAVp4yGUZ,7.046666666666667e-05,2009,751,19,631
+Roses,The Chainsmokers,Roses,2015-06-16,81,https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z,3vv9phIu6Y1vX3jcqaGz5Z,6.298277777777779e-05,2015,635,442,561
+Would I Lie to You - Radio Edit,David Guetta,Would I Lie to You,2016-09-30,65,https://open.spotify.com/track/4PdJSsESm34djLfBde9Pr2,4PdJSsESm34djLfBde9Pr2,5.4901944444444446e-05,2016,850,124,758
+"What Is Love - 7"" Mix",Haddaway,What Is Love,1992-01-18,66,https://open.spotify.com/track/7JkZ2hQdDonRURJjlMuh8q,7JkZ2hQdDonRURJjlMuh8q,7.510361111111111e-05,1992,824,189,734
+Memories (feat. Kid Cudi),David Guetta,One More Love,2010-11-22,66,https://open.spotify.com/track/5xYC48nOppVemY6U5GRGTb,5xYC48nOppVemY6U5GRGTb,5.857027777777777e-05,2010,501,124,493
+We Found Love,Rihanna,Talk That Talk,2011-11-18,85,https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py,6qn9YLKt13AGvpq9jfO8py,5.9785e-05,2011,816,384,646
+Out of Touch,Daryl Hall & John Oates,The Very Best of Daryl Hall / John Oates,2009-02-20,65,https://open.spotify.com/track/7zLGHdfJ3JRPxvc96mEPEi,7zLGHdfJ3JRPxvc96mEPEi,6.932583333333333e-05,2009,571,123,681
+My Way,Calvin Harris,My Way,2016-09-16,78,https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm,1vvNmPOiUuyCbgWmtc6yfm,6.08775e-05,2016,526,89,456
+My Love (feat. Jess Glynne),Route 94,My Love (feat. Jess Glynne),2014-02-28,6,https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q,61UQzeiIluhpzpMdY4ag3q,7.220388888888889e-05,2014,523,387,454
+Galvanize,The Chemical Brothers,Push The Button,2005-01-01,69,https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs,4bz7uB4edifWKJXSDxwHcs,0.0001093925,2005,263,443,537
+Middle,DJ Snake,Encore,2016-08-05,79,https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK,0g5EKLgdKvNlln7TNqBByK,6.127027777777778e-05,2016,503,119,198
+We Are The People,Empire Of The Sun,Walking On A Dream (10th Anniversary Edition),2008-10-03,86,https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7,3zEN0ii6s4DHHBpnTp3RP7,7.427027777777777e-05,2008,812,157,726
+waves - Tame Impala Remix,Miguel,Rogue Waves,2016-02-26,66,https://open.spotify.com/track/3lB0GMiI5KxDbTOG8V3bOx,3lB0GMiI5KxDbTOG8V3bOx,7.037388888888888e-05,2016,893,317,558
+Tequila Shots,Kid Cudi,Man On The Moon III: The Chosen,2020-12-11,67,https://open.spotify.com/track/30KctD1WsHKTIYczXjip5a,30KctD1WsHKTIYczXjip5a,5.36925e-05,2020,749,252,425
+Feel So Close - Radio Edit,Calvin Harris,18 Months,2012-10-29,86,https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc,1gihuPhrLraKYrJMAEONyc,5.7336944444444446e-05,2012,244,89,6
+Prayer in C - Robin Schulz Radio Edit,Lilly Wood and The Prick,Prayer in C,2014-05-16,76,https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck,5fnA9mkIfScSqHIpeDyvck,5.261472222222222e-05,2014,601,275,529
+Love Lost,Mac Miller,"I Love Life, Thank You",2022-07-22,80,https://open.spotify.com/track/2z9iuAxKv4TTeCrPAxxKg9,2z9iuAxKv4TTeCrPAxxKg9,4.524305555555555e-05,2022,459,293,315
+Sweet Nothing (feat. Florence Welch),Calvin Harris,18 Months,2012-10-29,78,https://open.spotify.com/track/24LS4lQShWyixJ0ZrJXfJ5,24LS4lQShWyixJ0ZrJXfJ5,5.904444444444445e-05,2012,733,89,6
+Pumped Up Kicks,Foster The People,Torches,2011-05-23,87,https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT,7w87IxuO7BDcJ3YUqCyMTT,6.655555555555555e-05,2011,607,166,697
+House Of Balloons / Glass Table Girls,The Weeknd,Trilogy,2012-11-13,74,https://open.spotify.com/track/50iiDJGpAPdr2VTrz999XA,50iiDJGpAPdr2VTrz999XA,0.00011255916666666666,2012,327,454,702
+D.D.,The Weeknd,Trilogy,2012-11-13,52,https://open.spotify.com/track/7eZ7ODAt9cALYnWLO8F6Fd,7eZ7ODAt9cALYnWLO8F6Fd,7.652583333333333e-05,2012,161,454,702
+Gasoline,The Weeknd,Dawn FM,2022-01-06,69,https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC,3KyKxJ4P3pVCgaZwaq2rUC,5.8934722222222214e-05,2022,266,454,165
+JACKIE BROWN,Brent Faiyaz,WASTELAND,2022-07-08,73,https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ,2IlT65thKQQw248mhk2PjQ,4.6948055555555556e-05,2022,396,79,721
+Pray For Me,The Weeknd,The Highlights,2021-02-05,79,https://open.spotify.com/track/6huNf4dutXRjJyGn7f5BPS,6huNf4dutXRjJyGn7f5BPS,5.872777777777778e-05,2021,600,454,667
+Lust,Lil Skies,Life of a Dark Rose,2017-12-12,73,https://open.spotify.com/track/7oJrVhiTPZGBXWPwhxjy9S,7oJrVhiTPZGBXWPwhxjy9S,4.3333333333333334e-05,2017,473,272,390
+The Color Violet,Tory Lanez,Alone At Prom,2021-12-10,87,https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz,3azJifCSqg9fRij2yKIbWz,6.290722222222223e-05,2021,755,461,46
+Never Let Go (Of Me),Baltra,Never Let Go (Of Me),2017-08-25,56,https://open.spotify.com/track/2IxPD80hhWrq9mwYYW8ge7,2IxPD80hhWrq9mwYYW8ge7,0.00011516388888888888,2017,534,59,465
+What You Need,The Weeknd,House Of Balloons (Original),2011-03-21,74,https://open.spotify.com/track/4Yw8TyBm9J8cpy2guHUYog,4Yw8TyBm9J8cpy2guHUYog,5.733916666666667e-05,2011,828,454,297
+SUICIDE YEAR,WEEDMANE,SUICIDE YEAR,2019-08-04,1,https://open.spotify.com/track/7jVH8CXr0MSpGheHOjN4NA,7jVH8CXr0MSpGheHOjN4NA,2.5480833333333335e-05,2019,648,475,571
+Black Out Days - Future Islands Remix,Phantogram,Black Out Days (Future Islands Remix),2017-09-01,70,https://open.spotify.com/track/3kxkjirben9RVm9NqYa6rm,3kxkjirben9RVm9NqYa6rm,6.8985e-05,2017,93,362,100
+Enjoy the Silence,Depeche Mode,The Singles 86-98,1998-09-28,75,https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh,6WK9dVrRABMkUXFLNlgWFh,7.087027777777778e-05,1998,221,129,677
+Hometown,Twenty One Pilots,Blurryface,2015-05-15,69,https://open.spotify.com/track/40sRwFjfrRnaTdYPJIg4CP,40sRwFjfrRnaTdYPJIg4CP,6.526277777777778e-05,2015,322,467,107
+Softcore,The Neighbourhood,Hard To Imagine The Neighbourhood Ever Changing,2018-11-02,87,https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha,2K7xn816oNHJZ0aVqdQsha,5.7300000000000004e-05,2018,686,446,273
+wish you were gay,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019-03-29,76,https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD,3Fj47GNK2kUF0uaEDgXLaD,6.153972222222222e-05,2019,895,70,722
+whoa (mind in awe),XXXTENTACION,SKINS,2018-12-07,72,https://open.spotify.com/track/7pdF27mSDuPWhppnHAmWHa,7pdF27mSDuPWhppnHAmWHa,4.3826666666666665e-05,2018,894,480,566
+Out of Time,The Weeknd,Dawn FM,2022-01-06,77,https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV,2SLwbpExuoBDZBpjfefCtV,5.9498055555555556e-05,2022,570,454,165
+Nightcall,Kavinsky,OutRun,2013-01-01,59,https://open.spotify.com/track/73bDvrmSBh2fr53tLDH9oA,73bDvrmSBh2fr53tLDH9oA,7.147777777777778e-05,2013,538,244,499
+Poison,Brent Faiyaz,Poison,2016-08-03,80,https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe,5NijSs5dAwaIybq1GaRTIe,5.916444444444444e-05,2016,596,79,524
+"GRAVITY (FEAT. TYLER, THE CREATOR)",Brent Faiyaz,"Gravity (feat. Tyler, The Creator)",2021-01-29,62,https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ,6u3CPnFMKANYgfdiifFOiJ,5.9636666666666664e-05,2021,261,79,261
+Passionfruit,Drake,More Life,2017-03-18,86,https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz,5mCPDVBb16L4XQwDdbRUpz,8.303888888888889e-05,2017,581,142,445
+Les,Childish Gambino,Camp,2011-11-15,26,https://open.spotify.com/track/0YsGMHid6sFq5PcToe3JZE,0YsGMHid6sFq5PcToe3JZE,8.813694444444446e-05,2011,426,102,122
+5% TINT,Travis Scott,ASTROWORLD,2018-08-03,77,https://open.spotify.com/track/11kDth1aKUEUMq9r1pqyds,11kDth1aKUEUMq9r1pqyds,5.4482777777777775e-05,2018,8,464,28
+Art Deco,Lana Del Rey,Honeymoon,2015-09-18,81,https://open.spotify.com/track/5jqNQZBwbZWQXPWfo0ygZF,5jqNQZBwbZWQXPWfo0ygZF,8.196277777777778e-05,2015,49,261,294
+Bones,Telenova,Bones,2021-03-18,44,https://open.spotify.com/track/3Htni6qugPHqelC2PmQM56,3Htni6qugPHqelC2PmQM56,8.206861111111111e-05,2021,101,440,109
+Void,The Neighbourhood,Hard To Imagine The Neighbourhood Ever Changing,2018-11-02,69,https://open.spotify.com/track/2wXioTynVwrEWYRv6R6vEj,2wXioTynVwrEWYRv6R6vEj,5.657388888888889e-05,2018,796,446,273
+Wait,NoMBe,They Might've Even Loved Me,2018-03-23,0,https://open.spotify.com/track/78q95oBxFrzHHAWsXRogXa,78q95oBxFrzHHAWsXRogXa,5.9536944444444445e-05,2018,799,345,685
+Lost Boy,Jaden,SYRE,2017-11-17,46,https://open.spotify.com/track/3Qig3auHwFlgO00p5QM6oJ,3Qig3auHwFlgO00p5QM6oJ,0.00015829805555555557,2017,452,212,572
+Swing Lynn,Harmless,I'm Sure,2012-08-14,73,https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ,3VCXx37jNGNOMns6z2OnvJ,8.928833333333334e-05,2012,735,192,325
+Compass,The Neighbourhood,Hard To Imagine The Neighbourhood Ever Changing,2018-11-02,67,https://open.spotify.com/track/0YNtAadZvKBBEFARtfoCV8,0YNtAadZvKBBEFARtfoCV8,4.6655555555555545e-05,2018,143,446,273
+Moth To A Flame (with The Weeknd),Swedish House Mafia,Moth To A Flame,2022-01-03,74,https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr,7kfOEMJBJwdCYqyJeEnNhr,6.5e-05,2022,516,432,447
+Lost in the Fire (feat. The Weeknd),Gesaffelstein,Hyperion,2019-03-08,84,https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS,2vXKRlJBXyOcvZYTdNeckS,5.613694444444444e-05,2019,454,176,304
+Odd Look,Kavinsky,Kiss Land (Deluxe),2013-09-10,56,https://open.spotify.com/track/7xcqbjV2NfxlnJzqdRuO7E,7xcqbjV2NfxlnJzqdRuO7E,7.023694444444444e-05,2013,553,244,372
+Until I Come Home,Two Feet,Until I Come Home,2021-11-19,0,https://open.spotify.com/track/0ZWfWytIwA7UwvB8oCNndU,0ZWfWytIwA7UwvB8oCNndU,5.4399166666666666e-05,2021,792,469,711
+Oxytocin,Billie Eilish,Happier Than Ever,2021-07-30,73,https://open.spotify.com/track/4t2OeILB07eMGTXSUbMPEu,4t2OeILB07eMGTXSUbMPEu,5.839777777777778e-05,2021,573,70,271
+Telepathy,✝✝✝ (Crosses),✝✝✝ (Crosses),2014-02-11,0,https://open.spotify.com/track/0T30E0KIXhm7cXxbQUmPWi,0T30E0KIXhm7cXxbQUmPWi,5.972694444444444e-05,2014,748,510,798
+K.Y.S.A.,Phantogram,The Alchemist & Oh No Present Welcome to Los Santos,2015-04-21,0,https://open.spotify.com/track/1EDcun64XasdUKubMHt9W2,1EDcun64XasdUKubMHt9W2,7.247777777777777e-05,2015,406,362,658
+Hotel,Montell Fish,Her Love Still Haunts Me Like a Ghost,2022-10-28,80,https://open.spotify.com/track/2LtCEKs68u3RpNh4wybCF8,2LtCEKs68u3RpNh4wybCF8,5.481472222222222e-05,2022,325,321,287
+Fire In My Head,Two Feet,Fire In My Head,2021-06-11,0,https://open.spotify.com/track/3rNejdjaGjhAeolU3eus1t,3rNejdjaGjhAeolU3eus1t,5.2415e-05,2021,249,469,232
+After Dark,Mr.Kitty,Time,2014-08-08,8,https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn,0zCgWGmDF0aih5qexATyBn,7.142972222222222e-05,2014,19,323,691
+West Coast,Lana Del Rey,Ultraviolence (Deluxe),2014-01-01,85,https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV,5Y6nVaayzitvsD5F7nr3DV,7.132222222222222e-05,2014,818,261,705
+Better Off (Dying),Lil Peep,"Come Over When You're Sober, Pt. 1",2017-08-15,0,https://open.spotify.com/track/1tlrTC3x7viJ1U30oOFGdF,1tlrTC3x7viJ1U30oOFGdF,4.300388888888889e-05,2017,88,271,136
+Spoil My Night (feat. Swae Lee),Post Malone,beerbongs & bentleys,2018-04-27,63,https://open.spotify.com/track/5VuxWXbt7XENQCtE9TzpTv,5VuxWXbt7XENQCtE9TzpTv,5.404444444444444e-05,2018,696,368,771
+Don’t Break My Heart,The Weeknd,Dawn FM,2022-01-06,62,https://open.spotify.com/track/6a4GH1gljLL7VvmO9u5O92,6a4GH1gljLL7VvmO9u5O92,5.707472222222222e-05,2022,203,454,165
+Repeat After Me (Interlude),The Weeknd,After Hours (Deluxe),2020-03-20,47,https://open.spotify.com/track/5dMVtDN1RDNTOL92oDncwd,5dMVtDN1RDNTOL92oDncwd,5.439305555555555e-05,2020,626,454,34
+nuts,Lil Peep,LIVE FOREVER,2022-12-02,2,https://open.spotify.com/track/11k8KTbNeG9iabeNXMuwf0,11k8KTbNeG9iabeNXMuwf0,2.3711111111111113e-05,2022,886,271,376
+Less Than Zero,The Weeknd,Dawn FM,2022-01-06,74,https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA,2D4dV2KXDTszzJ3p3cFqhA,5.8837222222222224e-05,2022,427,454,165
+Butterflies and Hurricanes,Muse,Absolution,2004-03-23,1,https://open.spotify.com/track/0xJLcjd0gaZct43xG1UlXS,0xJLcjd0gaZct43xG1UlXS,8.381472222222222e-05,2004,115,325,31
+PRIDE.,Kendrick Lamar,DAMN.,2017-04-14,86,https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg,6IZvVAP7VPPnsGX6bvgkqg,7.645916666666667e-05,2017,575,247,150
+New Gold (feat. Tame Impala and Bootie Brown),Gorillaz,New Gold (feat. Tame Impala and Bootie Brown),2022-08-31,63,https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU,64dLd6rVqDLtkXFYrEUHIU,5.9763611111111114e-05,2022,535,180,466
+Running on E,Brent Faiyaz,Running on E,2015-11-15,68,https://open.spotify.com/track/7q1rfAWSkb8AQpZCgEX3jq,7q1rfAWSkb8AQpZCgEX3jq,7.834444444444444e-05,2015,643,79,565
+Formula,Labrinth,Euphoria (Original Score from the HBO Series),2019-10-04,78,https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s,6EtKlIQmGPB9SX8UjDJG5s,2.5519166666666668e-05,2019,259,259,205
+Late Night Feelings (feat. Lykke Li),Mark Ronson,Late Night Feelings (feat. Lykke Li),2019-04-12,56,https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0,7aQeWViSfRWSEwtJD86Eq0,6.973e-05,2019,421,305,381
+Redbone,Childish Gambino,"""Awaken, My Love!""",2016-12-02,25,https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz,0WtDGnWL2KrMCk0mI1Gpwz,9.081472222222223e-05,2016,621,102,0
+Escapism. - 4am Remix,RAYE,Escapism. (4am Remix),2024-02-02,53,https://open.spotify.com/track/5AIUQWoMELIpAOi1WPMeSD,5AIUQWoMELIpAOi1WPMeSD,5.792833333333333e-05,2024,223,371,202
+Streets,Doja Cat,Hot Pink,2019-11-07,85,https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf,60ynsPSSKe6O3sfwRnIBRf,6.305166666666667e-05,2019,714,138,295
+CHIHIRO,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,90,https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj,7BRD7x5pt8Lqa1eGYC4dzj,8.428888888888889e-05,2024,118,70,267
+Hierarchy,SABRINA G,Hierarchy,2024-10-18,19,https://open.spotify.com/track/0uUuuMPwmnDe0zSfqz2cFb,0uUuuMPwmnDe0zSfqz2cFb,4.6944444444444446e-05,2024,316,390,289
+Hurts Me,Tory Lanez,Hurts Me,2023-06-27,78,https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga,0RBw4ODUQPO4cuAOZtBGga,3.9111111111111115e-05,2023,331,461,303
+The Abyss (feat. Lana Del Rey),The Weeknd,Hurry Up Tomorrow,2025-01-31,81,https://open.spotify.com/track/5ZDKPFRZC6QlJpf8bCIXTs,5ZDKPFRZC6QlJpf8bCIXTs,7.857583333333333e-05,2025,753,454,301
+Show Me Love,WizTheMc,Show Me Love,2025-02-07,92,https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa,5ITV0zqzjOYfFWpW0xBmRa,4.9156944444444446e-05,2025,666,479,587
+LOVE. FEAT. ZACARI.,Kendrick Lamar,DAMN.,2017-04-14,86,https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As,6PGoSes0D9eUDeeAafB2As,5.927777777777777e-05,2017,417,247,150
+Agora Hills,Doja Cat,Scarlet,2023-09-22,79,https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8,7dJYggqjKo71KI9sLzqCs8,7.37111111111111e-05,2023,22,138,576
+Weekend Lover,Ainae,Weekend Lover,2025-02-13,29,https://open.spotify.com/track/5xxiYW4j8qQZIxYdvfYJ48,5xxiYW4j8qQZIxYdvfYJ48,4.001638888888888e-05,2025,817,18,731
+Houston,Jean Dawson,Houston,2024-09-20,42,https://open.spotify.com/track/4d9O0gY7JmTXRHNmv4It66,4d9O0gY7JmTXRHNmv4It66,7.719277777777779e-05,2024,329,218,299
+Thinkin Bout You,Frank Ocean,channel ORANGE,2012-07-10,86,https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau,7DfFc7a6Rwfi3YQMRbDMau,5.5762777777777776e-05,2012,768,167,774
+i like the way you kiss me,Artemas,i like the way you kiss me,2024-03-19,85,https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf,2GxrNKugF82CnoRFbQfzPf,3.958722222222222e-05,2024,877,41,782
+Stargirl Interlude,The Weeknd,Starboy,2016-11-24,82,https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w,5gDWsRxpJ2lZAffh5p7K0w,3.100722222222222e-05,2016,700,454,612
+Good Cry,Bruklin,Good Cry,2024-11-29,36,https://open.spotify.com/track/7zfcRc9B8sQMYPAZ5ucqBo,7zfcRc9B8sQMYPAZ5ucqBo,3.8554166666666664e-05,2024,287,82,256
+Needed Me,Rihanna,ANTI (Deluxe),2016-01-28,83,https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3,4pAl7FkDMNBsjykPXo91B3,5.3222222222222225e-05,2016,530,384,24
+Odd Look,Kavinsky,Odd Look,2013-01-01,62,https://open.spotify.com/track/3Q6mwJseOFYBJ10d5CXp4o,3Q6mwJseOFYBJ10d5CXp4o,7.042944444444445e-05,2013,553,244,485
+Nights,Frank Ocean,Blonde,2016-08-20,82,https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ,7eqoqGkKwgOaWNNHx90uEZ,8.531972222222221e-05,2016,539,167,104
+Lost,Ridi,Lost,2025-02-07,49,https://open.spotify.com/track/5gPSmg5iQPXadHeuSzSMTU,5gPSmg5iQPXadHeuSzSMTU,4.847222222222222e-05,2025,451,383,398
+Like I Want You,GIVĒON,TAKE TIME,2020-03-27,80,https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd,6qBFSepqLCuh5tehehc1bd,7.243777777777778e-05,2020,438,171,634
+Stay High - Habits Remix,Tove Lo,Queen Of The Clouds,2014-09-24,68,https://open.spotify.com/track/5JCi3pyggvk4B0yd0BK3ow,5JCi3pyggvk4B0yd0BK3ow,7.177388888888889e-05,2014,702,462,539
+Dead Man Walking,Brent Faiyaz,Dead Man Walking,2020-09-18,66,https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk,5VlTQnZO89Ioku8ssdbqJk,6.863305555555555e-05,2020,177,79,167
+DIRTY LITTLE SECRET,Nessa Barrett,DIRTY LITTLE SECRET,2024-09-20,56,https://open.spotify.com/track/1YLzM2u0jpPxKTcrovSSZP,1YLzM2u0jpPxKTcrovSSZP,5.9677777777777775e-05,2024,163,333,153
+Sleepless,AVAION,Sleepless,2022-05-27,75,https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH,75HBVc7kJLjC2LlPc4ScfH,4.590638888888889e-05,2022,678,15,597
+Islands,The xx,xx,2009-08-16,63,https://open.spotify.com/track/0Rqwa6i410IwhTiugt6vXi,0Rqwa6i410IwhTiugt6vXi,4.4644444444444445e-05,2009,388,455,795
+Stay,Kenya Grace,The After Taste,2024-03-21,44,https://open.spotify.com/track/7zjT5UAKMHs4P3HuZgKB5j,7zjT5UAKMHs4P3HuZgKB5j,5.422888888888889e-05,2024,701,248,657
+Strings,E S,Strings,2025-01-24,26,https://open.spotify.com/track/2DbmxBiv6zFtz4P9Uv6HSL,2DbmxBiv6zFtz4P9Uv6HSL,4.077222222222222e-05,2025,715,146,620
+NDA,Billie Eilish,Happier Than Ever,2021-07-30,78,https://open.spotify.com/track/38GBNKZUhfBkk3oNlWzRYd,38GBNKZUhfBkk3oNlWzRYd,5.4382222222222214e-05,2021,527,70,271
+Moonlight,Kali Uchis,Moonlight,2023-02-24,77,https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2,2i2gDpKKWjvnRTOZRhaPh2,5.2099166666666664e-05,2023,513,242,444
+Exchange,Bryson Tiller,T R A P S O U L,2015-10-02,82,https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN,43PuMrRfbyyuz4QpZ3oAwN,5.4059166666666666e-05,2015,228,84,633
+No Idea,Don Toliver,Heaven Or Hell,2020-03-13,82,https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU,7AzlLxHn24DxjgQX73F9fU,4.2895555555555554e-05,2020,540,140,284
+CHANCES,KAYTRANADA,NOTHIN LIKE U / CHANCES,2018-11-30,65,https://open.spotify.com/track/439X8jGytErRiPnaoUJHju,439X8jGytErRiPnaoUJHju,6.06111111111111e-05,2018,117,239,460
+Talk,JAZMYNE,Talk,2025-01-16,28,https://open.spotify.com/track/5gNVp8fBaz4y3vGVSYbnka,5gNVp8fBaz4y3vGVSYbnka,4.555555555555556e-05,2025,742,210,645
+"One Of The Girls (with JENNIE, Lily Rose Depp)",The Weeknd,The Idol Episode 4 (Music from the HBO Original Series),2023-06-23,93,https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW,7CyPwkp0oE8Ro9Dd5CUDjW,6.796777777777778e-05,2023,564,454,669
+EVRGRN,Josh Caballes,EXPENSIVE THERAPY,2024-11-06,11,https://open.spotify.com/track/6FFGK5sjPR0yKXelZzkrzj,6FFGK5sjPR0yKXelZzkrzj,4.29375e-05,2024,213,229,193
+Hourglass,Baby Tate,Hourglass,2021-09-02,33,https://open.spotify.com/track/7udNt8rbaYcuYKaAtkA8qn,7udNt8rbaYcuYKaAtkA8qn,4.8358888888888886e-05,2021,326,55,296
+Oxygen,Pixia,Oxygen,2025-03-21,30,https://open.spotify.com/track/4m5GfM0XzFqN2OCEwnsSAL,4m5GfM0XzFqN2OCEwnsSAL,6.020833333333333e-05,2025,572,365,502
+Make You Mine,Madison Beer,Make You Mine,2024-02-09,80,https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL,48vIfHaK7by6x0T6ucpODL,6.158583333333333e-05,2024,484,295,422
+Teenage Fever,Drake,More Life,2017-03-18,81,https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo,6n3HGiq4v35D6eFOSwqYuo,6.1025555555555545e-05,2017,747,142,445
+Nothing Burns Like The Cold,Snoh Aalegra,FEELS,2017-10-20,69,https://open.spotify.com/track/6G0KITyDe4EQREYyuVQmOn,6G0KITyDe4EQREYyuVQmOn,5.8308611111111115e-05,2017,548,423,212
+Lean Wit Me,Juice WRLD,Goodbye & Good Riddance,2018-12-10,80,https://open.spotify.com/track/3oDkdAySo1VQQG0ptV7uwa,3oDkdAySo1VQQG0ptV7uwa,4.882083333333334e-05,2018,423,231,259
+Summer Rain,Majid Jordan,Wildest Dreams,2021-10-22,45,https://open.spotify.com/track/3sCnC8LTixzL22HZkdcyQT,3sCnC8LTixzL22HZkdcyQT,5.55925e-05,2021,723,299,746
+Intro,The xx,xx,2009-08-16,73,https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j,2usrT8QIbIk9y0NEtQwS4j,3.5533333333333334e-05,2009,386,455,795
+Recognize (feat. Drake),PARTYNEXTDOOR,PARTYNEXTDOOR TWO,2014-07-29,2,https://open.spotify.com/track/5wUUWVRvrciJqFitZF8R0P,5wUUWVRvrciJqFitZF8R0P,8.644361111111111e-05,2014,620,356,503
+Marvins Room,Drake,Take Care (Deluxe),2011-11-15,77,https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl,047fCsbO4NdmwCBn8pcUXl,9.645166666666666e-05,2011,487,142,639
+For Me,SouthmadeVelly,For Me,2024-12-20,30,https://open.spotify.com/track/75oOv0Wz3k5iu01CzrnWRF,75oOv0Wz3k5iu01CzrnWRF,4.1666666666666665e-05,2024,256,425,237
+Trust,Brent Faiyaz,Lost,2018-10-19,77,https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR,0oufSLnKQDoBFX5mgkDCgR,4.4005555555555555e-05,2018,786,79,398
+Party Monster,The Weeknd,Starboy,2016-11-25,79,https://open.spotify.com/track/4F7A0DXBrmUAkp32uenhZt,4F7A0DXBrmUAkp32uenhZt,6.922583333333333e-05,2016,580,454,612
+Waves of Blue,Majid Jordan,Wildest Dreams,2021-10-22,56,https://open.spotify.com/track/4lKe0viSvv8ckoTPvHBih1,4lKe0viSvv8ckoTPvHBih1,5.7984999999999995e-05,2021,810,299,746
+Privilege,The Weeknd,"My Dear Melancholy,",2018-03-30,64,https://open.spotify.com/track/0Nwar8rweBUyfyuoyjjUvk,0Nwar8rweBUyfyuoyjjUvk,4.7381388888888884e-05,2018,606,454,451
+D'Evils,SiR,November,2018-01-19,70,https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5,0wY9rA9fJkuESyYm9uzVK5,4.772722222222222e-05,2018,160,416,481
+Girl With The Tattoo Enter.lewd,Miguel,All I Want Is You,2010-11-26,82,https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv,1eUGmzzvahJjOSWgDHuRlv,2.8559166666666666e-05,2010,272,317,38
+All My Friends (feat. Tinashe & Chance the Rapper),Snakehips,All My Friends (feat. Tinashe & Chance the Rapper),2015-10-21,71,https://open.spotify.com/track/6TaqooOXAEcijL6G1AWS2K,6TaqooOXAEcijL6G1AWS2K,6.381833333333334e-05,2015,29,422,40
+Pretty Little Fears (feat. J. Cole),6LACK,East Atlanta Love Letter,2018-09-14,72,https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp,4at3d5QWnlibMVN75ECDrp,6.67613888888889e-05,2018,603,7,194
+Her,Majid Jordan,A Place Like This,2014-07-17,56,https://open.spotify.com/track/4Wfe2jloKo95eFVnJEr5N1,4Wfe2jloKo95eFVnJEr5N1,8.353555555555556e-05,2014,311,299,20
+Purity (feat. Frank Ocean),A$AP Rocky,TESTING,2018-05-25,69,https://open.spotify.com/track/2MF4HtZHBoUliOi9nOAbS0,2MF4HtZHBoUliOi9nOAbS0,7.287777777777777e-05,2018,608,9,635
+Firefly,Mura Masa,Someday Somewhere,2015-04-10,58,https://open.spotify.com/track/2s9C5THb9llwyVXtjveV4E,2s9C5THb9llwyVXtjveV4E,6.333333333333333e-05,2015,252,324,604
+Don’t Matter To Me (with Michael Jackson),Drake,Scorpion,2018-06-29,71,https://open.spotify.com/track/6G8kHiVZ1jW7vHMPVRNZU0,6G8kHiVZ1jW7vHMPVRNZU0,6.827388888888889e-05,2018,204,142,577
+L$D,A$AP Rocky,AT.LONG.LAST.A$AP,2015-05-26,74,https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud,4S7YHmlWwfwArgd8LfSPud,6.619611111111109e-05,2015,416,9,29
+waves,Miguel,Wildheart (Deluxe Version),2015-06-26,41,https://open.spotify.com/track/7LP6AUTf4KD055DVxfBXOu,7LP6AUTf4KD055DVxfBXOu,5.624805555555555e-05,2015,892,317,748
+Novacane,Frank Ocean,Novacane,2011-01-01,84,https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53,4osgfFTICMkcGbbigdsa53,8.3985e-05,2011,549,167,480
+The Morning,The Weeknd,House Of Balloons (Original),2011-03-21,76,https://open.spotify.com/track/4jBfUB4kQJCWOrjGLQqhO0,4jBfUB4kQJCWOrjGLQqhO0,8.72525e-05,2011,762,454,297
+So High,Ski Mask The Slump God,STOKELEY,2018-11-30,51,https://open.spotify.com/track/3nTDO6k4R6i3FpKx0QNgJ5,3nTDO6k4R6i3FpKx0QNgJ5,4.1614722222222224e-05,2018,683,420,570
+HIGHEST IN THE ROOM,Travis Scott,HIGHEST IN THE ROOM,2019-10-04,86,https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW,3eekarcy7kvN4yt5ZFzltW,4.8811111111111106e-05,2019,296,464,266
+Down On My Luck,VIC MENSA,Down On My Luck,2014-01-01,43,https://open.spotify.com/track/3ZuHoaPp0mQllnIzOyc2k6,3ZuHoaPp0mQllnIzOyc2k6,5.818666666666667e-05,2014,206,472,187
+Sober - Jarreau Vandal Remix,Mahalia,Sober (Jarreau Vandal Remix),2017-08-11,44,https://open.spotify.com/track/49ObNH7FeBkTehJVPGF1P1,49ObNH7FeBkTehJVPGF1P1,6.120777777777777e-05,2017,685,298,603
+Daydreaming,NxWorries,Daydreaming,2023-05-18,48,https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw,6qqq5zPYV7U4UsKnGC82tw,5.193527777777777e-05,2023,176,348,166
+SLOW DANCING IN THE DARK,Joji,BALLADS 1,2018-10-26,11,https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d,0rKtyWc8bvkriBthvHKY8d,5.813138888888888e-05,2018,645,225,67
+You Look Lonely x Resonance - Slowed + Reverb,citrulinq,You Look Lonely x Resonance (Slowed + Reverb),2024-06-14,35,https://open.spotify.com/track/6z7Evq7ok6WzK62xoOQkTN,6z7Evq7ok6WzK62xoOQkTN,4.6521666666666665e-05,2024,858,498,763
+Don't,Bryson Tiller,T R A P S O U L,2015-10-02,86,https://open.spotify.com/track/3pXF1nA74528Edde4of9CC,3pXF1nA74528Edde4of9CC,5.508138888888889e-05,2015,193,84,633
+Crystalised,The xx,xx,2009-08-16,69,https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH,5UBBJnFxsfjFxfrtvErQoH,5.609611111111111e-05,2009,158,455,795
+WAIT FOR U (feat. Drake & Tems),Future,I NEVER LIKED YOU,2022-04-29,84,https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK,59nOXPmaKlBfGMDeOVGrIK,5.274805555555555e-05,2022,797,168,317
+worst behaviour,kwn,worst behaviour,2024-11-01,30,https://open.spotify.com/track/5EQHN6tBq72rJxHhmGnDoJ,5EQHN6tBq72rJxHhmGnDoJ,4.972e-05,2024,896,502,793
+BUTTERFLIES,Isaiah Falls,LUCKY ME,2024-10-11,70,https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA,0quwQM9YgpwBsNnCyZ8aaA,4.5433611111111114e-05,2024,57,206,377
+Galaxy,Kid Travis,Strawberry Skies (Deluxe Edition),2020-12-04,45,https://open.spotify.com/track/2LL8v2NXuuzkV9N1G2m7oE,2LL8v2NXuuzkV9N1G2m7oE,4.705972222222222e-05,2020,262,253,619
+Thank You (Not So Bad),Dimitri Vegas & Like Mike,Thank You (Not So Bad),2023-12-01,85,https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt,09CnYHiZ5jGT1wr1TXJ9Zt,3.8888888888888884e-05,2023,750,133,655
+Car Keys,Nito-Onna,Car Keys,2023-10-27,0,https://open.spotify.com/track/0SxXZAjFO4Oey1eKhDdb4G,0SxXZAjFO4Oey1eKhDdb4G,3.5185e-05,2023,126,344,124
+I Don't Wanna Wait,David Guetta,I Don't Wanna Wait,2024-04-05,85,https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq,331l3xABO0HMr1Kkyh2LZq,4.1574166666666666e-05,2024,341,124,310
+Numb,Arc North,Numb,2020-08-25,7,https://open.spotify.com/track/2OfQvGrr83FGpdLA1nAR01,2OfQvGrr83FGpdLA1nAR01,3.6299166666666666e-05,2020,550,36,482
+Bloody Mary,Nito-Onna,Bloody Mary,2023-02-10,5,https://open.spotify.com/track/6kMzwZU1B2kYDkwXNeW3gN,6kMzwZU1B2kYDkwXNeW3gN,3.493333333333333e-05,2023,99,344,106
+10:35,Harddope,10:35,2023-09-01,0,https://open.spotify.com/track/6vxIESInAmpvHpE1DNLVJR,6vxIESInAmpvHpE1DNLVJR,4.614444444444445e-05,2023,1,191,5
+Stumblin' In,CYRIL,Stumblin' In,2023-11-10,86,https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z,0h3Xy4V4apMraB5NuM8U7Z,5.92675e-05,2023,718,88,624
+Lay Low,PACANI,Lay Low,2024-08-14,42,https://open.spotify.com/track/3VjfSyx7WVSuqrXwC3tsHb,3VjfSyx7WVSuqrXwC3tsHb,4.1733333333333336e-05,2024,422,355,384
+MONTAGEM TOMADA - Slowed,MXZI,MONTAGEM TOMADA,2025-03-21,81,https://open.spotify.com/track/1mfvWzF39LwVpAm8g0LhQT,1mfvWzF39LwVpAm8g0LhQT,2.358361111111111e-05,2025,477,292,411
+I Adore You (feat. Daecolm),HUGEL,I Adore You (feat. Daecolm),2024-07-19,87,https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7,5nPbKG04fhLkIAjcPFaZq7,5.9444444444444445e-05,2024,335,186,307
+I Like The Way You Kiss Me,Harddope,I Like the Way You Kiss Me,2024-06-28,62,https://open.spotify.com/track/6it64Jzw2oozPLRYPjkie6,6it64Jzw2oozPLRYPjkie6,3.875e-05,2024,349,191,314
+Body,Badscandal,Body,2024-11-29,60,https://open.spotify.com/track/4BJ83GHwyDFvw0HQfjOK1s,4BJ83GHwyDFvw0HQfjOK1s,4.1111111111111116e-05,2024,100,58,108
+Ferrari,Cour,Ferrari,2023-01-25,0,https://open.spotify.com/track/5rOQ4YUZIxF9CSTcmjSrVN,5rOQ4YUZIxF9CSTcmjSrVN,3.546666666666667e-05,2023,247,112,229
+Meet Me Halfway,Sandëro,Meet Me Halfway,2025-04-11,4,https://open.spotify.com/track/6LN9EOkfkBHK6iH3nzQXxm,6LN9EOkfkBHK6iH3nzQXxm,3.541972222222222e-05,2025,497,401,430
+FE!N,CryJaxx,FE!N,2025-01-29,51,https://open.spotify.com/track/0C5MT3DWqlReChdj7bvS85,0C5MT3DWqlReChdj7bvS85,4.9629444444444445e-05,2025,230,113,211
+Where Are You Now,Nick Giardino,Where Are You Now,2025-04-04,37,https://open.spotify.com/track/3IIbBABjBz1LGcAxcsudBQ,3IIbBABjBz1LGcAxcsudBQ,3.924722222222222e-05,2025,834,335,739
+The Monster,Gaullin,The Monster,2025-03-28,56,https://open.spotify.com/track/2LP02KzZ9zbLbzcI0aq3NK,2LP02KzZ9zbLbzcI0aq3NK,3.817194444444444e-05,2025,761,175,673
+Popular,Lintrepy,Popular,2025-03-14,37,https://open.spotify.com/track/6ukoj0qiCa2bL2WFfbht0w,6ukoj0qiCa2bL2WFfbht0w,3.75e-05,2025,597,277,525
+I Adore You,ANRY,I Adore You,2025-02-28,40,https://open.spotify.com/track/7AADUqL9LotiXuOX1x3odg,7AADUqL9LotiXuOX1x3odg,3.551305555555555e-05,2025,334,13,306
+FERRARI FRIGHT,Scythermane,FERRARI FRIGHT,2025-02-17,50,https://open.spotify.com/track/2KLKOr4xwpWqf80x7DVrlt,2KLKOr4xwpWqf80x7DVrlt,2.3776388888888886e-05,2025,231,407,213
+OIIA OIIA,Hyper VIPER,OIIA OIIA,2025-03-03,53,https://open.spotify.com/track/7CPfXmk1PFeYPYyf5jSGNy,7CPfXmk1PFeYPYyf5jSGNy,3.4642777777777775e-05,2025,552,195,484
+CONTIGO (with Tiësto),KAROL G,CONTIGO (with Tiësto),2024-02-15,77,https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh,4UkUxO2WlKLc0Q1iEutGGh,5.3551666666666664e-05,2024,119,238,118
+FREE FUNK,Joinnus,FREE FUNK,2025-03-14,48,https://open.spotify.com/track/0n6jBBS8xPJLCaxhPQ7iDd,0n6jBBS8xPJLCaxhPQ7iDd,3.2618888888888885e-05,2025,232,224,215
+Enemy,Arc North,Enemy,2022-03-04,1,https://open.spotify.com/track/5o1QZzfsboTlxhoAPR36LA,5o1QZzfsboTlxhoAPR36LA,3.8888888888888884e-05,2022,219,36,200
+I Know You So Well,dnvn,I Know You So Well,2025-02-07,52,https://open.spotify.com/track/7txGSPCde3AuyEOzOYy32P,7txGSPCde3AuyEOzOYy32P,3.458333333333334e-05,2025,345,499,312
+It’s A Miracle,SAMMY & LESEN,It’s A Miracle,2025-01-17,40,https://open.spotify.com/track/3cdYvrhDWATnutOFMW6OPJ,3cdYvrhDWATnutOFMW6OPJ,3.395055555555555e-05,2025,392,391,353
+Freaks,TRFN,Freaks,2024-12-13,61,https://open.spotify.com/track/3XCGpKx1EaFA4sqgpQ2253,3XCGpKx1EaFA4sqgpQ2253,3.365583333333334e-05,2024,260,435,242
+Holding On,Liam Dakota,Holding On,2025-01-15,37,https://open.spotify.com/track/6iXmBzEcDNjkVZA23W0hCQ,6iXmBzEcDNjkVZA23W0hCQ,4.510638888888888e-05,2025,320,268,291
+Boots On The Ground,Dillin Hoox,Boots On The Ground,2025-03-28,44,https://open.spotify.com/track/1ivflkKhXZXpPJbjcg3eOl,1ivflkKhXZXpPJbjcg3eOl,4.2825277777777774e-05,2025,102,132,110
+My Oh My,Blvck Cobrv,My Oh My,2024-12-25,40,https://open.spotify.com/track/0UIpK3ZiY33PXP5Jg63Pvt,0UIpK3ZiY33PXP5Jg63Pvt,4.403694444444445e-05,2024,524,75,455
+Gravity,MetaBoy,Gravity,2025-01-17,52,https://open.spotify.com/track/2SrsEGgjFTgSLrk48DEwmy,2SrsEGgjFTgSLrk48DEwmy,3.666666666666667e-05,2025,293,316,260
+Timelapse,HXPETRAIN,Timelapse,2024-12-06,39,https://open.spotify.com/track/6Tg7Zq9S1uAgoXdZ2Bj07y,6Tg7Zq9S1uAgoXdZ2Bj07y,3.6470555555555554e-05,2024,774,188,692
+ALONE,NEWER,ALONE,2025-04-04,32,https://open.spotify.com/track/4SjVlJNXiD48a0qkgRp30l,4SjVlJNXiD48a0qkgRp30l,5.15625e-05,2025,15,327,22
+Goodbye,Blackjack,Goodbye,2024-12-20,37,https://open.spotify.com/track/2iInrRRBr6IjvfGKF1OVy2,2iInrRRBr6IjvfGKF1OVy2,5.277777777777778e-05,2024,289,73,258
+BANGALORE,Cesqeaux,BANGALORE,2025-03-28,40,https://open.spotify.com/track/3FP428OcKBqMak48tuTEqP,3FP428OcKBqMak48tuTEqP,5.9310277777777776e-05,2025,56,98,68
+Face to Face (Let Me Love You),Sugar Jesus,Face to Face (Let Me Love You),2025-03-13,54,https://open.spotify.com/track/0KnZyt15wcngx4oA8VrBua,0KnZyt15wcngx4oA8VrBua,4.3489444444444446e-05,2025,235,431,216
+REVAMP,Alban Chela,REVAMP,2025-01-08,37,https://open.spotify.com/track/0mDGDS2k5KdHIZPV8Uzmvk,0mDGDS2k5KdHIZPV8Uzmvk,3.884777777777777e-05,2025,612,22,542
+Jupiter,nashi,Jupiter,2025-01-03,36,https://open.spotify.com/track/7F2FME2SDWLXVvk125nDpY,7F2FME2SDWLXVvk125nDpY,3.3653055555555556e-05,2025,399,504,361
+More Than Ever (Umbrella),LEDUC,More Than Ever (Umbrella),2025-03-21,49,https://open.spotify.com/track/4uKulth6B1icBKdUQlQZhd,4uKulth6B1icBKdUQlQZhd,5.4166666666666664e-05,2025,515,258,446
+Beg You To Stay,Blue Violets,Beg You To Stay,2025-01-01,37,https://open.spotify.com/track/7goR8vzkBA7tL3c3D5rgJU,7goR8vzkBA7tL3c3D5rgJU,4.9463611111111114e-05,2025,80,74,91
+Shake - Original Mix,GonSu,Shake,2024-12-27,37,https://open.spotify.com/track/46nkm60k3Y1fvsF67a2O3a,46nkm60k3Y1fvsF67a2O3a,4.907388888888888e-05,2024,661,178,583
+In My Bones,TEZIS,In My Bones,2024-12-18,38,https://open.spotify.com/track/13xLdD8IKmpkUp1A1Fb4b8,13xLdD8IKmpkUp1A1Fb4b8,3.52e-05,2024,375,433,337
+Memories,BEATSMASH,Memories,2024-12-13,36,https://open.spotify.com/track/1JkniRo2OK9r2IkD9sT3UN,1JkniRo2OK9r2IkD9sT3UN,4.711111111111111e-05,2024,500,52,435
+I’m Blue,B Martin,I’m Blue,2023-04-10,47,https://open.spotify.com/track/03YwkQZ5hPtKa3BBUmdCyn,03YwkQZ5hPtKa3BBUmdCyn,4.0625e-05,2023,393,50,354
+Ram Pam Pam,MNA55,Ram Pam Pam,2025-03-05,53,https://open.spotify.com/track/7vDESC215QCg18046TZfWu,7vDESC215QCg18046TZfWu,4.7201111111111107e-05,2025,616,290,545
+Wolves,Nick Giardino,Wolves,2024-12-11,38,https://open.spotify.com/track/6QCDhGcMRdRwbT4lEshSvX,6QCDhGcMRdRwbT4lEshSvX,4.078583333333334e-05,2024,844,335,752
+Kill Vibe,NO FEELS,Kill Vibe,2024-12-06,35,https://open.spotify.com/track/2sC1KBTYFFFFl6iUnEKxyD,2sC1KBTYFFFFl6iUnEKxyD,3.7465e-05,2024,411,328,370
+Faded,Arc North,Faded,2020-11-24,50,https://open.spotify.com/track/0BwuOCWqQM0P9SJWuzZlMv,0BwuOCWqQM0P9SJWuzZlMv,4.06025e-05,2020,236,36,217
+You Don't Own Me,MetaBoy,You Don't Own Me,2024-11-29,37,https://open.spotify.com/track/45CrSrvgKXpXPk5cJinoWu,45CrSrvgKXpXPk5cJinoWu,4.5375555555555544e-05,2024,857,316,762
+Whispers In The Night,HXDES,Whispers In The Night,2024-11-29,43,https://open.spotify.com/track/6rpujYAIyLZBkPxDxZtlaf,6rpujYAIyLZBkPxDxZtlaf,3.5106388888888884e-05,2024,835,187,740
+Espresso,Blvck Cobrv,Espresso,2024-11-27,39,https://open.spotify.com/track/3SNQXDptHbuEwLY3bH5k4B,3SNQXDptHbuEwLY3bH5k4B,4.571416666666666e-05,2024,224,75,204
+Ice Cold,PHARØ,Ice Cold,2024-11-22,36,https://open.spotify.com/track/4JCif4GRYF9HeNAOB0fCYQ,4JCif4GRYF9HeNAOB0fCYQ,4.539777777777778e-05,2024,367,357,329
+Plot Twist,EQRIC,Plot Twist,2024-11-20,37,https://open.spotify.com/track/7xunlpRQ8Hqz1bjMXRwfkF,7xunlpRQ8Hqz1bjMXRwfkF,3.541666666666667e-05,2024,595,148,523
+In The Air Tonight,Blvck Cobrv,In The Air Tonight,2024-11-15,39,https://open.spotify.com/track/7zkYND3Pu655l7zjnjBo0W,7zkYND3Pu655l7zjnjBo0W,4.9504166666666666e-05,2024,378,75,340
+Diamonds,PHURS,Diamonds,2024-11-13,37,https://open.spotify.com/track/2wCoctHJhNNGIhoptKivnz,2wCoctHJhNNGIhoptKivnz,4.2898333333333336e-05,2024,185,358,172
+"Better Off (Alone, Pt. III)",Alan Walker,"Better Off (Alone, Pt. III)",2023-09-28,64,https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s,1P7hMSbpJOQy58eC78qx7s,4.213944444444445e-05,2023,87,21,97
+Angel,JAYEM,Angel,2024-11-08,34,https://open.spotify.com/track/1RNco0r3rFMVR3mmbo4sXD,1RNco0r3rFMVR3mmbo4sXD,4.768638888888889e-05,2024,35,209,48
+Used To You,Ocean Roses,Used To You,2024-10-25,34,https://open.spotify.com/track/34TjlDfsM70A33BY12tlzu,34TjlDfsM70A33BY12tlzu,3.915333333333334e-05,2024,795,349,715
+Power,Devinity,Power,2024-11-01,33,https://open.spotify.com/track/5hdBy1fViWWvisCXJEBee0,5hdBy1fViWWvisCXJEBee0,3.7960555555555555e-05,2024,598,131,527
+Love The Way You Lie,LexMorris,Love The Way You Lie,2024-10-30,37,https://open.spotify.com/track/7spxZQzy7cQZEWRpJpquGc,7spxZQzy7cQZEWRpJpquGc,3.478777777777778e-05,2024,464,266,404
+Stop The Time,Max Martis,Stop The Time,2024-10-23,36,https://open.spotify.com/track/7mLmkWYW9N4t1LuYNEqgl1,7mLmkWYW9N4t1LuYNEqgl1,4.093555555555555e-05,2024,711,310,617
+Forget You,54GODART,Forget You,2024-10-16,37,https://open.spotify.com/track/19O0BdBm4c9mnTeXo3rA5w,19O0BdBm4c9mnTeXo3rA5w,3.825166666666667e-05,2024,258,4,240
+Blood Bath,n$vd,Blood Bath,2024-12-04,41,https://open.spotify.com/track/0rkxK1FXQGTujhdTcoKh4M,0rkxK1FXQGTujhdTcoKh4M,4.102555555555555e-05,2024,98,503,105
+Mad World,54GODART,Mad World,2024-10-11,39,https://open.spotify.com/track/1chwWqQuolsjQ4RsDe0rnW,1chwWqQuolsjQ4RsDe0rnW,3.2440277777777784e-05,2024,479,4,415
+I’m Sure,Alosa,I’m Sure,2024-10-04,35,https://open.spotify.com/track/1EhJrIuXkockDlRan7RqUe,1EhJrIuXkockDlRan7RqUe,4.242416666666667e-05,2024,395,31,356
+Takeaway,TEZIS,Takeaway,2024-10-02,37,https://open.spotify.com/track/1rwR9L4zXn8cSzU1OIZ1mu,1rwR9L4zXn8cSzU1OIZ1mu,3.6006388888888886e-05,2024,740,433,642
+Make You Mine,PACANI,Make You Mine,2024-06-20,36,https://open.spotify.com/track/75gDzQR90fv7SZdJcf8xWd,75gDzQR90fv7SZdJcf8xWd,4.878083333333333e-05,2024,484,355,422
+Not Fair,Niklas Dee,Not Fair,2023-06-02,74,https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU,0JZ1ABjN8q7TNwMP39NjvU,4.528722222222222e-05,2023,545,342,476
+Youngblood,Arc North,Youngblood,2021-03-04,50,https://open.spotify.com/track/0RZfpx16X30FrmkNavzZM6,0RZfpx16X30FrmkNavzZM6,5.2310277777777775e-05,2021,863,36,767
+Mockingbird,Tiësto,Mockingbird,2024-05-03,77,https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG,2x4JC9TxW2LACuuxbsncfG,4.301055555555555e-05,2024,510,458,441
+NE MOGY,SKYXLINER,NE MOGY,2025-01-01,44,https://open.spotify.com/track/5EH1SOEk5b4FZywowRFxkC,5EH1SOEk5b4FZywowRFxkC,3.3979444444444444e-05,2025,528,393,459
+Tokyo Drift,ZODIVK,Tokyo Drift,2023-06-23,65,https://open.spotify.com/track/3dDzBfNFF5jekdxawoTPT7,3dDzBfNFF5jekdxawoTPT7,3.3610833333333334e-05,2023,778,490,695
+"Fire! (feat. YUQI ((G)I-DLE), JVKE)",Alan Walker,"Fire! (feat. YUQI ((G)I-DLE), JVKE)",2023-12-14,64,https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy,5B8VpcIC3EAI3wke3XQoRy,3.434e-05,2023,250,21,233
+Unholy,Badscandal,Unholy,2022-11-18,1,https://open.spotify.com/track/4kpOjMPDIRrUrbGHXitVoC,4kpOjMPDIRrUrbGHXitVoC,4.023416666666667e-05,2022,790,58,709
+"Alone, Pt. II",Alan Walker,World Of Walker,2021-11-26,73,https://open.spotify.com/track/28VbwtsYnj85UEODGpQRem,28VbwtsYnj85UEODGpQRem,4.973666666666667e-05,2021,34,21,755
+Dreamer,Poylow,Dreamer,2024-07-19,33,https://open.spotify.com/track/7rlh0rKDQnYzWSM8ohtcmk,7rlh0rKDQnYzWSM8ohtcmk,4.030027777777777e-05,2024,208,369,188
+Strangers,Goodscandal,Strangers,2024-02-07,0,https://open.spotify.com/track/33U3x4swx5bf7JvcaShAH4,33U3x4swx5bf7JvcaShAH4,3.8160833333333336e-05,2024,713,179,618
+Single Soon,NUUD,Single Soon,2024-04-05,0,https://open.spotify.com/track/5v1CuJh4rPGY1TUC8AYWtw,5v1CuJh4rPGY1TUC8AYWtw,5.660361111111111e-05,2024,673,329,593
+Calm Down,DJ Goja,Calm Down,2022-09-19,64,https://open.spotify.com/track/28Y0lMcpwX7eZyMVfhbaUm,28Y0lMcpwX7eZyMVfhbaUm,5.057444444444445e-05,2022,123,117,119
+Fairy,Flame Runner,Fairy,2024-08-19,44,https://open.spotify.com/track/4cfzgP3wegTcjpC4pbmZow,4cfzgP3wegTcjpC4pbmZow,2.41975e-05,2024,237,164,218
+Around the World (La La La La La),PACANI,Around the World (La La La La La),2024-06-14,35,https://open.spotify.com/track/6cvd4Ov4bMY2eh0UVq0oVh,6cvd4Ov4bMY2eh0UVq0oVh,4.071666666666667e-05,2024,48,355,59
+Are You With Me,Catiso,Are You With Me,2024-03-22,0,https://open.spotify.com/track/5TXid1Z9uCMR6Yopp3nfSR,5TXid1Z9uCMR6Yopp3nfSR,3.631416666666667e-05,2024,46,96,56
+Murder,Maria Beyer,Murder,2024-03-01,36,https://open.spotify.com/track/79QqWQupJsjKu70GOVxG1E,79QqWQupJsjKu70GOVxG1E,5.323138888888889e-05,2024,518,302,450
+Lost In Sound,ROY KNOX,Lost In Sound,2019-03-23,6,https://open.spotify.com/track/35LuknGQZ5kBbngf4tGSXg,35LuknGQZ5kBbngf4tGSXg,4.3776666666666664e-05,2019,453,373,399
+Angel With A Shotgun,Ericovich,Angel With A Shotgun,2021-07-13,0,https://open.spotify.com/track/0AdNthpY5nOB70TJ3OxCt6,0AdNthpY5nOB70TJ3OxCt6,3.880194444444445e-05,2021,36,160,49
+See You Again,Skan,See You Again,2022-08-31,0,https://open.spotify.com/track/4N7OgM0tMh7AQ12hRDq26e,4N7OgM0tMh7AQ12hRDq26e,3.565555555555555e-05,2022,655,419,578
+Daddy DJ,Nito-Onna,Daddy DJ,2023-08-16,0,https://open.spotify.com/track/1xAFNU9ljlmM44P3gCdMft,1xAFNU9ljlmM44P3gCdMft,4.0444444444444444e-05,2023,164,344,154
+"Relax, Take It Easy",UNKLFNKL,"Relax, Take It Easy",2020-09-15,1,https://open.spotify.com/track/0d2rYcjjSDD0LZTbSvlZq2,0d2rYcjjSDD0LZTbSvlZq2,4.497333333333333e-05,2020,622,470,552
+Like This,Oleria,Like This,2024-08-09,32,https://open.spotify.com/track/7tuCZtayCd10OwoJsBXNPs,7tuCZtayCd10OwoJsBXNPs,4.2968611111111116e-05,2024,439,350,392
+365,NUUD,365,2024-02-28,0,https://open.spotify.com/track/5SYb7Gk14rZPphzY5FKiOh,5SYb7Gk14rZPphzY5FKiOh,4.1666666666666665e-05,2024,7,329,12
+Give It To You,Badscandal,Give It To You,2024-06-14,36,https://open.spotify.com/track/0fDFaK4A57o4DBiXgwi92o,0fDFaK4A57o4DBiXgwi92o,3.6413888888888885e-05,2024,277,58,251
+Blinded By Love,We Architects,Blinded By Love,2024-09-27,32,https://open.spotify.com/track/7zTMlX6QmcoC6gonUlb7tT,7zTMlX6QmcoC6gonUlb7tT,3.5245833333333334e-05,2024,96,477,102
+Don't Know,Asura Ghai,Don't Know,2024-09-18,32,https://open.spotify.com/track/7iN4ZHxXNv5q3eKnM1kZkm,7iN4ZHxXNv5q3eKnM1kZkm,4.1008055555555556e-05,2024,195,44,179
+Selfish Lover,SAMMY & LESEN,Selfish Lover,2024-09-13,33,https://open.spotify.com/track/4YHUEjro00l8u8BuWr5vVM,4YHUEjro00l8u8BuWr5vVM,4.1111111111111116e-05,2024,656,391,579
+Pieces,KALUMA,Pieces,2024-09-13,34,https://open.spotify.com/track/6mtsrlRavnnUaprrKQtks2,6mtsrlRavnnUaprrKQtks2,3.8888888888888884e-05,2024,589,237,516
+Padam Padam,Ken,Padam Padam,2024-05-03,0,https://open.spotify.com/track/6ea7b6YPN9gLs4jugfFo5j,6ea7b6YPN9gLs4jugfFo5j,3.515194444444444e-05,2024,577,246,510
+Kandy Krush,RezaDead,Kandy Krush,2024-09-30,41,https://open.spotify.com/track/40OiBPascgToVavt65HOov,40OiBPascgToVavt65HOov,2.634527777777778e-05,2024,407,381,367
+2AM,5lowers,2AM,2024-09-06,36,https://open.spotify.com/track/3A3i8B3XJGtf8MDLbA7C2n,3A3i8B3XJGtf8MDLbA7C2n,3.174583333333333e-05,2024,5,6,11
+Down,Arc North,Down,2020-07-02,48,https://open.spotify.com/track/5R5MHlaeRb8g2RSRCQdRmR,5R5MHlaeRb8g2RSRCQdRmR,3.986111111111111e-05,2020,205,36,186
+I Don’t Wanna Wait,Blvck Cobrv,I Don’t Wanna Wait,2024-09-02,40,https://open.spotify.com/track/2Nlus237tJV2EaiFfKm6qn,2Nlus237tJV2EaiFfKm6qn,4.8205000000000003e-05,2024,343,75,311
+Bad News,Pokaraet,Bad News,2024-08-30,32,https://open.spotify.com/track/40Dr7SQB3CrfKydkJhcO8W,40Dr7SQB3CrfKydkJhcO8W,4.4125555555555554e-05,2024,66,366,75
+Feral Bliss,Pop Mage,Feral Bliss,2024-09-20,42,https://open.spotify.com/track/2mnx4umArCuQvPCxLuUpIn,2mnx4umArCuQvPCxLuUpIn,4.363138888888889e-05,2024,246,367,228
+Rain Down On Me,5lowers,Rain Down On Me,2024-08-28,32,https://open.spotify.com/track/0tpipOKA3rlzdOYOtsNwOV,0tpipOKA3rlzdOYOtsNwOV,3.5978333333333334e-05,2024,615,6,544
+Pumped Up Kicks,Dmitrii G,Pumped Up Kicks,2024-08-21,32,https://open.spotify.com/track/6bIEmgdWJAENcvjuu94Bsz,6bIEmgdWJAENcvjuu94Bsz,3.489555555555555e-05,2024,607,136,534
+Not Enough,Daniel Bellomo,Not Enough,2024-08-16,31,https://open.spotify.com/track/3yZjmvMxpBCw0U2VBRY5Ba,3yZjmvMxpBCw0U2VBRY5Ba,4.9864444444444446e-05,2024,544,122,475
+Keep Falling,K3YN0T3,Keep Falling,2024-08-09,40,https://open.spotify.com/track/6AZOqls5Vgz0hwpWFvm3sJ,6AZOqls5Vgz0hwpWFvm3sJ,4.207111111111111e-05,2024,408,236,368
+Lovable Killer,KiLLTEQ,Lovable Killer,2024-08-07,47,https://open.spotify.com/track/6qHgaIEixzL06nEwHBtaYw,6qHgaIEixzL06nEwHBtaYw,3.5000000000000004e-05,2024,456,251,401
+Don't Tell Me,Harddope,Don't Tell Me,2024-08-02,33,https://open.spotify.com/track/6oEAtKjP4iv32iahxTmUD2,6oEAtKjP4iv32iahxTmUD2,3.6065555555555553e-05,2024,199,191,182
+Holy - Radio Mix,GYMBRO,Holy,2024-08-23,53,https://open.spotify.com/track/1pNHscyiGTAAgoTzuqxjkU,1pNHscyiGTAAgoTzuqxjkU,4.279361111111111e-05,2024,321,172,293
+Walk Away,Lost Sky,Walk Away,2024-07-31,37,https://open.spotify.com/track/1MM1ws5k1SmlpRAVZaGjKn,1MM1ws5k1SmlpRAVZaGjKn,5.816888888888888e-05,2024,803,281,725
+We Collide,Van Snyder,We Collide,2024-07-26,37,https://open.spotify.com/track/7aL7nFhZ2LVkMaITdBPJ8I,7aL7nFhZ2LVkMaITdBPJ8I,3.253916666666667e-05,2024,814,473,729
+Play,PHURS,Play,2024-05-15,0,https://open.spotify.com/track/4ioyKIjJTnpTvUhhbpQmCt,4ioyKIjJTnpTvUhhbpQmCt,4.402361111111111e-05,2024,590,358,519
+Sun Goes Down,Magnus Gunn,Sun Goes Down,2024-07-24,31,https://open.spotify.com/track/4plqHL5eQLPlmV4INEcuzI,4plqHL5eQLPlmV4INEcuzI,4.1676111111111115e-05,2024,725,297,627
+Slow It Down,Melodream,Slow It Down,2024-07-17,34,https://open.spotify.com/track/52tC0AVMbmQgZgPCoeVeu7,52tC0AVMbmQgZgPCoeVeu7,3.664611111111111e-05,2024,679,314,598
+One Day,54GODART,One Day,2024-07-05,36,https://open.spotify.com/track/4OnmJFYgIuaH9IPmmEWxW9,4OnmJFYgIuaH9IPmmEWxW9,3.6517500000000004e-05,2024,560,4,490
+Cupid,TEZIS,Cupid,2024-07-03,36,https://open.spotify.com/track/6LuAkbXtkvkR4vvUfIpZYU,6LuAkbXtkvkR4vvUfIpZYU,3.465277777777778e-05,2024,159,433,149
+Get Out Alive,Corm!!,Get Out Alive,2024-08-09,30,https://open.spotify.com/track/3siC3ceMnodBAmogugkign,3siC3ceMnodBAmogugkign,5.7291666666666666e-05,2024,267,111,247
+Favourite Song,Eniru,Favourite Song,2024-06-28,37,https://open.spotify.com/track/763l4E9fHvDqyrPi0IxCcT,763l4E9fHvDqyrPi0IxCcT,4.378305555555555e-05,2024,243,158,224
+Training Season,PACANI,Training Season,2024-06-27,36,https://open.spotify.com/track/3nsTBwqBQMtEsauSsQrnI3,3nsTBwqBQMtEsauSsQrnI3,5.7994444444444444e-05,2024,783,355,701
+Forget Him,Rawanne,Forget Him,2024-06-26,31,https://open.spotify.com/track/0IPtKKYFMLkDluJYT1M9VW,0IPtKKYFMLkDluJYT1M9VW,4.235277777777778e-05,2024,257,377,239
+Get You To The Moon,Twin,Get You To The Moon,2024-06-21,35,https://open.spotify.com/track/02QONrOMSLsmffpJIFbxsv,02QONrOMSLsmffpJIFbxsv,4.010833333333333e-05,2024,268,468,249
+Make It Feel Like Home,5lowers,Make It Feel Like Home,2024-06-19,35,https://open.spotify.com/track/2FwfoBUlpE3gWIyulGYMfZ,2FwfoBUlpE3gWIyulGYMfZ,3.650777777777778e-05,2024,482,6,419
+Dangerous Game,Used,Dangerous Game,2024-07-05,39,https://open.spotify.com/track/6prAk2bdkEmjsWBbxOhM8m,6prAk2bdkEmjsWBbxOhM8m,4.444444444444444e-05,2024,170,471,162
+Spiders,AFROUZEN,Spiders,2024-06-12,33,https://open.spotify.com/track/19mHslHPZNc4MIJY2A1ant,19mHslHPZNc4MIJY2A1ant,3.9153055555555554e-05,2024,695,11,610
+Spot In Hell,MANSA,Spot In Hell,2024-06-07,33,https://open.spotify.com/track/5iNFhUdXkTEQS95HcqfMUW,5iNFhUdXkTEQS95HcqfMUW,4.154222222222222e-05,2024,697,289,611
+Dance Monkey,Goodscandal,Dance Monkey,2024-06-05,37,https://open.spotify.com/track/2QSEvmPPcbwNJkuevmpN5P,2QSEvmPPcbwNJkuevmpN5P,4.3188333333333335e-05,2024,166,179,157
+Feel The Light,Dream Chaos,Feel The Light,2024-06-03,35,https://open.spotify.com/track/3dNBpWFMs0URXltRHcdiw8,3dNBpWFMs0URXltRHcdiw8,3.852222222222221e-05,2024,245,143,227
+God Is A Girl,Ericovich,God Is A Girl,2022-07-04,0,https://open.spotify.com/track/3fSsjh3OqyYf952DQoa5CJ,3fSsjh3OqyYf952DQoa5CJ,3.609194444444444e-05,2022,283,160,255
+You & I,CRÜPO,You & I,2024-05-09,37,https://open.spotify.com/track/3OpDKm2qS44I6LFQS9Gxca,3OpDKm2qS44I6LFQS9Gxca,4.417972222222222e-05,2024,854,87,761
+Heart Dance,Lew Heart,Heart Dance,2024-05-31,32,https://open.spotify.com/track/2bngLgjkrl1ewmoxh0gVUY,2bngLgjkrl1ewmoxh0gVUY,4.863944444444444e-05,2024,304,264,278
+Crazy What Love Can Do,Goodscandal,Crazy What Love Can Do,2024-05-29,33,https://open.spotify.com/track/2Dxi407t6O3UcgOCz0p88R,2Dxi407t6O3UcgOCz0p88R,4.065027777777778e-05,2024,153,179,143
+Back To You,Ben Leuman,Back To You,2024-05-24,35,https://open.spotify.com/track/5HufCYoadzHAYtKd5bnIHh,5HufCYoadzHAYtKd5bnIHh,3.833333333333333e-05,2024,61,65,70
+Believe,BIMONTE,Believe,2024-05-22,39,https://open.spotify.com/track/3hSj8LCHQULmQIkMh2Pct3,3hSj8LCHQULmQIkMh2Pct3,3.4073888888888883e-05,2024,82,54,93
+Pace Of Time,Max Martis,Pace Of Time,2024-05-17,34,https://open.spotify.com/track/6McWPrixUAAoF5f2WCfy5E,6McWPrixUAAoF5f2WCfy5E,4.5238055555555554e-05,2024,576,310,509
+Unholy,Mandrazo,Unholy,2023-03-31,17,https://open.spotify.com/track/24bpS9N85CjkmiHE2wbeWC,24bpS9N85CjkmiHE2wbeWC,4.9087222222222224e-05,2023,790,300,709
+Knight Rider,Alfons,Knight Rider,2022-04-15,0,https://open.spotify.com/track/388Qk5MTCyVQ6eYlX4UF8o,388Qk5MTCyVQ6eYlX4UF8o,4.376472222222222e-05,2022,415,28,374
+Make You Mine,chicago city,Make You Mine,2024-04-26,35,https://open.spotify.com/track/53vEvWGCty93G4IFqntwaB,53vEvWGCty93G4IFqntwaB,4.916805555555555e-05,2024,484,497,422
+Tourner Dans Le Vide,Badscandal,Tourner Dans Le Vide,2023-05-10,1,https://open.spotify.com/track/06JH2mOEyuS3TSWvhdPNe9,06JH2mOEyuS3TSWvhdPNe9,4.462361111111111e-05,2023,781,58,699
+Other Boys,Capri Everitt,Other Boys,2024-04-17,34,https://open.spotify.com/track/0VGsTItSolhZNK49B5mGco,0VGsTItSolhZNK49B5mGco,3.336666666666666e-05,2024,569,91,498
+In My Mind,Nito-Onna,In My Mind,2024-04-19,0,https://open.spotify.com/track/4pcDCywd0so3YEkFnapxCY,4pcDCywd0so3YEkFnapxCY,4.167166666666667e-05,2024,377,344,338
+Greedy,TEZIS,Greedy,2024-05-10,36,https://open.spotify.com/track/2JTsaElTi9znD8qIaIXwoA,2JTsaElTi9znD8qIaIXwoA,3.256666666666667e-05,2024,294,433,265
+In My Mind,LexMorris,In My Mind,2023-07-21,0,https://open.spotify.com/track/4MQLQCRPg6SEsQD2LIKjui,4MQLQCRPg6SEsQD2LIKjui,5.1319444444444444e-05,2023,377,266,338
+INSOMNIA,5UNDER,INSOMNIA,2023-10-26,30,https://open.spotify.com/track/0sNfWQTdVCUCUpwOANLE7f,0sNfWQTdVCUCUpwOANLE7f,4.0256666666666664e-05,2023,366,5,327
+Meltdown,PACANI,Meltdown,2024-05-01,0,https://open.spotify.com/track/6qHJ9I3CatmCgPyDUPj17b,6qHJ9I3CatmCgPyDUPj17b,3.159416666666667e-05,2024,499,355,434
+Water,Goodscandal,Water,2024-04-29,37,https://open.spotify.com/track/2jmFPpLaqFHwIAGnC2VoJy,2jmFPpLaqFHwIAGnC2VoJy,4.2547222222222216e-05,2024,809,179,728
+Running To You,PRIYANX,Running To You,2024-04-26,30,https://open.spotify.com/track/1ScxRU9IdzoVfBcTbcXK9M,1ScxRU9IdzoVfBcTbcXK9M,5.458333333333333e-05,2024,642,359,564
+Murder,Maria Beyer,Murder,2024-03-01,0,https://open.spotify.com/track/2k73WHDLp5miZABU0p5Vsh,2k73WHDLp5miZABU0p5Vsh,5.323138888888889e-05,2024,518,302,450
+Smooth Talker,MANSA,Smooth Talker,2024-04-24,34,https://open.spotify.com/track/3siVO0J69r4aT1pvLliihw,3siVO0J69r4aT1pvLliihw,5.0191388888888886e-05,2024,680,289,600
+Never Coming Back,Yohan Gerber,Never Coming Back,2023-11-22,0,https://open.spotify.com/track/3c4gsWGItDLKjmt2TTfrAo,3c4gsWGItDLKjmt2TTfrAo,3.8061388888888886e-05,2023,532,486,464
+I Like It,STICKY KEY,I Like It,2024-04-12,34,https://open.spotify.com/track/3sbumXc8rJWxkuwLYgpmNB,3sbumXc8rJWxkuwLYgpmNB,4.875555555555555e-05,2024,347,395,313
+Waiting For Love,Medusa,Waiting For Love,2024-04-10,0,https://open.spotify.com/track/7q4fQcQ6Cg6t7YSjEN985H,7q4fQcQ6Cg6t7YSjEN985H,4.3753888888888886e-05,2024,801,311,723
+Addicted To You,Yooniq,Addicted To You,2024-05-02,30,https://open.spotify.com/track/2q8YVcMTQxffFAreMnDbKO,2q8YVcMTQxffFAreMnDbKO,3.9466666666666666e-05,2024,18,487,32
+Tattoo,Medusa,Tattoo,2024-04-03,0,https://open.spotify.com/track/3PZvmAYQXvBT8vgq1FPTe2,3PZvmAYQXvBT8vgq1FPTe2,3.968666666666667e-05,2024,743,311,647
+Heartbreaker,Marco Nobel,Heartbreaker,2024-05-02,33,https://open.spotify.com/track/3Ab6itUK4YvMO4xQntAkdz,3Ab6itUK4YvMO4xQntAkdz,3.9973888888888885e-05,2024,307,301,281
+Whistle,54GODART,Whistle,2024-03-27,36,https://open.spotify.com/track/4OgcRzUp2nzHg5G37mYpxU,4OgcRzUp2nzHg5G37mYpxU,4.1666666666666665e-05,2024,836,4,741
+Diamonds,Twin,Diamonds,2024-03-20,0,https://open.spotify.com/track/3dtJ55Ach87WnkZE6b76Aj,3dtJ55Ach87WnkZE6b76Aj,4.340277777777777e-05,2024,185,468,172
+What It Is,PACANI,What It Is,2024-02-21,0,https://open.spotify.com/track/02ldEwkyBMwWI4C05FLOJ9,02ldEwkyBMwWI4C05FLOJ9,3.191111111111111e-05,2024,825,355,736
+Cruel Summer,PACANI,Cruel Summer,2024-02-09,0,https://open.spotify.com/track/5zXtN3gwP7MKSJVhNqCZw5,5zXtN3gwP7MKSJVhNqCZw5,4.256944444444444e-05,2024,154,355,144
+Desire,LØST SIGNAL,Desire,2024-02-16,0,https://open.spotify.com/track/5S4HHmkFzF0CKWSb74Il6d,5S4HHmkFzF0CKWSb74Il6d,4.323027777777778e-05,2024,181,286,171
+Unstoppable,Twin,Unstoppable,2024-02-14,0,https://open.spotify.com/track/1mpPYC2iqcRW0bR6PQQyK8,1mpPYC2iqcRW0bR6PQQyK8,3.988583333333333e-05,2024,791,468,710
+Chemical,PACANI,Chemical,2024-02-07,0,https://open.spotify.com/track/4Ehj6SQPQexxqHVaDwUpU9,4Ehj6SQPQexxqHVaDwUpU9,3.072444444444444e-05,2024,132,355,128
+Maps,LexMorris,Maps,2024-02-02,0,https://open.spotify.com/track/382Pxisn0OCFwSDfdcu7hl,382Pxisn0OCFwSDfdcu7hl,3.94825e-05,2024,486,266,426
+Wish You The Best,Mentol,Wish You The Best,2024-01-31,0,https://open.spotify.com/track/6yvESUAgTaY3Ht8POlCKyS,6yvESUAgTaY3Ht8POlCKyS,5.559e-05,2024,842,315,750
+Take Two,SANDICE,Take Two,2024-03-13,33,https://open.spotify.com/track/2pIlvPBnCIvTWZzQEB4qi0,2pIlvPBnCIvTWZzQEB4qi0,4.375e-05,2024,738,392,640
+Toxic,Badscandal,Toxic,2023-12-08,0,https://open.spotify.com/track/4vltnXuPOC20fiamVt2k6b,4vltnXuPOC20fiamVt2k6b,3.916083333333333e-05,2023,782,58,700
+Strangers,Goodscandal,Strangers,2024-03-06,0,https://open.spotify.com/track/5nwhOWdIRJbKNsElLPDADo,5nwhOWdIRJbKNsElLPDADo,5.155027777777778e-05,2024,713,179,618
+House Of The Rising Sun,Harddope,House Of The Rising Sun,2023-10-20,0,https://open.spotify.com/track/31mgz2xpyiAWCF1lUSpRFd,31mgz2xpyiAWCF1lUSpRFd,4.907388888888888e-05,2023,328,191,298
+Times,MOHA,Times,2023-08-23,0,https://open.spotify.com/track/7HNgJIMInpENnM1s5bkVqb,7HNgJIMInpENnM1s5bkVqb,5.236833333333334e-05,2023,775,291,693
+Love Tonight,Yellow Pvnk,Love Tonight,2024-01-26,0,https://open.spotify.com/track/4w2JOoeCKXeeKk8B9RJdXx,4w2JOoeCKXeeKk8B9RJdXx,3.862527777777778e-05,2024,467,485,405
+Prisoner,Badscandal,Prisoner,2023-09-08,0,https://open.spotify.com/track/19jPdSwjman125tEcnV1CW,19jPdSwjman125tEcnV1CW,4.1666666666666665e-05,2023,605,58,532
+I'm Not Sorry,Scity,I'm Not Sorry,2023-10-12,30,https://open.spotify.com/track/24pnXiaLozmBLjI1e21gkV,24pnXiaLozmBLjI1e21gkV,4.43025e-05,2023,361,406,324
+Baby Don't Hurt Me,Harddope,Baby Don't Hurt Me,2024-01-05,0,https://open.spotify.com/track/3tyz9UYdWTiOp6ynpWMQ4x,3tyz9UYdWTiOp6ynpWMQ4x,3.697888888888888e-05,2024,59,191,69
+Numb,Nito-Onna,Numb,2023-09-22,0,https://open.spotify.com/track/4E54cBjkdaS8LzuLRBUnb6,4E54cBjkdaS8LzuLRBUnb6,5.875e-05,2023,550,344,482
+Collide,Badscandal,Collide,2023-11-03,0,https://open.spotify.com/track/5rtPyuhgDuiTWpIn3Rx1Vf,5rtPyuhgDuiTWpIn3Rx1Vf,3.5156111111111116e-05,2023,139,58,135
+Flowers,Badscandal,Flowers,2023-04-03,0,https://open.spotify.com/track/0DgBCBIG5IQ04XsKcPaQvt,0DgBCBIG5IQ04XsKcPaQvt,5.1074999999999995e-05,2023,253,58,235
+7 Rings,Badscandal,7 Rings,2023-09-27,0,https://open.spotify.com/track/6A4Mv4XAe3QPv5hw8dUb1W,6A4Mv4XAe3QPv5hw8dUb1W,3.6190277777777774e-05,2023,9,58,14
+I’m Blue,B Martin,I’m Blue,2023-04-10,0,https://open.spotify.com/track/2uj0n4AAusMZ5CUBnyqFD2,2uj0n4AAusMZ5CUBnyqFD2,4.0625e-05,2023,393,50,354
+Lonely,Yellow Pvnk,Lonely,2023-07-05,0,https://open.spotify.com/track/009bhAALBbxhouebgFpbvN,009bhAALBbxhouebgFpbvN,3.7535833333333334e-05,2023,446,485,397
+Falling Down,Yellow Pvnk,Falling Down,2023-06-23,0,https://open.spotify.com/track/52EQUcRiDqxjcj9vTHL38r,52EQUcRiDqxjcj9vTHL38r,3.8571388888888886e-05,2023,240,485,221
+Stereo Hearts,EQRIC,Stereo Hearts,2023-01-20,5,https://open.spotify.com/track/2aEAAUhIt2Vii8eynSgcU4,2aEAAUhIt2Vii8eynSgcU4,3.6448333333333335e-05,2023,705,148,615
+Let Me Love You,EQRIC,Let Me Love You,2021-03-18,5,https://open.spotify.com/track/5Boge0upxODhs491LWtAwl,5Boge0upxODhs491LWtAwl,3.923472222222222e-05,2021,431,148,388
+All Night (BeTheMeister Edit),Vanillaz,All Night (BeTheMeister Edit),2023-07-27,30,https://open.spotify.com/track/58eczM0KR35OQN0WXSEwee,58eczM0KR35OQN0WXSEwee,4.878027777777778e-05,2023,30,474,41
+Lily,ISAEV,Lily,2023-02-24,0,https://open.spotify.com/track/4tVhDkvh6N4lrTyNeZHYuz,4tVhDkvh6N4lrTyNeZHYuz,4.286833333333333e-05,2023,440,197,393
+Apologize,Besomorph,Apologize,2020-05-08,5,https://open.spotify.com/track/0Uo43DNldd7aNxizhKgowg,0Uo43DNldd7aNxizhKgowg,4.07225e-05,2020,44,68,53
+I’m Good,Yohan Gerber,I’m Good,2023-05-19,0,https://open.spotify.com/track/2aZL4EjY5aPKWTO7RKuWiy,2aZL4EjY5aPKWTO7RKuWiy,3.96e-05,2023,394,486,355
+Down,Arc North,Down,2020-07-02,1,https://open.spotify.com/track/6nQZG4G0vIrQWaCGbqHCQn,6nQZG4G0vIrQWaCGbqHCQn,3.986111111111111e-05,2020,205,36,186
+Chandelier,Besomage,Chandelier,2023-01-04,0,https://open.spotify.com/track/1Ea8I3MoGx36FfAmrjzo1r,1Ea8I3MoGx36FfAmrjzo1r,3.826083333333334e-05,2023,128,67,126
